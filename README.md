@@ -16,7 +16,7 @@ This repository is currently under construction. The source code for the experim
 
 ## Citation
 
-If you find our work useful in your research, please consider citing our paper:
+If you find our work interesting, please consider citing our paper (will be updated upon publication of the conference proceedings):
 ```
 @article{lu2023highquality,
   title={High-Quality Automatic Voice Over with Accurate Alignment: Supervision through Self-Supervised Discrete Speech Units},
