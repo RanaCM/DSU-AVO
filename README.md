@@ -10,9 +10,28 @@ The goal of Automatic Voice Over (AVO) is to generate speech in sync with a sile
 
 Voice over video samples are available [here](https://ranacm.github.io/DSU-AVO/).
 
-## Source Code
+## Getting Started
 
-This repository is currently under construction. The source code for the experiments described in the paper will be made publicly available very soon. We appreciate your patience and interest in our work.
+### Prerequisites
+
+* Python >= 3.6
+* PyTorch v1.7
+* Install dependencies
+  ```bash
+  git clone https://github.com/ranacm/DSU-AVO.git
+  cd DSU-AVO
+  pip install -r requirements.txt
+  ```
+### Data Preparation
+- The full list of Chem dataset can be found at [Lip2Wav dataset](https://github.com/Rudrabha/Lip2Wav/tree/master/Dataset). Download and preprocess the dataset follow [Neural Dubber paper](https://arxiv.org/abs/2110.08243). For preprocessed data, please send an inquiry to the author at junchen@u.nus.edu.
+- To quantize the speech audio data with HuBERT, follow the instructions described in the [GSLM code](https://github.com/pytorch/fairseq/tree/master/examples/textless_nlp/gslm).
+- For visual data preparation, follow the instructions described in [AV-HuBERT preparation](https://github.com/facebookresearch/av_hubert/tree/main/avhubert/preparation).
+
+### Unit Vocoder
+- To train the unit vocoder with Chem dataset follow the instructions described in the [Speech Resynthesis code](https://github.com/facebookresearch/speech-resynthesis). Unit vocoder config and pretrained model are provided at ```unit_vocoder```.
+
+## Training
+This repository is currently under construction. The source code for  experiments described in our paper will be made publicly available very soon. We appreciate your patience and interest in our work.
 
 ## Citation
 
@@ -25,3 +44,6 @@ If you find our work interesting, please consider citing our paper (will be upda
   year={2023}
 }
 ```
+## References
+- [ming024's FastSpeech2 implementation](https://github.com/ming024/FastSpeech2/tree/master)
+- [Speech Resynthesis](https://github.com/facebookresearch/speech-resynthesis)
