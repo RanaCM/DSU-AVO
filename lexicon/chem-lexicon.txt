@@ -1,0 +1,3539 @@
+if	IH1 F
+i	AY1
+have	HH AE1 V
+below	B IH0 L OW1
+the	DH AH0
+critical	K R IH1 T IH0 K AH0 L
+point	P OY1 N T
+this	DH IH1 S
+temperature	T EH1 M P R AH0 CH ER0
+then	DH EH1 N
+can	K AE1 N
+phase	F EY1 Z
+transitions	T R AE0 N Z IH1 SH AH0 N Z
+so	S OW1
+intensity	IH0 N T EH1 N S AH0 T IY0
+distribution	D IH2 S T R AH0 B Y UW1 SH AH0 N
+is	IH1 Z
+just	JH AH1 S T
+like	L AY1 K
+a	AH0
+probability	P R AA2 B AH0 B IH1 L AH0 T IY0
+it	IH1 T
+were	W ER0
+particles	P AA1 R T AH0 K AH0 L Z
+when	W EH1 N
+more	M AO1 R
+than	DH AE1 N
+one	W AH1 N
+electron	IH0 L EH1 K T R AA0 N
+around	ER0 AW1 N D
+an	AE1 N
+atom	AE1 T AH0 M
+those	DH OW1 Z
+electrons	IH0 L EH1 K T R AA0 N Z
+set	S EH1 T
+of	AH1 V
+four	F AO1 R
+quantum	K W AA1 N T AH0 M
+numbers	N AH1 M B ER0 Z
+on	AA1 N
+side	S AY1 D
+to	T UW1
+break	B R EY1 K
+mole	M OW1 L
+oxygenoxygen	AA2 K S IH0 JH AH0 G N EY1 S K IY0
+bonds	B AA1 N D Z
+they're	DH EH1 R
+called	K AO1 L D
+amino	AH0 M IY1 N OW0
+acids	AE1 S AH0 D Z
+because	B IH0 K AO1 Z
+each	IY1 CH
+has	HH AE1 Z
+group	G R UW1 P
+and	AH0 N D
+acid	AE1 S AH0 D
+here's	HH IH1 R Z
+ninetydegree	N AY1 N T IH0 JH IH0 N T IY0
+bond	B AA1 N D
+angle	AE1 NG G AH0 L
+between	B IH0 T W IY1 N
+green	G R IY1 N
+yellow	Y EH1 L OW0
+but	B AH1 T
+greens	G R IY1 N Z
+are	AA1 R
+hundred	HH AH1 N D R AH0 D
+twenty	T W EH1 N T IY0
+degrees	D IH0 G R IY1 Z
+positive	P AA1 Z AH0 T IH0 V
+contribution	K AA2 N T R AH0 B Y UW1 SH AH0 N
+smaller	S M AO1 L ER0
+negative	N EH1 G AH0 T IH0 V
+overall	OW1 V ER0 AO2 L
+delta	D EH1 L T AH0
+g	JH IY1
+elements	EH1 L AH0 M AH0 N T S
+that	DH AE1 T
+larger	L AA1 R JH ER0
+nuclei	N UW1 K L IY0 AY2
+higher	HH AY1 ER0
+principle	P R IH1 N S AH0 P AH0 L
+levels	L EH1 V AH0 L Z
+they	DH EY1
+access	AE1 K S EH2 S
+let's	L EH1 T S
+say	S EY1
+i'm	AY1 M
+going	G OW1 IH0 NG
+bake	B EY1 K
+cake	K EY1 K
+in	IH0 N
+my	M AY1
+oven	AH1 V AH0 N
+know	N OW1
+takes	T EY1 K S
+half	HH AE1 F
+hour	AW1 ER0
+bring	B R IH1 NG
+three	TH R IY1
+twentyfive	T W EH1 N T IH0 F AY2 V
+that's	DH AE1 T S
+what	W AH1 T
+titration	T AY0 T R EY1 SH AH0 N
+it's	IH1 T S
+minus	M AY1 N AH0 S
+rydbergs	R IH1 D B ER0 G Z
+some	S AH1 M
+moving	M UW1 V IH0 NG
+parallel	P EH1 R AH0 L EH2 L
+wall	W AO1 L
+away	AH0 W EY1
+from	F R AH1 M
+we	W IY1
+ignite	IH0 G N AY1 T
+chemical	K EH1 M AH0 K AH0 L
+reaction	R IY0 AE1 K SH AH0 N
+goes	G OW1 Z
+very	V EH1 R IY0
+rapidly	R AE1 P AH0 D L IY0
+isomerisation	IH2 Z OW0 M EH2 S T ER0 IH0 ZH EY1 N IY0
+propanol	P R AH0 P AE1 N AH0 L
+isopropanol	AY2 S AH0 P R AA1 P AH0 N AH0 L
+endothermic	EH2 N D OW0 TH ER1 M IH0 K
+determines	D AH0 T ER1 M AH0 N Z
+identity	AY0 D EH1 N T AH0 T IY0
+again	AH0 G EH1 N
+lobes	L OW1 B Z
+obscured	AH0 B S K Y UH1 R D
+m	EH1 M
+sub	S AH1 B
+l	EH1 L
+equals	IY1 K W AH0 L Z
+zero	Z IH1 R OW0
+already	AO0 L R EH1 D IY0
+neatly	N IY1 T L IY0
+lies	L AY1 Z
+along	AH0 L AO1 NG
+zaxis	Z AE1 K S IH0 S
+add	AE1 D
+these	DH IY1 Z
+two	T UW1
+together	T AH0 G EH1 DH ER0
+do	D UW1
+oxygen	AA1 K S AH0 JH AH0 N
+accommodate	AH0 K AA1 M AH0 D EY2 T
+things	TH IH1 NG Z
+steric	S T EH1 R IH0 K
+number	N AH1 M B ER0
+will	W IH1 L
+spthree	S P R IY1 TH
+hybridize	HH AY1 B R AH0 D AY2 Z
+effect	IH0 F EH1 K T
+buffer	B AH1 F ER0
+solution	S AH0 L UW1 SH AH0 N
+would	W UH1 D
+be	B IY1
+atomizing	T AE1 M AH0 Z IH0 NG Z
+solid	S AA1 L AH0 D
+graphite	G R AE1 F AY2 T
+into	IH0 N T UW1
+carbon	K AA1 R B AH0 N
+atoms	AE1 T AH0 M Z
+gas	G AE1 S
+concentrated	K AA1 N S AH0 N T R EY2 T AH0 D
+not	N AA1 T
+as	AE1 Z
+now	N AW1
+there's	DH EH1 R Z
+properties	P R AA1 P ER0 T IY0 Z
+electromagnetic	IH0 L EH2 K T R OW0 M AE0 G N EH1 T IH0 K
+radiation	R EY2 D IY0 EY1 SH AH0 N
+waves	W EY1 V Z
+general	JH EH1 N ER0 AH0 L
+practically	P R AE1 K T AH0 K L IY0
+usually	Y UW1 ZH AH0 W AH0 L IY0
+means	M IY1 N Z
+you	Y UW1
+process	P R AA1 S EH2 S
+quickly	K W IH1 K L IY0
+work	W ER1 K
+heat	HH IY1 T
+flow	F L OW1
+always	AO1 L W EY2 Z
+time	T AY1 M
+question	K W EH1 S CH AH0 N
+how	HH AW1
+does	D AH1 Z
+hybridization	HH AY2 B R AH0 D AH0 Z EY1 SH AH0 N
+change	CH EY1 N JH
+calculate	K AE1 L K Y AH0 L EY2 T
+kb	K IY1
+we're	W IY1 R
+comparing	K AH0 M P EH1 R IH0 NG
+hydrogen	HH AY1 D R AH0 JH AH0 N
+helium	HH IY1 L IY0 AH0 M
+plus	P L AH1 S
+ions	AY1 AH0 N Z
+both	B OW1 TH
+systems	S IH1 S T AH0 M Z
+use	Y UW1 S
+internal	IH0 N T ER1 N AH0 L
+energy	EH1 N ER0 JH IY0
+down	D AW1 N
+function	F AH1 NG K SH AH0 N
+empirical	EH2 M P IH1 R IH0 K AH0 L
+molecular	M AH0 L EH1 K Y AH0 L ER0
+formula	F AO1 R M Y AH0 L AH0
+same	S EY1 M
+here	HH IY1 R
+at	AE1 T
+vertex	V ER1 T EH2 K S
+there	DH EH1 R
+must	M AH1 S T
+third	TH ER1 D
+endpoint	EH1 N D P OY2 N T
+where	W EH1 R
+i've	AY1 V
+removed	R IY0 M UW1 V D
+all	AO1 L
+protons	P R OW1 T AA2 N Z
+form	F AO1 R M
+exclusively	IH0 K S K L UW1 S IH0 V L IY0
+completely	K AH0 M P L IY1 T L IY0
+deprotonated	D EH1 P R AH0 T EY2 T AH0 N D
+tiny	T AY1 N IY0
+joules	JH UW1 L Z
+free	F R IY1
+most	M OW1 S T
+stable	S T EY1 B AH0 L
+state	S T EY1 T
+attached	AH0 T AE1 CH T
+becomes	B IH0 K AH1 M Z
+basic	B EY1 S IH0 K
+which	W IH1 CH
+makes	M EY1 K S
+sense	S EH1 N S
+you're	Y UH1 R
+adding	AE1 D IH0 NG
+base	B EY1 S
+kinetic	K AH0 N EH1 T IH0 K
+there'll	DH EH1 R AH0 L
+ionic	AY0 AA1 N IH0 K
+formation	F AO0 R M EY1 SH AH0 N
+ratio	R EY1 SH IY0 OW2
+metal	M EH1 T AH0 L
+chlorine	K L AO1 R IY0 N
+y	W AY1
+x	EH1 K S
+that'll	DH AE1 T AH0 L
+allow	AH0 L AW1
+us	AH1 S
+predict	P R IH0 D IH1 K T
+them	DH EH1 M
+versus	V ER1 S AH0 S
+way	W EY1
+we'll	W IY1 L
+define	D IH0 F AY1 N
+rate	R EY1 T
+concentration	K AA2 N S AH0 N T R EY1 SH AH0 N
+over	OW1 V ER0
+expressions	IH0 K S P R EH1 SH AH0 N Z
+for	F AO1 R
+photon	F OW1 T AA2 N
+relativistic	R EH2 L AH0 T IH0 V IH1 S T IH0 K
+c	S IY1
+squared	S K W EH1 R D
+strength	S T R EH1 NG K TH
+should	SH UH1 D
+talking	T AO1 K IH0 NG
+about	AH0 B AW1 T
+ten	T EH1 N
+grams	G R AE1 M Z
+water	W AO1 T ER0
+product	P R AA1 D AH0 K T
+reactant	R IY0 AE1 K T AH0 N T
+concentrations	K AA2 N S AH0 N T R EY1 SH AH0 N Z
+slightly	S L AY1 T L IY0
+ph	P IY1 EY1 CH
+dropping	D R AA1 P IH0 NG
+high	HH AY1
+light	L AY1 T
+bright	B R AY1 T
+think	TH IH1 NG K
+ocean	OW1 SH AH0 N
+their	DH EH1 R
+height	HH AY1 T
+come	K AH1 M
+shore	SH AO1 R
+orbital	AO1 R B AH0 T AH0 L
+picture	P IH1 K CH ER0
+powerful	P AW1 ER0 F AH0 L
+determining	D IH0 T ER1 M AH0 N IH0 NG
+property	P R AA1 P ER0 T IY0
+lewis	L UW1 IH0 S
+dot	D AA1 T
+structure	S T R AH1 K CH ER0
+you've	Y UW1 V
+used	Y UW1 Z D
+relative	R EH1 L AH0 T IH0 V
+mass	M AE1 S
+match	M AE1 CH
+up	AH1 P
+nuts	N AH1 T S
+bolts	B OW1 L T S
+much	M AH1 CH
+massive	M AE1 S IH0 V
+fiftyfive	F IH1 F T AY2 F IH0 V
+moles	M OW1 L Z
+lead	L EH1 D
+aluminum	AH0 L UW1 M AH0 N AH0 M
+write	R AY1 T
+htwo	T W OW1
+molecules	M AA1 L AH0 K Y UW2 L Z
+breaking	B R EY1 K IH0 NG
+fives	F AY1 V Z
+thirtysix	TH ER1 T IH0 S K IY2 S
+internuclear	IH2 N T ER0 N AH1 K L IH0 R
+axis	AE1 K S AH0 S
+nodes	N OW1 D Z
+density	D EH1 N S AH0 T IY0
+above	AH0 B AH1 V
+everything	EH1 V R IY0 TH IH2 NG
+rings	R IH1 NG Z
+true	T R UW1
+interesting	IH1 N T R AH0 S T IH0 NG
+rather	R AE1 DH ER0
+spanning	S P AE1 N IH0 NG
+span	S P AE1 N
+absorb	AH0 B Z AO1 R B
+overcome	OW1 V ER0 K AH2 M
+intermolecular	IH2 N T ER0 M AH0 L EH1 K Y AH0 L ER0
+interactions	IH2 N T ER0 AE1 K SH AH0 N Z
+become	B IH0 K AH1 M
+outer	AW1 T ER0
+fourp	F AW1 R P
+sees	S IY1 Z
+charge	CH AA1 R JH
+atp	EY1 T IY1 P IY1
+hydrolysis	HH AY0 D R AA1 L AH0 S AH0 S
+adp	AE1 D P IY1 EH1 F
+releases	R IH0 L IY1 S IH0 Z
+look	L UH1 K
+enthalpy	IH0 N TH AE1 L P IY0
+scale	S K EY1 L
+compounds	K AA1 M P AW0 N D Z
+enthalpically	IH0 N T AA1 L P IH0 K AH0 L IY0
+standard	S T AE1 N D ER0 D
+said	S EH1 D
+looks	L UH1 K S
+delocalize	D EH1 L AH0 K AH0 L AY2 Z
+length	L EH1 NG K TH
+molecule	M AA1 L AH0 K Y UW2 L
+paramagnetic	P AE2 R AH0 M AE2 G N EH1 T IH0 K
+hi	HH AY1
+something	S AH1 M TH IH0 NG
+didn't	D IH1 D AH0 N T
+unpaired	AH0 N P AY1 R D
+even	IY1 V IH0 N
+without	W IH0 TH AW1 T
+knowing	N OW1 IH0 NG
+tell	T EH1 L
+formations	F AO0 R M EY1 SH AH0 N Z
+exothermic	EH2 K S OW0 TH ER1 M IH0 K
+limiting	L IH1 M AH0 T IH0 NG
+conditions	K AH0 N D IH1 SH AH0 N Z
+don't	D OW1 N T
+often	AO1 F AH0 N
+go	G OW1
+shield	SH IY1 L D
+nuclear	N UW1 K L IY0 ER0
+see	S IY1
+level	L EH1 V AH0 L
+give	G IH1 V
+frequency	F R IY1 K W AH0 N S IY0
+lines	L AY1 N Z
+low	L OW1
+well	W EH1 L
+we've	W IY1 V
+increased	IH0 N K R IY1 S T
+equilibrium	IY2 K W AH0 L IH1 B R IY0 AH0 M
+constant	K AA1 N S T AH0 N T
+only	OW1 N L IY0
+vapor	V EY1 P ER0
+pressure	P R EH1 SH ER0
+could	K UH1 D
+boiling	B OY1 L IH0 NG
+definition	D EH2 F AH0 N IH1 SH AH0 N
+ionization	AY2 AH0 N AH0 Z EY1 SH AH0 N
+diatomic	D AY2 AH0 T AA1 M IH0 K
+or	AO1 R
+log	L AO1 G
+hthreeo	TH AO1 R IY0
+eight	EY1 T
+thirtyseven	TH ER1 T IH0 S V IH2 N
+can't	K AE1 N T
+push	P UH1 SH
+top	T AA1 P
+other	AH1 DH ER0
+pka	P IY1 K
+predominates	P R IH0 D AA1 M AH0 N EY2 T S
+describe	D IH0 S K R AY1 B
+mechanically	M AH0 K AE1 N IH0 K L IY0
+take	T EY1 K
+atomic	AH0 T AA1 M IH0 K
+orbitals	AO1 R B AH0 T AH0 L Z
+recombine	R IY2 K AH0 M B AY1 N
+slope	S L OW1 P
+expect	IH0 K S P EH1 K T
+pass	P AE1 S
+through	TH R UW1
+doubly	D AH1 B L IY0
+it'll	IH1 T AH0 L
+also	AO1 L S OW0
+spherically	S F EH1 R IH0 K AH0 L IY0
+symmetric	S IH0 M EH1 T R IH0 K
+reactions	R IY0 AE1 K SH AH0 N Z
+proceed	P R AH0 S IY1 D
+energies	EH1 N ER0 JH IY0 Z
+products	P R AA1 D AH0 K T S
+reactants	R IY0 AE1 K T AH0 N T S
+make	M EY1 K
+intense	IH0 N T EH1 N S
+nothing	N AH1 TH IH0 NG
+happens	HH AE1 P AH0 N Z
+been	B IH1 N
+brightness	B R AY1 T N AH0 S
+terms	T ER1 M Z
+attenuating	AH0 T EH1 N Y UW0 EY2 T IH0 NG
+reducing	R AH0 D UW1 S IH0 NG
+with	W IH1 DH
+filter	F IH1 L T ER0
+specific	S P AH0 S IH1 F IH0 K
+case	K EY1 S
+kind	K AY1 N D
+behaves	B IH0 HH EY1 V Z
+greater	G R EY1 T ER0
+average	AE1 V ER0 IH0 JH
+velocity	V AH0 L AA1 S AH0 T IY0
+fact	F AE1 K T
+strongly	S T R AO1 NG L IY0
+related	R IH0 L EY1 T IH0 D
+capacity	K AH0 P AE1 S AH0 T IY0
+system	S IH1 S T AH0 M
+help	HH EH1 L P
+determine	D AH0 T ER1 M AH0 N
+diagrams	D AY1 AH0 G R AE2 M Z
+hetwo	HH EH1 T W OW1
+litwo	L IH1 T W OW0
+appropriate	AH0 P R OW1 P R IY0 AH0 T
+couple	K AH1 P AH0 L
+titrations	T AY0 T R EY1 SH AH0 N Z
+equivalence	IH0 K W IH1 V AH0 L AH0 N S
+end	EH1 N D
+line	L AY1 N
+transition	T R AE0 N Z IH1 SH AH0 N
+twoone	T W UW1 N
+notwo	N AA1 T W OW1
+fewer	F Y UW1 ER0
+normally	N AO1 R M AH0 L IY0
+oxidation	AA2 K S AH0 D EY1 SH AH0 N
+too	T UW1
+many	M EH1 N IY0
+strong	S T R AO1 NG
+react	R IY0 AE1 K T
+oh	OW1
+quite	K W AY1 T
+hendersonhasselbalch	HH EH1 N D ER0 S AH0 N S AA2 F AH0 N
+expression	IH0 K S P R EH1 SH AH0 N
+allows	AH0 L AW1 Z
+throughout	TH R UW0 AW1 T
+region	R IY1 JH AH0 N
+liquid	L IH1 K W AH0 D
+reflected	R AH0 F L EH1 K T AH0 D
+spectrum	S P EH1 K T R AH0 M
+peak	P IY1 K
+times	T AY1 M Z
+big	B IH1 G
+twelve	T W EH1 L V
+thirteen	TH ER1 T IY1 N
+twopy	T W AA1 P IY0
+maximum	M AE1 K S AH0 M AH0 M
+occurs	AH0 K ER1 Z
+yaxis	Y AE1 K S IH0 S
+want	W AA1 N T
+strongest	S T R AO1 NG G AH0 S T
+ratios	R EY1 SH IY0 OW2 Z
+far	F AA1 R
+apart	AH0 P AA1 R T
+get	G EH1 T
+released	R IY0 L IY1 S T
+cool	K UW1 L
+first	F ER1 S T
+second	S EH1 K AH0 N D
+bigger	B IH1 G ER0
+carefully	K EH1 R F AH0 L IY0
+apply	AH0 P L AY1
+your	Y AO1 R
+rules	R UW1 L Z
+allowed	AH0 L AW1 D
+you'll	Y UW1 L
+tetrahedral	T EH2 T R AH0 HH IY1 D R AH0 L
+arrangement	ER0 EY1 N JH M AH0 N T
+i'd	AY1 D
+vertices	V ER1 T IH0 S IH0 Z
+tetrahedron	T EH2 T R AH0 HH IY1 D R AH0 N
+keep	K IY1 P
+hitting	HH IH1 T IH0 NG
+photons	F OW1 T AA2 N Z
+until	AH0 N T IH1 L
+bap	B AE1 P
+sodium	S OW1 D IY0 AH0 M
+stops	S T AA1 P S
+course	K AO1 R S
+conserved	K AH0 N S ER1 V D
+kilograms	K IH1 L AH0 G R AE2 M Z
+put	P UH1 T
+masses	M AE1 S AH0 Z
+equations	IH0 K W EY1 ZH AH0 N Z
+pounds	P AW1 N D Z
+random	R AE1 N D AH0 M
+unit	Y UW1 N AH0 T
+care	K EH1 R
+else	EH1 L S
+nucleus	N UW1 K L IY0 AH0 S
+simplified	S IH1 M P L AH0 F AY2 D
+little	L IH1 T AH0 L
+interested	IH1 N T R AH0 S T AH0 D
+lot	L AA1 T
+formal	F AO1 R M AH0 L
+charges	CH AA1 R JH AH0 Z
+nice	N AY1 S
+lesser	L EH1 S ER0
+electronegative	IH0 L EH2 K T R OW0 AE1 N T IH0 G AH0 T
+element	EH1 L AH0 M AH0 N T
+correct	K ER0 EH1 K T
+answer	AE1 N S ER0
+neutral	N UW1 T R AH0 L
+looking	L UH1 K IH0 NG
+forming	F AO1 R M IH0 NG
+under	AH1 N D ER0
+sets	S EH1 T S
+circumstances	S ER1 K AH0 M S T AE2 N S AH0 Z
+simple	S IH1 M P AH0 L
+b	B IY1
+calculation	K AE2 L K Y AH0 L EY1 SH AH0 N
+difference	D IH1 F ER0 AH0 N S
+combustion	K AH0 M B AH1 S CH AH0 N
+glucose	G L UW1 K OW2 S
+likely	L AY1 K L IY0
+weren't	W ER1 AH0 N T
+given	G IH1 V AH0 N
+reagents	R IY0 EY1 JH AH0 N T S
+remember	R IH0 M EH1 M B ER0
+n	EH1 N
+our	AW1 ER0
+liquidtogas	L IH0 K W IH1 T G OW0 D AA2 Z
+ask	AE1 S K
+values	V AE1 L Y UW0 Z
+talk	T AO1 K
+neon	N IY1 AA0 N
+argon	AA1 R G AA2 N
+closed	K L OW1 Z D
+shell	SH EH1 L
+octet	AA0 K T EH1 T
+filters	F IH1 L T ER0 Z
+blue	B L UW1
+object	AH0 B JH EH1 K T
+conversion	K AH0 N V ER1 ZH AH0 N
+factors	F AE1 K T ER0 Z
+units	Y UW1 N AH0 T S
+dimensions	D IH0 M EH1 N SH AH0 N Z
+dimension	D IH0 M EH1 N SH AH0 N
+another	AH0 N AH1 DH ER0
+ingest	IH0 N JH EH1 S T
+tritium	T R IH1 T IY0 AH0 M
+acts	AE1 K T S
+expelled	IH0 K S P EH1 L D
+body	B AA1 D IY0
+relatively	R EH1 L AH0 T IH0 V L IY0
+balloon	B AH0 L UW1 N
+rms	R AH1 M Z
+six	S IH1 K S
+position	P AH0 Z IH1 SH AH0 N
+identical	AY0 D EH1 N T IH0 K AH0 L
+angles	AE1 NG G AH0 L Z
+absorbed	AH0 B Z AO1 R B D
+baseball	B EY1 S B AO1 L
+size	S AY1 Z
+macroscopic	M AE2 R K OW0 S K AA1 P IH0 K
+natural	N AE1 CH ER0 AH0 L
+vsepr	V EH1 S P ER0
+better	B EH1 T ER0
+energetically	EH2 N ER0 JH EH1 T IH0 K L IY0
+pairs	P EH1 R Z
+space	S P EY1 S
+linear	L IH1 N IY0 ER0
+determined	D IH0 T ER1 M AH0 N D
+by	B AY1
+lnk	EH1 L NG K IY1
+onet	OW0 N EH1 T
+relationship	R IY0 L EY1 SH AH0 N SH IH2 P
+sample	S AE1 M P AH0 L
+volume	V AA1 L Y UW0 M
+they'll	DH EY1 L
+molar	M OW1 L ER0
+doing	D UW1 IH0 NG
+had	HH AE1 D
+barium	B EH1 R IY0 AH0 M
+sulfate	S AH1 L F EY2 T
+pure	P Y UH1 R
+figure	F IH1 G Y ER0
+ksp	K S P IY1
+k	K EY1
+small	S M AO1 L
+actually	AE1 K CH AH0 W AH0 L IY0
+need	N IY1 D
+presence	P R EH1 Z AH0 N S
+dissolved	D IH0 Z AA1 L V D
+twos	T UW1 Z
+node	N OW1 D
+s	EH1 S
+value	V AE1 L Y UW0
+important	IH0 M P AO1 R T AH0 N T
+thing	TH IH1 NG
+five	F AY1 V
+equivalent	IH0 K W IH1 V AH0 L AH0 N T
+d	D IY1
+diparamagnetic	D IH2 P ER0 AE2 M AH0 G R AE1 N T IH0 K
+multiplicative	M AH2 L T P AH0 L IH1 S T IH0 K AH0 P
+less	L EH1 S
+dense	D EH1 N S
+interaction	IH2 N T ER0 AE1 K SH AH0 N
+boil	B OY1 L
+few	F Y UW1
+molders	M OW1 L D ER0 Z
+inner	IH1 N ER0
+information	IH2 N F ER0 M EY1 SH AH0 N
+geometry	JH IY0 AA1 M AH0 T R IY0
+held	HH EH1 L D
+extreme	IH0 K S T R IY1 M
+polarity	P OW0 L EH1 R AH0 T IY0
+negatively	N EH1 G AH0 T IH0 V L IY0
+charged	CH AA1 R JH D
+being	B IY1 IH0 NG
+attracted	AH0 T R AE1 K T AH0 D
+positively	P AA1 Z AH0 T IH0 V L IY0
+salt	S AO1 L T
+bridge	B R IH1 JH
+any	EH1 N IY0
+temperatures	T EH1 M P R AH0 CH ER0 Z
+next	N EH1 K S T
+ones	W AH1 N Z
+naturally	N AE1 CH ER0 AH0 L IY0
+occurring	AH0 K ER1 IH0 NG
+intercept	IH2 N T ER0 S EH1 P T
+electronegativity	IH0 L EH2 K T R OW0 AE0 N T IH0 G AA1 D IH0 K IY0
+bunch	B AH1 N CH
+pluses	P L AH1 S IH0 Z
+minuses	M AY1 N AH0 S IH0 Z
+lower	L OW1 ER0
+i'll	AY1 L
+amplitude	AE1 M P L AH0 T UW2 D
+eighty	EY1 T IY0
+hydrocarbon	HH AY2 D R OW0 K AA1 R B AH0 N
+compound	K AA1 M P AW0 N D
+composed	K AH0 M P OW1 Z D
+denote	D IH0 N OW1 T
+subscript	S AH1 B S K R IH2 P T
+integer	IH1 N T AH0 JH ER0
+subscripts	S AH1 B S K R IH2 P T S
+formulas	F AO1 R M Y AH0 L AH0 Z
+expose	IH0 K S P OW1 Z
+decreases	D IY1 K R IY2 S IH0 Z
+pointing	P OY1 N T IH0 NG
+middle	M IH1 D AH0 L
+straight	S T R EY1 T
+further	F ER1 DH ER0
+downhill	D AW1 N HH IH1 L
+gold	G OW1 L D
+zinc	Z IH1 NG K
+cells	S EH1 L Z
+start	S T AA1 R T
+proton	P R OW1 T AA2 N
+macroscopically	M AE2 R K OW0 S K AA1 P IH0 K AH0 L IY0
+static	S T AE1 T IH0 K
+ntwoofour	T UW1 N W AW0 F AO0 R
+dynamic	D AY0 N AE1 M IH0 K
+behaving	B IH0 HH EY1 V IH0 NG
+bounded	B AW1 N D AH0 D
+matter	M AE1 T ER0
+you'd	Y UW1 D
+medium	M IY1 D IY0 AH0 M
+band	B AE1 N D
+bound	B AW1 N D
+boundaries	B AW1 N D ER0 IY0 Z
+lone	L OW1 N
+assigned	AH0 S AY1 N D
+double	D AH1 B AH0 L
+share	SH EH1 R
+out	AW1 T
+liquids	L IH1 K W AH0 D Z
+solids	S AA1 L AH0 D Z
+appear	AH0 P IH1 R
+integers	IH1 N T AH0 JH ER0 Z
+no	N OW1
+source	S AO1 R S
+return	R IH0 T ER1 N
+took	T UH1 K
+expand	IH0 K S P AE1 N D
+doesn't	D AH1 Z AH0 N T
+anything	EH1 N IY0 TH IH2 NG
+fast	F AE1 S T
+electronic	IH0 L EH2 K T R AA1 N IH0 K
+affinity	AH0 F IH1 N AH0 T IY0
+bit	B IH1 T
+whole	HH OW1 L
+atmosphere	AE1 T M AH0 S F IH2 R
+large	L AA1 R JH
+distances	D IH1 S T AH0 N S AH0 Z
+isn't	IH1 Z AH0 N T
+dissolve	D IH0 Z AA1 L V
+eleven	IH0 L EH1 V AH0 N
+kilojoules	K IH1 L AH0 JH UW0 AH0 L Z
+plots	P L AA1 T S
+order	AO1 R D ER0
+law	L AO1
+attraction	AH0 T R AE1 K SH AH0 N
+repulsion	R IY0 P AH1 L SH AH0 N
+physical	F IH1 Z IH0 K AH0 L
+sublimation	S AH2 B L IH0 M EY1 SH AH0 N
+iodine	AY1 AH0 D AY2 N
+ways	W EY1 Z
+power	P AW1 ER0
+respect	R IH0 S P EH1 K T
+ever	EH1 V ER0
+observed	AH0 B Z ER1 V D
+particle	P AA1 R T AH0 K AH0 L
+directly	D ER0 EH1 K T L IY0
+across	AH0 K R AO1 S
+hole	HH OW1 L
+move	M UW1 V
+	
+thirtyone	TH ER1 T IY0 OW2 N
+z	Z IY1
+r	AA1 R
+infinity	IH0 N F IH1 N AH0 T IY0
+continue	K AH0 N T IH1 N Y UW0
+listed	L IH1 S T AH0 D
+several	S EH1 V R AH0 L
+polyprotic	P AA2 L IH0 P R OW1 T IH0 K
+acidic	AH0 S IH1 D IH0 K
+wants	W AA1 N T S
+sharing	SH EH1 R IH0 NG
+states	S T EY1 T S
+faraday's	F AE1 R AH0 D EY2 Z
+coulombs	K AH1 L AH0 M Z
+easier	IY1 Z IY0 ER0
+ionize	AY1 AH0 N AY2 Z
+consider	K AH0 N S IH1 D ER0
+motion	M OW1 SH AH0 N
+nonspontaneous	N AA2 N S P AH0 N T EY1 SH AH0 N Z
+mean	M IY1 N
+remove	R IY0 M UW1 V
+nitrogen	N AY1 T R AH0 JH AH0 N
+let	L EH1 T
+entropy	EH1 N T R AH0 P IY0
+favored	F EY1 V ER0 D
+direction	D ER0 EH1 K SH AH0 N
+universe	Y UW1 N AH0 V ER2 S
+different	D IH1 F ER0 AH0 N T
+box	B AA1 K S
+ideal	AY0 D IY1 L
+easy	IY1 Z IY0
+include	IH0 N K L UW1 D
+dipole	D AY1 P OW2 L
+moment	M OW1 M AH0 N T
+multiply	M AH1 L T AH0 P L AY2
+constants	K AA1 N S T AH0 N T S
+real	R IY1 L
+gases	G AE1 S AH0 Z
+compress	K AA1 M P R EH0 S
+undergo	AH2 N D ER0 G OW1
+weakest	W IY1 K AH0 S T
+conjugate	K AA2 N JH AH0 G EY1 T
+implies	IH0 M P L AY1 Z
+aren't	AA1 R AH0 N T
+example	IH0 G Z AE1 M P AH0 L
+le	L AH0
+chatelier's	CH EY1 T L AY2 ER0 Z
+moves	M UW1 V Z
+response	R IH0 S P AA1 N S
+stress	S T R EH1 S
+reestablishes	R IY0 S T EY1 SH AH0 B L IH0 S
+lungs	L AH1 NG Z
+tells	T EH1 L Z
+meter	M IY1 T ER0
+quantized	K W AA1 N T IH0 Z D
+every	EH1 V ER0 IY0
+million	M IH1 L Y AH0 N
+lifetimes	L AY1 F T AY2 M Z
+valence	V EY1 L AH0 N S
+pair	P EH1 R
+groups	G R UW1 P S
+central	S EH1 N T R AH0 L
+alkali	AE1 L K AH0 L AY2
+metals	M EH1 T AH0 L Z
+column	K AA1 L AH0 M
+periodic	P IH2 R IY0 AA1 D IH0 K
+table	T EY1 B AH0 L
+lithium	L IH1 TH IY0 AH0 M
+potassium	P AH0 T AE1 S IY0 AH0 M
+rubidium	R AH0 B IH1 D IY0 AH0 M
+acidify	AH0 S IH1 D AH0 F AY2
+solutions	S AH0 L UW1 SH AH0 N Z
+turns	T ER1 N Z
+tables	T EY1 B AH0 L Z
+trends	T R EH1 N D Z
+absorption	AH0 B Z AO1 R P SH AH0 N
+color	K AH1 L ER0
+coulombic	K UW0 L AA1 M IH0 K
+calcium	K AE1 L S IY0 AH0 M
+bromides	B R OW1 M AY2 D Z
+activation	AE2 K T AH0 V EY1 SH AH0 N
+dispersion	D IH0 S P ER1 ZH AH0 N
+created	K R IY0 EY1 T AH0 D
+pairing	P EH1 R IH0 NG
+carbonic	K AA2 R B AA1 N IH0 K
+titrated	T AY1 T R EY2 T IH0 D
+happen	HH AE1 P AH0 N
+needs	N IY1 D Z
+surroundings	S ER0 AW1 N D IH0 NG Z
+works	W ER1 K S
+configurations	K AH0 N F IH2 G Y ER0 EY1 SH AH0 N Z
+thymol	TH AY1 M AH0 L
+cakes	K EY1 K S
+distributed	D IH0 S T R IH1 B Y AH0 T AH0 D
+effectively	IH0 F EH1 K T IH0 V L IY0
+overload	OW1 V ER0 L OW2 D
+ftwo	T W OW1
+fall	F AO1 L
+yes	Y EH1 S
+best	B EH1 S T
+strategy	S T R AE1 T AH0 JH IY0
+simply	S IH1 M P L IY0
+increase	IH1 N K R IY2 S
+might	M AY1 T
+got	G AA1 T
+complicated	K AA1 M P L AH0 K EY2 T AH0 D
+nature	N EY1 CH ER0
+quick	K W IH1 K
+slow	S L OW1
+trying	T R AY1 IH0 NG
+changes	CH EY1 N JH AH0 Z
+steps	S T EH1 P S
+show	SH OW1
+models	M AA1 D AH0 L Z
+momentum	M OW0 M EH1 N T AH0 M
+eyes	AY1 Z
+won't	W OW1 N T
+sensitive	S EH1 N S AH0 T IH0 V
+plotted	P L AA1 T AH0 D
+oxide	AA1 K S AY2 D
+threep	TH R IY1 P
+fours	F AO1 R Z
+fill	F IH1 L
+ninetynine	N AY1 N T AY2 N T
+carbontwelve	K AA2 R B OW0 N T W AO1 L EY0
+symbol	S IH1 M B AH0 L
+redundant	R IH0 D AH1 N D AH0 N T
+mathematics	M AE2 TH AH0 M AE1 T IH0 K S
+basically	B EY1 S IH0 K L IY0
+assign	AH0 S AY1 N
+structures	S T R AH1 K CH ER0 Z
+parameter	P ER0 AE1 M AH0 T ER0
+van	V AE1 N
+der	D ER1
+waals	W AO1 L Z
+cn	S IY1 EH1 N EH1 N
+requires	R IY0 K W AY1 ER0 Z
+total	T OW1 T AH0 L
+added	AE1 D AH0 D
+originally	ER0 IH1 JH AH0 N AH0 L IY0
+converting	K AH0 N V ER1 T IH0 NG
+its	IH1 T S
+classic	K L AE1 S IH0 K
+towards	T AH0 W AO1 R D Z
+coordinate	K OW0 AO1 R D AH0 N AH0 T
+counterintuitive	K AW2 N T ER0 IH0 T AH1 N CH IH0 T ER0
+twop	T W AA1 P
+interact	IH2 N T ER0 AE1 K T
+ntwo	T UW1 N W OW1
+otwo	AA1 T W OW1
+balancing	B AE1 L AH0 N S IH0 NG
+equation	IH0 K W EY1 ZH AH0 N
+catalog	K AE1 T AH0 L AO0 G
+continuum	K AH0 N T IH1 N Y UW0 AH0 M
+differences	D IH1 F ER0 AH0 N S IH0 Z
+depth	D EH1 P TH
+hold	HH OW1 L D
+breath	B R EH1 TH
+fixed	F IH1 K S T
+amount	AH0 M AW1 N T
+air	EH1 R
+ascend	AH0 S EH1 N D
+dangerous	D EY1 N JH ER0 AH0 S
+expands	IH0 K S P AE1 N D Z
+possible	P AA1 S AH0 B AH0 L
+bonding	B AA1 N D IH0 NG
+favorable	F EY1 V ER0 AH0 B AH0 L
+microstates	M AY1 K R OW0 S T EY2 T S
+list	L IH1 S T
+de	D IY1
+broglie	B R AA1 G L IY0
+wavelengths	W EY1 V L EH2 NG TH S
+based	B EY1 S T
+potpourri	P OW2 P UH0 R IY1
+weighted	W EY1 T IH0 D
+isotopes	AY1 S AH0 T OW2 P S
+mixture	M IH1 K S CH ER0
+stuck	S T AH1 K
+square	S K W EH1 R
+planar	P L EY1 N ER0
+dioxide	D AY0 AA1 K S AY2 D
+favors	F EY1 V ER0 Z
+eightyeight	EY1 T AY1 AH0 T
+hydroxide	HH AY0 D R AA1 K S AY0 D
+per	P ER1
+se	S AW2 TH IY1 S T
+shot	SH AA1 T
+bullets	B UH1 L AH0 T S
+bbs	B IY1 EH1 S IY1 EH1 S
+outermost	AW1 T ER0 M OW2 S T
+was	W AA1 Z
+ejected	IH0 JH EH1 K T IH0 D
+photo	F OW1 T OW2
+spectroscopy	S P EH0 K T R AA1 S K AH0 P IY0
+experiment	IH0 K S P EH1 R AH0 M AH0 N T
+situations	S IH2 CH UW0 EY1 SH AH0 N Z
+partial	P AA1 R SH AH0 L
+room	R UW1 M
+peptide	P EH1 P T AY2 D
+oxidize	AA1 K S AH0 D AY2 Z
+relationships	R IY0 L EY1 SH AH0 N SH IH2 P S
+switch	S W IH1 CH
+analytically	AE2 N AH0 L IH1 T IH0 K L IY0
+drawn	D R AO1 N
+ovals	OW1 V AH0 L Z
+membrane	M EH1 M B R EY2 N
+sometimes	S AH0 M T AY1 M Z
+chemistry	K EH1 M AH0 S T R IY0
+thinking	TH IH1 NG K IH0 NG
+throwing	TH R OW1 IH0 NG
+nomenclature	N OW1 M AH0 N K L EY2 CH ER0
+me	M IY1
+confusing	K AH0 N F Y UW1 Z IH0 NG
+permanent	P ER1 M AH0 N AH0 N T
+relate	R IH0 L EY1 T
+largest	L AA1 R JH AH0 S T
+correspond	K AO2 R AH0 S P AA1 N D
+cell	S EH1 L
+potential	P AH0 T EH1 N SH AH0 L
+stretch	S T R EH1 CH
+thermal	TH ER1 M AH0 L
+weak	W IY1 K
+reacting	R IY0 AE1 K T IH0 NG
+release	R IY0 L IY1 S
+finger	F IH1 NG G ER0
+back	B AE1 K
+lowenergy	L OW1 ER0 N IH0 R G
+donates	D OW1 N EY2 T S
+ktwo	K W OW1
+kthree	K TH R IY1
+kone	K OW1 N
+opposed	AH0 P OW1 Z D
+reverse	R IH0 V ER1 S
+front	F R AH1 N T
+milligram	M IH1 L AH0 G R AE2 M
+speck	S P EH1 K
+seven	S EH1 V AH0 N
+species	S P IY1 SH IY0 Z
+track	T R AE1 K
+fiftyfivemole	F IH1 F T IH0 JH AH2 S M AH0 N TH
+samples	S AE1 M P AH0 L Z
+trigonal	T R IH1 G AH0 N AH0 L
+bipyramidal	B AY0 P AY1 R AH0 M EY2 D AH0 M
+shape	SH EY1 P
+ignore	IH0 G N AO1 R
+equilibria	IY2 K W AH0 L IH1 B R IY0 AH0
+lie	L AY1
+reduce	R AH0 D UW1 S
+fix	F IH1 K S
+phi	F AY1
+pi	P AY1
+initial	IH0 N IH1 SH AH0 L
+impression	IH0 M P R EH1 SH AH0 N
+sigma	S IH1 G M AH0
+antibonding	AE1 N T IH0 B AH0 N D IH0 NG
+find	F AY1 N D
+pressures	P R EH1 SH ER0 Z
+physically	F IH1 Z IH0 K AH0 L IY0
+separate	S EH1 P ER0 IH0 T
+beakers	B IY1 K ER0 Z
+still	S T IH1 L
+indeterminant	IH0 N D EH2 T ER0 M IH1 N T AH0 N
+spontaneous	S P AA0 N T EY1 N IY0 AH0 S
+virtually	V ER1 CH UW0 AH0 L IY0
+rare	R EH1 R
+perfectly	P ER1 F AH0 K T L IY0
+equal	IY1 K W AH0 L
+curve	K ER1 V
+yet	Y EH1 T
+factor	F AE1 K T ER0
+reagent	R IY0 EY1 JH AH0 N T
+sixteen	S IH0 K S T IY1 N
+eighteen	EY0 T IY1 N
+estimate	EH1 S T AH0 M AH0 T
+using	Y UW1 Z IH0 NG
+enthalpies	IH0 N TH AA1 L P IY0 Z
+star	S T AA1 R
+thermodynamic	TH ER2 M AH0 D IY0 N AE1 M IH0 K
+chlorides	K L AO1 R IH0 D Z
+decide	D IH0 S AY1 D
+jumps	JH AH1 M P S
+either	IY1 DH ER0
+onto	AA1 N T UW0
+started	S T AA1 R T AH0 D
+talked	T AO1 K T
+neutrons	N UW1 T R AA2 N Z
+compression	K AH0 M P R EH1 SH AH0 N
+right	R AY1 T
+smack	S M AE1 K
+open	OW1 P AH0 N
+valve	V AE1 L V
+twice	T W AY1 S
+percentage	P ER0 S EH1 N T AH0 JH
+highest	HH AY1 AH0 S T
+what's	W AH1 T S
+fraction	F R AE1 K SH AH0 N
+flask	F L AE1 S K
+stays	S T EY1 Z
+titrating	T AY1 T R EY2 T IH0 NG
+fluorine	F L UH1 R IY2 N
+everybody	EH1 V R IY0 B AA2 D IY0
+paired	P EH1 R D
+except	IH0 K S EH1 P T
+spin	S P IH1 N
+stream	S T R IY1 M
+hits	HH IH1 T S
+magnetic	M AE0 G N EH1 T IH0 K
+field	F IY1 L D
+fanned	F AE1 N D
+divided	D IH0 V AY1 D AH0 D
+satisfy	S AE1 T AH0 S F AY2
+yourself	Y ER0 S EH1 L F
+p	P IY1
+extra	EH1 K S T R AH0
+readily	R EH1 D AH0 L IY0
+donate	D OW1 N EY2 T
+glass	G L AE1 S
+transparent	T R AE0 N S P EH1 R AH0 N T
+broader	B R AO1 D ER0
+range	R EY1 N JH
+certainly	S ER1 T AH0 N L IY0
+available	AH0 V EY1 L AH0 B AH0 L
+sum	S AH1 M
+cl	K EH1 L
+gibbs	G IH1 B Z
+forward	F AO1 R W ER0 D
+later	L EY1 T ER0
+increases	IH1 N K R IY2 S IH0 Z
+seconds	S EH1 K AH0 N D Z
+excited	IH0 K S AY1 T AH0 D
+approaches	AH0 P R OW1 CH AH0 Z
+trap	T R AE1 P
+twentytwo	T W EH2 N T AY1 T OW0
+liters	L IY1 T ER0 Z
+quarter	K W AO1 R T ER0
+fortysix	F AO1 R T IH0 S IH2 K S
+kelvin	K EH1 L V AH0 N
+perfect	P ER1 F IH2 K T
+withdrawing	W IH0 TH D R AO1 IH0 NG
+capture	K AE1 P CH ER0
+plate	P L EY1 T
+combination	K AA2 M B AH0 N EY1 SH AH0 N
+cases	K EY1 S AH0 Z
+leave	L IY1 V
+holding	HH OW1 L D IH0 NG
+independent	IH2 N D IH0 P EH1 N D AH0 N T
+bromine	B R OW1 M IY2 N
+essentially	IH0 S EH1 N SH AH0 L IY0
+fatal	F EY1 T AH0 L
+hatwo	HH AE1 T W OW1
+stronger	S T R AO1 NG ER0
+pushed	P UH1 SH T
+we'd	W IY1 D
+favor	F EY1 V ER0
+anode	AE1 N OW2 D
+cathode	K AE1 TH OW2 D
+container	K AH0 N T EY1 N ER0
+leaving	L IY1 V IH0 NG
+vacuum	V AE1 K Y UW0 M
+totally	T OW1 T AH0 L IY0
+dissociates	D IH0 S OW1 S IY0 EY2 T S
+forms	F AO1 R M Z
+liter	L IY1 T ER0
+dissolves	D IH0 Z AA1 L V Z
+primed	P R AY1 M D
+accept	AE0 K S EH1 P T
+close	K L OW1 S
+existing	IH0 G Z IH1 S T IH0 NG
+shells	SH EH1 L Z
+fifth	F IH1 F TH
+onetwo	W AH1 N T W OW0
+sptwo	S T UW1 P W OW1
+hybrids	HH AY1 B R AH0 D Z
+behind	B IH0 HH AY1 N D
+sulfur	S AH1 L F ER0
+choose	CH UW1 Z
+spectra	S P EH1 K T R AH0
+visible	V IH1 Z AH0 B AH0 L
+carbonoxygen	K AA1 R B AH0 N G AY2 S IH0 N
+shown	SH OW1 N
+transfer	T R AE1 N S F ER0
+problem	P R AA1 B L AH0 M
+e	IY1
+threetwo	TH R IY1 T W OW0
+nrt	N ER1 T
+thought	TH AO1 T
+happening	HH AE1 P AH0 N IH0 NG
+procedure	P R AH0 S IY1 JH ER0
+confirmed	K AH0 N F ER1 M D
+onekb	AA1 N IH0 K
+reference	R EH1 F ER0 AH0 N S
+measuring	M EH1 ZH ER0 IH0 NG
+compare	K AH0 M P EH1 R
+depending	D IH0 P EH1 N D IH0 NG
+sign	S AY1 N
+hydrogens	HH AY1 D R AH0 JH AH0 N Z
+nothree	N OW0 TH R IY1
+worry	W ER1 IY0
+ii	IY1
+call	K AO1 L
+processes	P R AO2 S EH1 S AH0 Z
+adiabatic	EY2 D IY0 AH0 T AA1 B IH0 K
+describes	D IH0 S K R AY1 B Z
+penalty	P EH1 N AH0 L T IY0
+interchange	IH1 N T ER0 CH EY2 N JH
+changing	CH EY1 N JH IH0 NG
+direct	D ER0 EH1 K T
+proportion	P R AH0 P AO1 R SH AH0 N
+gradient	G R EY1 D IY0 AH0 N T
+mitochondrial	M AY2 T AH0 K AA1 N D R IY0 AH0 L
+during	D UH1 R IH0 NG
+synthesis	S IH1 N TH AH0 S AH0 S
+twentythird	T W EH1 N T IH0 T EH2 R D
+examples	IH0 G Z AE1 M P AH0 L Z
+phosphoric	F AA1 S F ER0 IH0 K
+sulfuric	S AH0 L F Y UH1 R IH0 K
+inside	IH0 N S AY1 D
+mitochondria	M AY2 T AH0 K AA1 N D R IY0 AH0
+absence	AE1 B S AH0 N S
+reach	R IY1 CH
+stoichiometric	S T OW2 AY2 K AH0 M Y AA1 T IH0 K
+greatest	G R EY1 T AH0 S T
+nearest	N IH1 R AH0 S T
+surface	S ER1 F AH0 S
+since	S IH1 N S
+amounts	AH0 M AW1 N T S
+who	HH UW1
+knows	N OW1 Z
+absorbance	AE1 B S ER0 B AE2 N S
+twol	T UW1 L
+microscope	M AY1 K R AH0 S K OW2 P
+cyanide	S AY1 AH0 N AY2 D
+ion	AY1 AH0 N
+t	T IY1
+wouldn't	W UH1 D AH0 N T
+fair	F EH1 R
+atmospheres	AE1 T M AH0 S F EH2 R Z
+neglect	N AH0 G L EH1 K T
+benzene	B EH0 N Z IY1 N
+beryllium	B ER0 IH1 L IY0 AH0 M
+cure	K Y UH1 R
+involved	IH0 N V AA1 L V D
+boron	B AO1 R AA2 N
+contributions	K AA2 N T R AH0 B Y UW1 SH AH0 N Z
+structural	S T R AH1 K CH ER0 AH0 L
+isomers	AY1 S AH0 M ER0 Z
+chiral	SH IH0 R AA1 L
+logical	L AA1 JH IH0 K AH0 L
+threshold	TH R EH1 SH OW2 L D
+frequencies	F R IY1 K W AH0 N S IY0 Z
+may	M EY1
+tiniest	T AY1 N IY0 AH0 S T
+retains	R IH0 T EY1 N Z
+seen	S IY1 N
+associate	AH0 S OW1 S IY0 AH0 T
+sweep	S W IY1 P
+wave	W EY1 V
+hac	HH AE1 K
+ac	EY1 S IY1
+eat	IY1 T
+die	D AY1
+handedness	HH AE1 N D AH0 D N AH0 S
+haven't	HH AE1 V AH0 N T
+speed	S P IY1 D
+label	L EY1 B AH0 L
+occur	AH0 K ER1
+brown	B R AW1 N
+dimer	D AY1 M ER0
+clear	K L IH1 R
+hcl	K EH1 L
+gone	G AO1 N
+wavelength	W EY1 V L EH2 NG TH
+planck's	P L AE1 NG K S
+massless	M AE1 S L AH0 S
+copper	K AA1 P ER0
+getting	G EH1 T IH0 NG
+unreactive	AH0 N R IH1 K T IH0 V
+reactive	R IY0 AE1 K T IH0 V
+industry	IH1 N D AH0 S T R IY0
+long	L AO1 NG
+single	S IH1 NG G AH0 L
+regardless	R AH0 G AA1 R D L AH0 S
+found	F AW1 N D
+red	R EH1 D
+represent	R EH2 P R AH0 Z EH1 N T
+opposite	AA1 P AH0 Z AH0 T
+signs	S AY1 N Z
+coefficient	K OW2 AH0 F IH1 SH AH0 N T
+volts	V OW1 L T S
+bromide	B R OW1 M AY2 D
+permanganate	P ER0 M AE1 NG G AH0 N EY2 T
+configuration	K AH0 N F IH2 G Y ER0 EY1 SH AH0 N
+onestwo	W AH1 N S T W OW0
+twostwo	T W UW1 T S W OW0
+twopsix	T W AA1 P S K IH0 K S
+excite	IH0 K S AY1 T
+emissions	IH0 M IH1 SH AH0 N Z
+exert	IH0 G Z ER1 T
+walls	W AO1 L Z
+xaxis	Z AE1 K S IH0 S
+anywhere	EH1 N IY0 W EH2 R
+plot	P L AA1 T
+profile	P R OW1 F AY2 L
+ahead	AH0 HH EH1 D
+dissolving	D IH0 Z AO1 L V IH0 NG
+sparingly	S P EH1 R IH0 NG L IY0
+soluble	S AA1 L Y AH0 B AH0 L
+model	M AA1 D AH0 L
+chest	CH EH1 S T
+cavity	K AE1 V AH0 T IY0
+considerably	K AH0 N S IH1 D ER0 AH0 B L IY0
+correlation	K AO2 R AH0 L EY1 SH AH0 N
+effective	IH0 F EH1 K T IH0 V
+job	JH AA1 B
+shielding	SH IY1 L D IH0 NG
+nearly	N IH1 R L IY0
+full	F UH1 L
+seventyfive	S AH0 V EH1 N T AH0 F AY2 T
+increasing	IH0 N K R IY1 S IH0 NG
+hands	HH AE1 N D Z
+dichloride	D IH1 CH L ER0 AY2 D
+indeed	IH0 N D IY1 D
+characteristic	K EH2 R AH0 K T ER0 IH1 S T IH0 K
+polar	P OW1 L ER0
+covalent	K OW1 V AH0 L AH0 N T
+hotter	HH AA1 T ER0
+darker	D AA1 R K ER0
+arrive	ER0 AY1 V
+identically	AY0 D EH1 N T IH0 K AH0 L IY0
+applying	AH0 P L AY1 IH0 NG
+comes	K AH1 M Z
+pushing	P UH1 SH IH0 NG
+excess	EH1 K S EH2 S
+why	W AY1
+exactly	IH0 G Z AE1 K T L IY0
+eighteenth	EY0 T IY1 N TH
+done	D AH1 N
+accomplished	AH0 K AA1 M P L IH0 SH T
+flows	F L OW1 Z
+vaporization	V EY0 P ER0 AH0 Z EY1 SH AH0 N
+final	F AY1 N AH0 L
+acetic	AH0 S EH1 T IH0 K
+chloroacetic	K L AO2 R AH0 S T IY1 T IH0 K
+biological	B AY2 AH0 L AA1 JH IH0 K AH0 L
+step	S T EH1 P
+photoelectric	F OW2 T OW0 IH0 L EH1 K T R IH0 K
+albert	AE1 L B ER0 T
+einstein	AY1 N S T AY0 N
+helped	HH EH1 L P T
+understand	AH2 N D ER0 S T AE1 N D
+methods	M EH1 TH AH0 D Z
+slits	S L IH1 T S
+gets	G EH1 T S
+combine	K AA1 M B AY0 N
+various	V EH1 R IY0 AH0 S
+notice	N OW1 T AH0 S
+deltahone	D EH1 L T AH0 HH OW2 N
+deltahtwo	D EH0 L T AA0 T OW1 T OW0
+shift	SH IH1 F T
+galvanic	G AE0 L V AE1 N IH0 K
+voltage	V OW1 L T AH0 JH
+though	DH OW1
+lighter	L AY1 T ER0
+faster	F AE1 S T ER0
+correlated	K AO1 R AH0 L EY2 T AH0 D
+appears	AH0 P IH1 R Z
+filled	F IH1 L D
+rates	R EY1 T S
+scheme	S K IY1 M
+emission	IH0 M IH1 SH AH0 N
+neat	N IY1 T
+arrange	ER0 EY1 N JH
+obstacles	AA1 B S T AH0 K AH0 L Z
+display	D IH0 S P L EY1
+characteristics	K EH2 R AH0 K T ER0 IH1 S T IH0 K S
+good	G UH1 D
+fastball	F AE1 S T B AO2 L
+cause	K AA1 Z
+run	R AH1 N
+continuous	K AH0 N T IH1 N Y UW0 AH0 S
+demo	D EH1 M OW0
+lab	L AE1 B
+mechanical	M AH0 K AE1 N IH0 K AH0 L
+stop	S T AA1 P
+pkatwo	P AE1 K T W OW0
+associated	AH0 S OW1 S IY0 EY2 T AH0 D
+site	S AY1 T
+peel	P IY1 L
+off	AO1 F
+ionizing	AY1 AH0 N AY2 Z IH0 NG
+bloodstream	B L AH1 D S T R IY2 M
+hemoglobin	HH IY2 M AH0 G L OW1 B AH0 N
+monoxide	M AH0 N AA1 K S AY0 D
+striking	S T R AY1 K IH0 NG
+near	N IH1 R
+celsius	S EH1 L S IY0 AH0 S
+trillions	T R IH1 L Y AH0 N Z
+equally	IY1 K W AH0 L IY0
+toward	T AH0 W AO1 R D
+q	K Y UW1
+chain	CH EY1 N
+carbons	K AA1 R B AH0 N Z
+depend	D IH0 P EH1 N D
+weigh	W EY1
+fifty	F IH1 F T IY0
+assured	AH0 SH UH1 R D
+nut	N AH1 T
+bolt	B OW1 L T
+bonded	B AA1 N D AH0 D
+term	T ER1 M
+condition	K AH0 N D IH1 SH AH0 N
+dissociated	D IH0 S OW1 S IY0 EY2 T AH0 D
+mainly	M EY1 N L IY0
+threedimensional	TH R IY2 D IY0 M IH0 N EH1 SH AH0 N
+parameters	P ER0 AE1 M AH0 T ER0 Z
+calculations	K AE2 L K Y AH0 L EY1 SH AH0 N Z
+balloons	B AH0 L UW1 N Z
+paramagnetism	P EH2 R AH0 M AE1 G N AH0 T IH2 Z AH0 M
+coincidental	K OW0 IH2 N S AH0 D EH1 N T AH0 L
+burn	B ER1 N
+entropies	EH1 N T R AH0 P IY0 Z
+substances	S AH1 B S T AH0 N S AH0 Z
+htwootwo	T W AH0 T W OW1 T
+dilute	D AY0 L UW1 T
+titrate	T AY1 T R EY2 T
+enough	IH0 N AH1 F
+wavelike	W EY1 V L EY2 V
+eighteenelectron	AY2 T IH0 G N EH1 T R AH0 N S AH0 N
+v	V IY1
+sp	S P IY1
+obscure	AH0 B S K Y UH1 R
+predictor	P R IH0 D IH1 K T ER0
+oxides	AA1 K S AY2 D Z
+iron	AY1 ER0 N
+hf	HH AH1 F
+fortythree	F AO1 R T IY0 T R IY0
+funny	F AH1 N IY0
+multiple	M AH1 L T AH0 P AH0 L
+went	W EH1 N T
+fortyeight	F AO1 R T IY0 T
+twentyfour	T W EH1 N T AY0 F AO0 R
+shine	SH AY1 N
+regions	R IY1 JH AH0 N Z
+diagram	D AY1 AH0 G R AE2 M
+velocities	V AH0 L AA1 S AH0 T IY0 Z
+slight	S L AY1 T
+dip	D IH1 P
+chosen	CH OW1 Z AH0 N
+histidine	HH IH1 S T AH0 D IY2 N
+reason	R IY1 Z AH0 N
+after	AE1 F T ER0
+behavior	B IH0 HH EY1 V Y ER0
+past	P AE1 S T
+white	W AY1 T
+slowly	S L OW1 L IY0
+they've	DH EY1 V
+reacted	R IY0 AE1 K T AH0 D
+rise	R AY1 Z
+decreasing	D IH0 K R IY1 S IH0 NG
+against	AH0 G EH1 N S T
+analyze	AE1 N AH0 L AY2 Z
+volumes	V AA1 L Y UW0 M Z
+functions	F AH1 NG K SH AH0 N Z
+coming	K AH1 M IH0 NG
+everywhere	EH1 V R IY0 W EH2 R
+nanometers	N AE1 N OW0 M EH2 T ER0 Z
+storage	S T AO1 R AH0 JH
+benchtop	B EH1 N T K AA2 P T
+approach	AH0 P R OW1 CH
+variety	V ER0 AY1 AH0 T IY0
+assuming	AH0 S UW1 M IH0 NG
+dissociation	D IH0 S OW2 S IY0 EY1 SH AH0 N
+bases	B EY1 S AH0 Z
+dissociate	D IH0 S OW1 S IY0 EY0 T
+gains	G EY1 N Z
+accelerate	AE0 K S EH1 L ER0 EY2 T
+volt	V OW1 L T
+following	F AA1 L OW0 IH0 NG
+reversed	R IH0 V ER1 S T
+laser	L EY1 Z ER0
+slit	S L IH1 T
+pattern	P AE1 T ER0 N
+dark	D AA1 R K
+spots	S P AA1 T S
+cut	K AH1 T
+dollars	D AA1 L ER0 Z
+year	Y IH1 R
+leftover	L EH1 F T OW2 V ER0
+stwo	S T W OW1
+electrolytic	IH0 L EH2 K T R AH0 L IH1 T IH0 K
+cools	K UW1 L Z
+able	EY1 B AH0 L
+interestingly	IH1 N T ER0 EH2 S T IH0 NG L IY0
+alcohol	AE1 L K AH0 HH AA2 L
+aldehyde	AE1 L D HH AY2 D
+balance	B AE1 L AH0 N S
+measure	M EH1 ZH ER0
+dropped	D R AA1 P T
+ha	HH AA1
+reported	R IY2 P AO1 R T AH0 D
+obviously	AA1 B V IY0 AH0 S L IY0
+component	K AH0 M P OW1 N AH0 N T
+angular	AE1 NG G Y AH0 L ER0
+spherical	S F EH1 R IH0 K AH0 L
+radial	R EY1 D IY0 AH0 L
+altitude	AE1 L T AH0 T UW2 D
+deduce	D IH0 D UW1 S
+radius	R EY1 D IY0 AH0 S
+analysis	AH0 N AE1 L AH0 S AH0 S
+nail	N EY1 L
+arrangements	ER0 EY1 N JH M AH0 N T S
+fiftyseven	F IH1 F T S IH1 S AH0 N
+standpoint	S T AE1 N D P OY2 N T
+act	AE1 K T
+points	P OY1 N T S
+reached	R IY1 CH T
+ethylene	EH1 TH AH0 L IY2 N
+diamine	D AY1 AH0 M AY2 N
+prove	P R UW1 V
+shifts	SH IH1 F T S
+accurate	AE1 K Y ER0 AH0 T
+rushes	R AH1 SH AH0 Z
+htwosofour	T W OW1 S T W AO0 R F
+broken	B R OW1 K AH0 N
+acetylene	AH0 S EH1 T AH0 L IY2 N
+instead	IH0 N S T EH1 D
+dots	D AA1 T S
+indicate	IH1 N D AH0 K EY2 T
+subliming	S AH1 B L IH0 M IH0 NG
+eye	AY1
+receptor	R IY0 S EH1 P T ER0
+jump	JH AH1 M P
+hill	HH IH1 L
+circles	S ER1 K AH0 L Z
+fly	F L AY1
+bottom	B AA1 T AH0 M
+distribute	D IH0 S T R IH1 B Y UW0 T
+limitations	L IH2 M IH0 T EY1 SH AH0 N Z
+arbitrarily	AA1 R B IH0 T R EH2 R AH0 L IY0
+selectivity	S IH0 L EH2 K T IH1 V AH0 T IY0
+membranes	M EH1 M B R EY2 N Z
+initially	IH0 N IH1 SH AH0 L IY0
+continues	K AH0 N T IH1 N Y UW0 Z
+kt	K EY1 T
+anticipate	AE0 N T IH1 S AH0 P EY2 T
+meters	M IY1 T ER0 Z
+correlate	K AO1 R AH0 L EY2 T
+left	L EH1 F T
+sides	S AY1 D Z
+data	D EY1 T AH0
+orders	AO1 R D ER0 Z
+fundamental	F AH2 N D AH0 M EH1 N T AH0 L
+frequently	F R IY1 K W AH0 N T L IY0
+solidliquid	S AH0 L IH1 D L AH0 D IH0 K
+slopes	S L OW1 P S
+backwards	B AE1 K W ER0 D Z
+poly	P AA1 L IY0
+separated	S EH1 P ER0 EY2 T AH0 D
+redox	R IH0 D AO1 K S
+treat	T R IY1 T
+taken	T EY1 K AH0 N
+buffered	B AH1 F ER0 D
+resists	R IH0 Z IH1 S T S
+resolve	R IY0 Z AA1 L V
+spectrometer	S P EH0 K T R AA1 M AH0 T ER0
+exerted	IH0 G Z ER1 T IH0 D
+trapped	T R AE1 P T
+noticed	N OW1 T AH0 S T
+trend	T R EH1 N D
+row	R OW1
+express	IH0 K S P R EH1 S
+salts	S AO1 L T S
+really	R IH1 L IY0
+known	N OW1 N
+unknown	AH0 N N OW1 N
+gilbert	G IH1 L B ER0 T
+proposed	P R AH0 P OW1 Z D
+basis	B EY1 S AH0 S
+excuse	IH0 K S K Y UW1 S
+phases	F EY1 Z AH0 Z
+present	P R EH1 Z AH0 N T
+writing	R AY1 T IH0 NG
+dilution	D AY0 L UW1 SH AH0 N
+coordinates	K OW0 AO1 R D AH0 N AH0 T S
+bromination	B R AA2 M AH0 N EY1 SH AH0 N
+diene	D IY1 N
+releasing	R IY0 L IY1 S IH0 NG
+absorbing	AH0 B Z AO1 R B IH0 NG
+consistent	K AH0 N S IH1 S T AH0 N T
+wise	W AY1 Z
+compartment	K AH0 M P AA1 R T M AH0 N T
+life	L AY1 F
+dependent	D IH0 P EH1 N D AH0 N T
+exist	IH0 G Z IH1 S T
+bosons	B OW1 S AH0 N Z
+chem	K EH1 M
+quiz	K W IH1 Z
+spot	S P AA1 T
+alternating	AO1 L T ER0 N EY2 T IH0 NG
+center	S EH1 N T ER0
+joule	JH UW1 L
+generically	JH AH0 N EH1 R IH0 K L IY0
+watch	W AA1 CH
+heavier	HH EH1 V IY0 ER0
+deflected	D IH0 F L EH1 K T IH0 D
+encompass	EH0 N K AH1 M P AH0 S
+blues	B L UW1 Z
+shares	SH EH1 R Z
+repeating	R IH0 P IY1 T IH0 NG
+columns	K AA1 L AH0 M Z
+similar	S IH1 M AH0 L ER0
+maintain	M EY0 N T EY1 N
+millimolar	M IH1 L AH0 M AO2 L ER0
+crests	K R EH1 S T S
+passed	P AE1 S T
+onethree	W AH1 N TH IY2 R
+produced	P R AH0 D UW1 S T
+phosphate	F AA1 S F EY0 T
+formed	F AO1 R M D
+names	N EY1 M Z
+doubling	D AH1 B AH0 L IH0 NG
+itself	IH0 T S EH1 L F
+px	P IY1 EH1 S
+nine	N AY1 N
+eightyfive	EY1 T W IH1 F AY2 T
+count	K AW1 N T
+device	D IH0 V AY1 S
+actual	AE1 K CH AH0 W AH0 L
+mechanics	M AH0 K AE1 N IH0 K S
+incredibly	IH0 N K R EH1 D AH0 B L IY0
+precise	P R IH0 S AY1 S
+beautiful	B Y UW1 T AH0 F AH0 L
+description	D IH0 S K R IH1 P SH AH0 N
+ground	G R AW1 N D
+interacts	IH2 N T ER0 AE1 K T S
+changed	CH EY1 N JH D
+emitted	IH0 M IH1 T AH0 D
+isothermal	AY2 S AH0 TH ER1 M AH0 L
+deltae	D EH1 L T EY2
+deltah	D EH1 L TH AH0
+detected	D IH0 T EH1 K T AH0 D
+captured	K AE1 P CH ER0 D
+perceive	P ER0 S IY1 V
+disassociates	D IH2 S AH0 S OW1 SH IY0 AH0 S T
+wait	W EY1 T
+haone	HH EY1 N
+black	B L AE1 K
+gives	G IH1 V Z
+reduction	R AH0 D AH1 K SH AH0 N
+threes	TH R IY1 Z
+unstable	AH0 N S T EY1 B AH0 L
+triple	T R IH1 P AH0 L
+respond	R IH0 S P AA1 N D
+vertical	V ER1 T IH0 K AH0 L
+progress	P R AA1 G R EH2 S
+horizontal	HH AO2 R AH0 Z AA1 N T AH0 L
+test	T EH1 S T
+conductivity	K AA2 N D AH2 K T IH1 V AH0 T IY0
+qualitatively	K W AA2 L AH0 T EY1 T IH0 V L IY0
+bulb	B AH1 L B
+particular	P ER0 T IH1 K Y AH0 L ER0
+cataloging	K AE1 T AH0 L AA0 G IH0 NG
+hundreds	HH AH1 N D R AH0 D Z
+seeing	S IY1 IH0 NG
+tend	T EH1 N D
+draw	D R AO1
+themselves	DH EH0 M S EH1 L V Z
+maybe	M EY1 B IY0
+gram	G R AE1 M
+behave	B IH0 HH EY1 V
+avogadro's	AE2 V AH0 G AA1 D R OW2 Z
+once	W AH1 N S
+rest	R EH1 S T
+shouldn't	SH UH1 D AH0 N T
+electric	IH0 L EH1 K T R IH0 K
+oneelectron	OW0 N IY0 L EH1 K T R AH0 N
+showing	SH OW1 IH0 NG
+oriented	AO1 R IY0 EH2 N T AH0 D
+due	D UW1
+deltav	D EH1 L T AA0 V
+external	IH0 K S T ER1 N AH0 L
+collisions	K AH0 L IH1 ZH AH0 N Z
+pretty	P R IH1 T IY0
+halfway	HH AE1 F W EY1
+mixing	M IH1 K S IH0 NG
+indicative	IH0 N D IH1 K AH0 T IH0 V
+simplest	S IH1 M P L AH0 S T
+sit	S IH1 T
+acidbase	AE1 S AH0 D B EY2 S
+contain	K AH0 N T EY1 N
+eightythree	EY1 T R IY0 T EH2 R
+milligrams	M IH1 L AH0 G R AE2 M Z
+twentyseven	T W EH2 N T IH0 S EH1 V AH0 N
+lesson	L EH1 S AH0 N
+latch	L AE1 CH
+ice	AY1 S
+leaves	L IY1 V Z
+autoionization	AO2 T OW0 AH0 JH AH0 N IH1 SH AH0 N AH0 S
+gaseous	G AE1 S IY0 AH0 S
+taking	T EY1 K IH0 NG
+reduced	R AH0 D UW1 S T
+flick	F L IH1 K
+individual	IH2 N D AH0 V IH1 JH AH0 W AH0 L
+impart	IH0 M P AA1 R T
+punch	P AH1 N CH
+etc	EH2 T S EH1 T ER0 AH0
+ninth	N AY1 N TH
+rydberg	R IH1 D B ER0 G
+raise	R EY1 Z
+tabulate	T AE1 B Y AH0 L EY2 T
+name	N EY1 M
+alone	AH0 L OW1 N
+action	AE1 K SH AH0 N
+raising	R EY1 Z IH0 NG
+shared	SH EH1 R D
+counted	K AW1 N T AH0 D
+contact	K AA1 N T AE2 K T
+steam	S T IY1 M
+eighth	EY1 T TH
+original	ER0 IH1 JH AH0 N AH0 L
+freely	F R IY1 L IY0
+spooky	S P UW1 K IY0
+thermodynamically	TH ER2 M AH0 D IH1 N IY0 AH0 L IY0
+diagrammatic	D AY2 AH0 G R AH0 M AE1 T IH0 K
+detail	D IH0 T EY1 L
+onex	W AH1 N EH1 K S
+old	OW1 L D
+pkasix	P EY1 S IH0 K S
+common	K AA1 M AH0 N
+moments	M OW1 M AH0 N T S
+serum	S IH1 R AH0 M
+albumin	AE0 L B Y UW1 M AH0 N
+understanding	AH2 N D ER0 S T AE1 N D IH0 NG
+hot	HH AA1 T
+disinfect	D IH0 S IH0 N F EH1 K T
+surfaces	S ER1 F AH0 S AH0 Z
+bacteria	B AE0 K T IH1 R IY0 AH0
+converted	K AH0 N V ER1 T IH0 D
+absorbs	AH0 B Z AO1 R B Z
+emits	IH0 M IH1 T S
+fine	F AY1 N
+violet	V AY1 AH0 L IH0 T
+orientation	AO2 R IY0 EH0 N T EY1 SH AH0 N
+preference	P R EH1 F ER0 AH0 N S
+neither	N IY1 DH ER0
+absolutely	AE2 B S AH0 L UW1 T L IY0
+branch	B R AE1 N CH
+certain	S ER1 T AH0 N
+arrives	ER0 AY1 V Z
+tracks	T R AE1 K S
+mathematically	M AE2 TH AH0 M AE1 T IH0 K AH0 L IY0
+binomial	B AY0 N OW1 M IY0 AH0 L
+coefficients	K OW2 AH0 F IH1 SH AH0 N T S
+realm	R EH1 L M
+kinetics	K AH0 N EH1 T IH0 K S
+cold	K OW1 L D
+experiments	IH0 K S P EH1 R AH0 M AH0 N T S
+convert	K AA1 N V ER0 T
+nhthree	N EH1 TH R IY0
+nhfour	N F UW1 HH ER0
+electrode	IH0 L EH1 K T R OW0 D
+located	L OW1 K EY2 T AH0 D
+chloride	K L AO1 R AY0 D
+ranging	R EY1 N JH IH0 NG
+distance	D IH1 S T AH0 N S
+says	S EH1 Z
+numerator's	N UW1 M ER0 EY2 T ER0 Z
+fixation	F IH0 K S EY1 SH AH0 N
+cooperative	K OW0 AA1 P ER0 EY2 T IH0 V
+molybdenum	M AH0 L IH1 B D IH0 N AH0 M
+heating	HH IY1 T IH0 NG
+flame	F L EY1 M
+till	T IH1 L
+plunging	P L AH1 N JH IH0 NG
+kilogram	K IH1 L AH0 G R AE2 M
+expansion	IH0 K S P AE1 N SH AH0 N
+bench	B EH1 N CH
+ninetysix	N AY1 N T IH0 K AH0 S T
+series	S IH1 R IY0 Z
+made	M EY1 D
+ionizes	AY1 AH0 N AY2 Z IH0 Z
+ends	EH1 N D Z
+quantization	K W AA2 N T AH0 Z EY1 SH AH0 N
+pkas	P AA1 S
+parlance	P AA1 R L AH0 N S
+stand	S T AE1 N D
+transferring	T R AE0 N S F ER1 IH0 NG
+fractional	F R AE1 K SH AH0 N AH0 L
+fourteen	F AO1 R T IY1 N
+explosion	IH0 K S P L OW1 ZH AH0 N
+solving	S AA1 L V IH0 NG
+fiftyfour	F IH1 F T Y UW2 F ER0
+follow	F AA1 L OW0
+recipe	R EH1 S AH0 P IY0
+depends	D IH0 P EH1 N D Z
+path	P AE1 TH
+magnet	M AE1 G N AH0 T
+linked	L IH1 NG K T
+proteins	P R OW1 T IY2 N Z
+conserve	K AH0 N S ER1 V
+continued	K AH0 N T IH1 N Y UW0 D
+build	B IH1 L D
+operate	AA1 P ER0 EY2 T
+kilometers	K AH0 L AA1 M AH0 T ER0 Z
+contract	K AA1 N T R AE2 K T
+h	EY1 CH
+hthree	TH AE1 R IY0
+closer	K L OW1 Z ER0
+summary	S AH1 M ER0 IY0
+deltag	D EH1 L T AH0 G
+looked	L UH1 K T
+onedimensional	OW0 N EH2 M P IY0 D IH1 SH AH0 N AH0 M
+instances	IH1 N S T AH0 N S AH0 Z
+selection	S AH0 L EH1 K SH AH0 N
+twopfour	T W AH1 P F ER0
+twopfive	T W AH1 P F AY2 V
+purely	P Y UH1 R L IY0
+geometric	JH IY2 AH0 M EH1 T R IH0 K
+reasons	R IY1 Z AH0 N Z
+staying	S T EY1 IH0 NG
+resonance	R EH1 Z AH0 N AH0 N S
+burning	B ER1 N IH0 NG
+drop	D R AA1 P
+last	L AE1 S T
+nhfourcl	F IH1 N B UH0 L K
+class	K L AE1 S
+pz	P IY1 Z
+instance	IH1 N S T AH0 N S
+colors	K AH1 L ER0 Z
+mix	M IH1 K S
+beginning	B IH0 G IH1 N IH0 NG
+purview	P ER1 V Y UW2
+separating	S EH1 P ER0 EY2 T IH0 NG
+contracts	K AA1 N T R AE2 K T S
+playing	P L EY1 IH0 NG
+leveled	L EH1 V AH0 L D
+x's	EH1 K S IH0 Z
+hydrolyze	HH AY1 D R AH0 L AY2 Z
+diving	D AY1 V IH0 NG
+dive	D AY1 V
+beneath	B IH0 N IY1 TH
+silver	S IH1 L V ER0
+nitrate	N AY1 T R EY2 T
+root	R UW1 T
+boltz	B OW1 L T S
+section	S EH1 K SH AH0 N
+decrease	D IY1 K R IY2 S
+carboncarbon	K AA1 R B OW0 N K AA2 R B AH0 N
+ethane	EH1 TH EY2 N
+butane	B Y UW0 T EY1 N
+wide	W AY1 D
+corresponds	K AO2 R AH0 S P AA1 N D Z
+net	N EH1 T
+particlelike	P AA1 R T AH0 K L AY2 K
+phosphorus	F AA1 S F ER0 AH0 S
+produce	P R OW1 D UW0 S
+seventyone	S EH2 V AH0 N T Y EY1 N
+attractions	AH0 T R AE1 K SH AH0 N Z
+holds	HH OW1 L D Z
+eject	IH0 JH EH1 K T
+qs	K S IY1 Z
+ks	K IY1 S IY1
+omit	OW0 M IH1 T
+among	AH0 M AH1 NG
+stay	S T EY1
+chocolatecovered	K AH0 K AA2 L AH0 S T AA1 R T IH0 K AH0 L
+candies	K AE1 N D IY0 Z
+delicious	D IH0 L IH1 SH AH0 S
+contribute	K AH0 N T R IH1 B Y UW0 T
+deuterium	D UW0 T IY1 R IY0 AH0 M
+hooked	HH UH1 K T
+essence	EH1 S AH0 N S
+thermodynamics	TH ER2 M AH0 D IY1 N IY0 AH0 S K
+fortyfour	F AO1 R T AY0 F AO0 R
+twostep	T UW1 S T EH2 P
+platinum	P L AE1 T N AH0 M
+force	F AO1 R S
+arranged	ER0 EY1 N JH D
+interconvert	IH2 N T ER0 V AA1 K T ER0
+undoubtedly	AH0 N D AW1 T IH0 D L IY0
+solve	S AA1 L V
+iodide	AY1 AH0 D AY2 D
+reflection	R AH0 F L EH1 K SH AH0 N
+generally	JH EH1 N ER0 AH0 L IY0
+accepted	AE0 K S EH1 P T IH0 D
+starting	S T AA1 R T IH0 NG
+making	M EY1 K IH0 NG
+try	T R AY1
+guys	G AY1 Z
+listen	L IH1 S AH0 N
+overlap	OW1 V ER0 L AE2 P
+displays	D IH0 S P L EY1 Z
+appropriately	AH0 P R OW1 P R IY0 IH0 T L IY0
+distinct	D IH0 S T IH1 NG K T
+transferred	T R AE0 N S F ER1 D
+occupying	AA1 K Y AH0 P AY2 IH0 NG
+entire	IH0 N T AY1 ER0
+thousand	TH AW1 Z AH0 N D
+interchangeably	IH2 N T ER0 CH EY1 N JH AH0 B L IY0
+check	CH EH1 K
+fancy	F AE1 N S IY0
+saying	S EY1 IH0 NG
+boils	B OY1 L Z
+bar	B AA1 R
+hydrocarbons	HH AY2 D R OW0 K AA1 R B AH0 N Z
+imparts	IH0 M P AA1 R T S
+intensive	IH0 N T EH1 N S IH0 V
+extent	IH0 K S T EH1 N T
+lowest	L OW1 AH0 S T
+pascal's	P AE1 S K AH0 L Z
+triangle	T R AY1 AE2 NG G AH0 L
+easily	IY1 Z AH0 L IY0
+addition	AH0 D IH1 SH AH0 N
+involving	IH0 N V AA1 L V IH0 NG
+momenta	M OW0 M EH1 N T AH0
+cfivehtwelve	F IH0 V ER1 T AH0 F T
+rt	R EH1 T S
+lots	L AA1 T S
+k's	K EY1 Z
+reaction's	R IY1 CH AH0 K AH0 N Z
+medal	M EH1 D AH0 L
+plated	P L EY1 T AH0 D
+within	W IH0 DH IH1 N
+marble	M AA1 R B AH0 L
+rolling	R OW1 L IH0 NG
+short	SH AO1 R T
+pathway	P AE1 TH W EY2
+threebromo	TH R IY1 B R AH0 M OW0
+according	AH0 K AO1 R D IH0 NG
+suffocate	S AH1 F AH0 K EY2 T
+while	W AY1 L
+breathe	B R IY1 DH
+mouthful	M AW1 TH F UH2 L
+practice	P R AE1 K T AH0 S
+accepts	AE0 K S EH1 P T S
+written	R IH1 T AH0 N
+partially	P AA1 R SH AH0 L IY0
+psi	S AY1
+dramatic	D R AH0 M AE1 T IH0 K
+difficult	D IH1 F AH0 K AH0 L T
+imagine	IH0 M AE1 JH AH0 N
+superimposing	S UW2 P ER0 AH0 M P S UW1 IH0 NG Z
+mirror	M IH1 R ER0
+images	IH1 M AH0 JH AH0 Z
+compressibility	K AH0 M P R EH2 S AH0 B IH1 L IH0 T IY0
+maintained	M EY0 N T EY1 N D
+blood	B L AH1 D
+magnesium	M AE0 G N IY1 Z IY0 AH0 M
+spins	S P IH1 N Z
+smallest	S M AO1 L AH0 S T
+fashion	F AE1 SH AH0 N
+qualitative	K W AA1 L AH0 T EY2 T IH0 V
+predicts	P R IH0 D IH1 K T S
+before	B IH0 F AO1 R
+understood	AH2 N D ER0 S T UH1 D
+cysteine	S IH0 S T IY1 N
+pka's	P EY1 Z
+proceeded	P R AH0 S IY1 D AH0 D
+catalysts	K AE1 T AH0 L AH0 S T S
+exists	IH0 G Z IH1 S T S
+realize	R IY1 L AY2 Z
+minimum	M IH1 N AH0 M AH0 M
+required	R IY0 K W AY1 ER0 D
+cancel	K AE1 N S AH0 L
+enthalpic	IH0 N TH AA1 L P IH0 K
+entropic	EH0 N T R AA1 P IH0 K
+bent	B EH1 N T
+collapsed	K AH0 L AE1 P S T
+upon	AH0 P AA1 N
+threed	TH R IY1 D
+nor	N AO1 R
+kill	K IH1 L
+amazing	AH0 M EY1 Z IH0 NG
+speeds	S P IY1 D Z
+modest	M AA1 D AH0 S T
+demonstrate	D EH1 M AH0 N S T R EY2 T
+creates	K R IY0 EY1 T S
+reacts	R IY0 AE1 K T S
+happened	HH AE1 P AH0 N D
+application	AE2 P L AH0 K EY1 SH AH0 N
+swimming	S W IH1 M IH0 NG
+catalyzed	K AE1 T AH0 L AY2 Z D
+proceeds	P R OW1 S IY0 D Z
+wherever	W EH0 R EH1 V ER0
+combinations	K AA2 M B AH0 N EY1 SH AH0 N Z
+cross	K R AO1 S
+solidgas	S AA1 L IY0 G AE0 S
+quantity	K W AA1 N T AH0 T IY0
+bubble	B AH1 B AH0 L
+kinds	K AY1 N D Z
+contraction	K AH0 N T R AE1 K SH AH0 N
+isothermally	AY2 S AH0 TH ER1 M AH0 L IY0
+flowing	F L OW1 IH0 NG
+beyond	B IH0 AA1 N D
+multi	M AH1 L T IY0
+overlapped	OW1 V ER0 L AE2 P T
+oxygens	AA1 K S AH0 JH AH0 N Z
+none	N AH1 N
+skeletal	S K EH1 L AH0 T AH0 L
+acetate	AE1 S AH0 T EY2 T
+hthreeccoo	TH AA0 R IY0 K UW1
+preferred	P R AH0 F ER1 D
+lost	L AO1 S T
+outlined	AW1 T L AY2 N D
+expanding	IH0 K S P AE1 N D IH0 NG
+adiabatically	EY2 D IY0 AE1 T AH0 K AH0 B L IY0
+consumed	K AH0 N S UW1 M D
+accepting	AE0 K S EH1 P T IH0 NG
+matches	M AE1 CH AH0 Z
+highenergy	HH AY1 AH0 N G ER0 IY0
+achieve	AH0 CH IY1 V
+dna	D IY1 EH2 N EY1
+spread	S P R EH1 D
+interacting	IH2 N T ER0 AE1 K T IH0 NG
+tenfold	T EH1 N F OW2 L D
+connection	K AH0 N EH1 K SH AH0 N
+microscopic	M AY2 K R AH0 S K AA1 P IH0 K
+hybrid	HH AY1 B R AH0 D
+ammonia	AH0 M OW1 N Y AH0
+rubber	R AH1 B ER0
+pull	P UH1 L
+choice	CH OY1 S
+ok	OW1 K EY1
+beaker	B IY1 K ER0
+w	D AH1 B AH0 L Y UW0
+seventeen	S EH1 V AH0 N T IY1 N
+numerically	N UW0 M EH1 R IH0 K L IY0
+potentials	P AH0 T EH1 N CH AH0 L Z
+relieve	R IH0 L IY1 V
+chromium	K R OW1 M IY0 AH0 M
+finds	F AY1 N D Z
+delocalized	D EH1 L AH0 K AH0 L AY2 Z D
+indicator	IH1 N D AH0 K EY2 T ER0
+skip	S K IH1 P
+sorry	S AA1 R IY0
+applied	AH0 P L AY1 D
+area	EH1 R IY0 AH0
+aqueous	EY1 K W IY0 AH0 S
+wil	W IH1 L
+redblue	R EH1 D B L IY0
+occurred	AH0 K ER1 D
+hand	HH AE1 N D
+hear	HH IY1 R
+sounds	S AW1 N D Z
+fit	F IH1 T
+tube	T UW1 B
+cylinder	S IH1 L AH0 N D ER0
+electrical	IH0 L EH1 K T R IH0 K AH0 L
+calculated	K AE1 L K Y AH0 L EY2 T AH0 D
+chemquiz	CH EH1 K W IH0 Z AH0 N
+pclfive	K L IH0 F K AY1 V
+options	AA1 P SH AH0 N Z
+doubles	D AH1 B AH0 L Z
+antiparallel	AE2 N T AH0 P AA1 R AH0 L AH0
+shows	SH OW1 Z
+immersing	IH0 M ER1 S IH0 NG
+solved	S AA1 L V D
+boxes	B AA1 K S AH0 Z
+plusminus	P L AH1 Z M AH0 N AH0 S
+somewhere	S AH1 M W EH2 R
+dim	D IH1 M
+edges	EH1 JH AH0 Z
+great	G R EY1 T
+amps	AE1 M P S
+ampere	AE1 M P ER0
+coulomb	K AH1 L AH0 M
+microstate	M AY1 K R OW0 S T EY2 T
+memorize	M EH1 M ER0 AY2 Z
+fractions	F R AE1 K SH AH0 N Z
+q's	K Y UW1 Z
+linearly	L IH1 N IY0 ER0 L IY0
+friends	F R EH1 N D Z
+bits	B IH1 T S
+hco	K OW1
+kidneys	K IH1 D N IY0 Z
+shields	SH IY1 L D Z
+almost	AO1 L M OW2 S T
+poh	P OW1
+subtracted	S AH0 B T R AE1 K T IH0 D
+grand	G R AE1 N D
+magnitude	M AE1 G N AH0 T UW2 D
+saw	S AO1
+peroxide	P ER0 AA1 K S AY2 D
+carbonated	K AA1 R B AH0 N EY2 T AH0 D
+beverage	B EH1 V ER0 IH0 JH
+mathematical	M AE2 TH AH0 M AE1 T IH0 K AH0 L
+exact	IH0 G Z AE1 K T
+catalysis	K AH0 T AE1 L AH0 S AH0 S
+lowers	L OW1 ER0 Z
+barrier	B AE1 R IY0 ER0
+new	N UW1
+sps	S P IY1 S
+py	P AY1
+tumbling	T AH1 M B AH0 L IH0 NG
+efficient	IH0 F IH1 SH AH0 N T
+pick	P IH1 K
+situation	S IH2 CH UW0 EY1 SH AH0 N
+production	P R AH0 D AH1 K SH AH0 N
+prefer	P R AH0 F ER1
+reside	R IH0 Z AY1 D
+loop	L UW1 P
+magnets	M AE1 G N AH0 T S
+bathe	B EY1 DH
+ultraviolet	AH2 L T R AH0 V AY1 AH0 L IH0 T
+hit	HH IH1 T
+predictable	P R IH0 D IH1 K T AH0 B AH0 L
+obstacle	AA1 B S T AH0 K AH0 L
+ammonium	AH0 M OW1 N IY0 AH0 M
+whether	W EH1 DH ER0
+ozone	OW1 Z OW2 N
+energylevel	EH2 N JH ER0 V IH1 L IH0 JH
+spacing	S P EY1 S IH0 NG
+derive	D ER0 AY1 V
+donated	D OW1 N EY2 T AH0 D
+millicurie	M IH0 L IH1 K Y ER0 IY0
+donating	D OW1 N EY2 T IH0 NG
+float	F L OW1 T
+envelope	EH1 N V AH0 L OW2 P
+reaching	R IY1 CH IH0 NG
+oscillatory	AA1 S AH0 L AH0 T AO2 R IY0
+require	R IY2 K W AY1 ER0
+features	F IY1 CH ER0 Z
+statistical	S T AH0 T IH1 S T IH0 K AH0 L
+argument	AA1 R G Y AH0 M AH0 N T
+ballpark	B AO1 L P AA2 R K
+quotient	K W OW1 SH AH0 N T
+evaporate	IH0 V AE1 P ER0 EY2 T
+locked	L AA1 K T
+synchrony	S IH1 NG K R AH0 N IY0
+autodissociation	AO2 T AH0 D AH0 S AH0 T EY1 SH AH0 N
+abbreviated	AH0 B R IY1 V IY0 EY2 T AH0 D
+significantly	S IH0 G N IH1 F IH0 K AH0 N T L IY0
+spectacular	S P EH0 K T AE1 K Y AH0 L ER0
+demonstration	D EH2 M AH0 N S T R EY1 SH AH0 N
+microwave	M AY1 K R AH0 W EY2 V
+fortynine	F AO1 R T AY2 N IH0 N
+spookier	S P UH1 K IY0 P ER0
+diamagnetic	D AY2 AH0 M AE0 G N EH1 T IH0 K
+closely	K L OW1 S L IY0
+create	K R IY0 EY1 T
+completion	K AH0 M P L IY1 SH AH0 N
+kas	K AE1 S
+kbs	K IY1 B IY1 S IY1
+ka	K AA1
+corresponding	K AO2 R AH0 S P AA1 N D IH0 NG
+glance	G L AE1 N S
+stereoisomers	S T EH1 R IY0 AH0 Z W EY2 M Z ER0
+willing	W IH1 L IH0 NG
+horrible	HH AO1 R AH0 B AH0 L
+hardware	HH AA1 R D W EH2 R
+store	S T AO1 R
+wanted	W AA1 N T AH0 D
+dimensionally	D IH0 M EH1 N SH AH0 N AH0 L IY0
+tv	T IY1 V IY1
+scientist	S AY1 AH0 N T IH0 S T
+coat	K OW1 T
+he'll	HH IY1 L
+safety	S EY1 F T IY0
+glasses	G L AE1 S AH0 Z
+turn	T ER1 N
+twelve's	T W EH1 L V Z
+carbonthirteen	K AA1 R B AH0 N TH R IY2 N T
+bracketing	B R AE1 K AH0 T IH0 NG
+oxidationreduction	AA2 K S AH0 D IY0 T AA0 R IY0 Z AE1 N T IH0 K
+reconcile	R EH1 K AH0 N S AY2 L
+emit	IH0 M IH1 T
+laws	L AO1 Z
+distinguished	D IH0 S T IH1 NG G W IH0 SH T
+centers	S EH1 N T ER0 Z
+varies	V EH1 R IY0 Z
+squeeze	S K W IY1 Z
+brtwo	B R UW1 T W OW1
+probably	P R AA1 B AH0 B L IY0
+bodies	B AA1 D IY0 Z
+metabolism	M AH0 T AE1 B AH0 L IH2 Z AH0 M
+nozzle	N AA1 Z AH0 L
+pushes	P UH1 SH AH0 Z
+enter	EH1 N T ER0
+people	P IY1 P AH0 L
+seats	S IY1 T S
+bus	B AH1 S
+electronegativities	IH0 L EH2 K T R OW0 AH0 N T IH1 G AH0 S T IY0 Z
+straightforward	S T R EY1 T F AO1 R W ER0 D
+monotonic	M AA2 N AH0 T AA1 N IH0 K
+fluid	F L UW1 AH0 D
+least	L IY1 S T
+substituents	S AH1 B S T IH0 T UW2 N T S
+o	OW1
+necessarily	N EH2 S AH0 S EH1 R AH0 L IY0
+gravitational	G R AE2 V IH0 T EY1 SH AH0 N AH0 L
+special	S P EH1 SH AH0 L
+normal	N AO1 R M AH0 L
+notation	N OW0 T EY1 SH AH0 N
+ptwoofive	T UW1 F OY1 V IH0 D
+picked	P IH1 K T
+drops	D R AA1 P S
+interior	IH0 N T IH1 R IY0 ER0
+sun	S AH1 N
+denominator	D IH0 N AA1 M AH0 N EY2 T ER0
+numerator	N UW1 M ER0 EY2 T ER0
+inject	IH0 N JH EH1 K T
+generate	JH EH1 N ER0 EY2 T
+construct	K AA1 N S T R AH0 K T
+nitric	N AY1 T R IH0 K
+hnothree	HH N AA1 TH R IY0
+battery	B AE1 T ER0 IY0
+constructive	K AH0 N S T R AH1 K T IH0 V
+interference	IH2 N T ER0 F IH1 R AH0 N S
+impacting	IH0 M P AE1 K T IH0 NG
+forces	F AO1 R S IH0 Z
+careful	K EH1 R F AH0 L
+surrounding	S ER0 AW1 N D IH0 NG
+ironic	AY0 R AA1 N IH0 K
+kaone	K AA1 OW0 N
+katwo	K AE1 T W OW0
+someone	S AH1 M W AH2 N
+hyperventilating	HH AY0 P ER1 V AH0 T AH0 N T IH0 L IH0 NG
+fourf	F AO1 R F
+laboratory	L AE1 B R AH0 T AO2 R IY0
+ntwoofive	T UW1 N W OY1 F IH0 V
+observing	AH0 B Z ER1 V IH0 NG
+current	K ER1 AH0 N T
+fits	F IH1 T S
+fourteenth	F AO1 R T IY1 N TH
+proper	P R AA1 P ER0
+izero	IY1 Z ER0 OW0
+indicates	IH1 N D IH0 K EY2 T S
+analogy	AH0 N AE1 L AH0 JH IY0
+deviation	D IY2 V IY0 EY1 SH AH0 N
+ideality	AY0 D IY1 L AH0 T IY0
+thirty	TH ER1 D IY0
+nanometer	N AE1 N OW0 M EH2 T ER0
+energetic	EH2 N ER0 JH EH1 T IH0 K
+reds	R EH1 D Z
+yellows	Y EH1 L OW0 Z
+passing	P AE1 S IH0 NG
+briefly	B R IY1 F L IY0
+bounce	B AW1 N S
+hundredths	HH AH1 N D R AH0 D TH S
+pauli	P AO1 L IY0
+exclusion	IH0 K S K L UW1 ZH AH0 N
+hybridized	HH AY1 B R AH0 D AY2 Z D
+buffers	B AH1 F ER0 Z
+grouping	G R UW1 P IH0 NG
+accounts	AH0 K AW1 N T S
+transmitted	T R AE0 N S M IH1 T IH0 D
+he	HH IY1
+transient	T R AE1 N ZH AH0 N T
+induced	IH0 N D UW1 S T
+subtract	S AH0 B T R AE1 K T
+nthree	TH R IY1 N
+intimately	IH1 N T AH0 M AH0 T L IY0
+mixed	M IH1 K S T
+butadiene	B Y UW0 T EY1 D IY0 N
+concerted	K AH0 N S ER1 T AH0 D
+curious	K Y UH1 R IY0 AH0 S
+ensure	EH0 N SH UH1 R
+prepared	P R IY0 P EH1 R D
+unique	Y UW0 N IY1 K
+catalyst	K AE1 T AH0 L AH0 S T
+heard	HH ER1 D
+fortyfive	F AO1 R T IH0 F Y UW2 T
+seventyeight	S EH1 V AH0 N T IY0 IH0 T
+sixtynine	S IH0 K S T IH1 N S IY0 N
+seventysix	S EH2 V AH0 N T IH1 V AH0 S T
+occupy	AA1 K Y AH0 P AY2
+multiplicity	M AH2 L T AH0 P L IH1 S IH0 T IY0
+literatmospheres	L AY2 T ER0 AE1 S T ER0 M P AO2 Z
+never	N EH1 V ER0
+rule	R UW1 L
+followed	F AA1 L OW0 D
+exceptions	IH0 K S EH1 P SH AH0 N Z
+slicing	S L AY1 S IH0 NG
+hint	HH IH1 N T
+exchange	IH0 K S CH EY1 N JH
+coldest	K OW1 L D AH0 S T
+achieved	AH0 CH IY1 V D
+boseeinstein	B OW1 Z IY0 AH0 N S T IY0 N
+condensation	K AA2 N D AH0 N S EY1 SH AH0 N
+motivated	M OW1 T AH0 V EY2 T AH0 D
+precipitate	P R IH0 S IH1 P IH0 T EY2 T
+split	S P L IH1 T
+rationalize	R AE1 SH AH0 N AH0 L AY2 Z
+concentration's	K AA2 N S AH0 N T R EY1 SH AH0 N Z
+building	B IH1 L D IH0 NG
+achieving	AH0 CH IY1 V IH0 NG
+earlier	ER1 L IY0 ER0
+mask	M AE1 S K
+crazy	K R EY1 Z IY0
+impacted	IH1 M P AE2 K T IH0 D
+matters	M AE1 T ER0 Z
+chirality	CH ER0 AE1 L AH0 T IY0
+asymmetric	AE2 S IH0 M EH1 T R IH0 K
+key	K IY1
+repel	R IH0 P EH1 L
+inverse	IH2 N V ER1 S
+compared	K AH0 M P EH1 R D
+trifluoride	T R IH1 F L IY0 W AO1 R JH
+produces	P R AH0 D UW1 S AH0 Z
+molten	M OW1 L T AH0 N
+seventythree	S EH1 V AH0 N T AY2 TH R
+electrodes	IH0 L EH1 K T R OW0 D Z
+aligned	AH0 L AY1 N D
+such	S AH1 CH
+skunk	S K AH1 NG K
+spray	S P R EY1
+components	K AH0 M P OW1 N AH0 N T S
+positions	P AH0 Z IH1 SH AH0 N Z
+sink	S IH1 NG K
+own	OW1 N
+auction	AA1 K SH AH0 N
+thirtyfour	TH ER1 T AY2 F R UH0 TH
+remains	R IH0 M EY1 N Z
+additional	AH0 D IH1 SH AH0 N AH0 L
+protonation	P R OW2 T AH0 N EY1 SH AH0 N
+henry's	HH EH1 N R IY0 Z
+spells	S P EH1 L Z
+guy's	G AY1 Z
+roy	R OY1
+biv	B IY1 V
+chlorines	K L AO1 R IY0 N AH0 S
+plating	P L EY1 T IH0 NG
+plates	P L EY1 T S
+leads	L IY1 D Z
+finding	F AY1 N D IH0 NG
+stepwise	S T EH1 P W AY2 Z
+guess	G EH1 S
+forty	F AO1 R T IY0
+sequence	S IY1 K W AH0 N S
+tightly	T AY1 T L IY0
+compact	K AA1 M P AE0 K T
+described	D IH0 S K R AY1 B D
+agent	EY1 JH AH0 N T
+equalized	IY1 K W AH0 L AY2 Z D
+hbr	B AA1 R
+electrochemical	AH0 L EH2 K T R OW0 K EH1 M IH0 K AH0 L
+diffracting	D IH0 F R AE1 K T IH0 NG
+spreading	S P R EH1 D IH0 NG
+poked	P OW1 K T
+oxidizing	AA1 K S AH0 D AY2 Z IH0 NG
+agents	EY1 JH AH0 N T S
+regular	R EH1 G Y AH0 L ER0
+years	Y IH1 R Z
+genius	JH IY1 N Y AH0 S
+dramatically	D R AH0 M AE1 T IH0 K L IY0
+tumble	T AH1 M B AH0 L
+clearly	K L IH1 R L IY0
+ninety	N AY1 N T IY0
+represents	R EH2 P R AH0 Z EH1 N T S
+image	IH1 M AH0 JH
+diffuse	D IH0 F Y UW1 S
+impact	IH1 M P AE0 K T
+conduct	K AA1 N D AH0 K T
+electricity	IH0 L EH2 K T R IH1 S AH0 T IY0
+gap	G AE1 P
+report	R IY0 P AO1 R T
+solubility	S AH0 L AH0 B IH1 L AH0 T IY0
+conductometric	K AA2 N D AH2 K T AH0 M EH1 T ER0
+diatomics	D AY2 AH0 T AA1 M IH0 K AH0 S
+areas	EH1 R IY0 AH0 Z
+influence	IH1 N F L UW0 AH0 N S
+referring	R IH0 F ER1 IH0 NG
+smell	S M EH1 L
+touch	T AH1 CH
+polymer	P AA1 L AH0 M ER0
+clue	K L UW1
+possibilities	P AA2 S AH0 B IH1 L AH0 T IY0 Z
+extended	IH0 K S T EH1 N D AH0 D
+sketch	S K EH1 CH
+classical	K L AE1 S IH0 K AH0 L
+heats	HH IY1 T S
+mils	M IH1 L Z
+cltwo	K L UW1 T W OW1
+discharge	D IH1 S CH AA2 R JH
+aerosol	EH1 R AH0 S AA2 L
+feel	F IY1 L
+longer	L AO1 NG G ER0
+applies	AH0 P L AY1 Z
+reduces	R AH0 D UW1 S AH0 Z
+fourth	F AO1 R TH
+naoh	N EY1 OW0
+degree	D IH0 G R IY1
+pairbond	P EH1 R B AO2 N D
+oxidized	AA1 K S AH0 D AY2 Z D
+hopefully	HH OW1 P F AH0 L IY0
+br	B IY1 R
+piece	P IY1 S
+picking	P IH1 K IH0 NG
+strange	S T R EY1 N JH
+edge	EH1 JH
+noble	N OW1 B AH0 L
+did	D IH1 D
+learn	L ER1 N
+fiftythree	F IH1 F T IY0 R IY1
+fortyseven	F AO0 R T IY1 S IH0 V AH0 N
+sublimes	S AH0 B L AY1 M Z
+place	P L EY1 S
+beauty	B Y UW1 T IY0
+g's	JH IY1 Z
+varying	V EH1 R IY0 IH0 NG
+carbonate	K AA1 R B AH0 N EY2 T
+limestone	L AY1 M S T OW2 N
+constructively	K AH0 N S T R AH1 K T IH0 V L IY0
+tremendously	T R AH0 M EH1 N D AH0 S L IY0
+theta	TH EY1 T AH0
+compressed	K AH0 M P R EH1 S T
+characterized	K EH1 R AH0 K T ER0 AY2 Z D
+controlled	K AH0 N T R OW1 L D
+ctwohfour	K W EY1 F AW0 CH ER0
+putting	P AH1 T IH0 NG
+methane	M EH1 TH EY2 N
+chfour	K AW1 R
+sufficient	S AH0 F IH1 SH AH0 N T
+they'd	DH EY1 D
+strengths	S T R EH1 NG K TH S
+weaknesses	W IY1 K N AH0 S AH0 Z
+method	M EH1 TH AH0 D
+calculating	K AE1 L K Y AH0 L EY2 T IH0 NG
+equality	IH0 K W AA1 L AH0 T IY0
+accounting	AH0 K AW1 N T IH0 NG
+deltas	D EH1 L T AH0 Z
+feature	F IY1 CH ER0
+isotherm	IH1 S AH0 HH EH2 M ER0
+week	W IY1 K
+typical	T IH1 P AH0 K AH0 L
+choices	CH OY1 S AH0 Z
+radii	R EY1 D IY0
+bet	B EH1 T
+cast	K AE1 S T
+formaldehyde	F AO0 R M AE1 L D AH0 HH AY2 D
+however	HH AW2 EH1 V ER0
+thrive	TH R AY1 V
+mv	V AH1 M
+kw	K W AA1
+runs	R AH1 N Z
+hump	HH AH1 M P
+deform	D IY2 F AO1 R M
+twisted	T W IH1 S T AH0 D
+ours	AW1 ER0 Z
+naming	N EY1 M IH0 NG
+isoelectronic	AY2 S OW0 IH0 L EH0 K T R AA1 N IH0 K
+itwo	IH1 T W OW0
+hc	HH IY1 CH
+lambda	L AE1 M D AH0
+minute	M IH1 N AH0 T
+skin	S K IH1 N
+wonder	W AH1 N D ER0
+via	V AY1 AH0
+enzymes	EH1 N Z AY2 M Z
+bind	B AY1 N D
+breathing	B R IY1 DH IH0 NG
+comparison	K AH0 M P EH1 R AH0 S AH0 N
+dimerization	D IH2 M ER0 AH0 Z AH0 T EY1 SH AH0 N
+plateau	P L AE0 T OW1
+condense	K AH0 N D EH1 N S
+tendency	T EH1 N D AH0 N S IY0
+quizzes	K W IH1 Z IH0 Z
+chemquizzes	CH EH1 K M AH0 Z W AA2 Z
+outside	AW1 T S AY1 D
+possibility	P AA2 S AH0 B IH1 L AH0 T IY0
+subtracting	S AH0 B T R AE1 K T IH0 NG
+predictive	P R IH0 D IH1 K T IH0 V
+sfsix	S F IH1 S K IH0 S
+baseconjugate	B AH0 S EH1 K SH AH0 JH UW0 NG
+protein	P R OW1 T IY2 N
+hydrolyzed	HH AY1 D R AH0 L AY2 Z D
+highway	HH AY1 W EY2
+whenever	W EH0 N EH1 V ER0
+farther	F AA1 R DH ER0
+somewhat	S AH1 M W AH1 T
+shorter	SH AO1 R T ER0
+warming	W AO1 R M IH0 NG
+balls	B AO1 L Z
+spontaneously	S P AA0 N T EY1 N IY0 AH0 S L IY0
+causes	K AA1 Z AH0 Z
+standardstate	S T AE1 N D ER0 T S EY2 D
+dipoledipole	D AY0 P AA1 L AH0 JH AH0 P AH0 L
+subject	S AH1 B JH IH0 K T
+weaker	W IY1 K ER0
+operating	AA1 P ER0 EY2 T IH0 NG
+subtle	S AH1 T AH0 L
+isomorphism	AY2 S AH0 M AO1 R F IH0 Z AH0 M
+microscopically	M AY2 K R AH0 S K AA1 P IH0 K L IY0
+falls	F AO1 L Z
+perform	P ER0 F AO1 R M
+catalytic	K AE2 T AH0 L IH1 T IH0 K
+operation	AA2 P ER0 EY1 SH AH0 N
+anymore	EH2 N IY0 M AO1 R
+reciprocals	R IH0 S IH1 P R AH0 K AH0 S AH0 L Z
+obvious	AA1 B V IY0 AH0 S
+remarkable	R IH0 M AA1 R K AH0 B AH0 L
+selectively	S AH0 L EH1 K T IH0 V L IY0
+minimize	M IH1 N AH0 M AY2 Z
+flips	F L IH1 P S
+altered	AO1 L T ER0 D
+piston	P IH1 S T AH0 N
+evacuate	IH0 V AE1 K Y AH0 EY2 T
+explicitly	IH0 K S P L IH1 S AH0 T L IY0
+reject	R IY1 JH EH0 K T
+generic	JH AH0 N EH1 R IH0 K
+sort	S AO1 R T
+ethanoate	EH1 TH AH0 Y OW2 N T
+turnips	T ER1 N AH0 P S
+barely	B EH1 R L IY0
+lift	L IH1 F T
+mini	M IH1 N IY0
+counting	K AW1 N T IH0 NG
+paper	P EY1 P ER0
+quality	K W AA1 L AH0 T IY0
+reversible	R IH0 V ER1 S AH0 B AH0 L
+isomerism	IH1 Z AH0 M IH0 R IH2 Z AH0 M
+stereoisomerism	S T EH2 R IY0 AH0 Z EH1 M AH0 S T S
+proportional	P R AH0 P AO1 R SH AH0 N AH0 L
+unoccupied	AH0 N AA1 K Y AH0 P AY2 D
+lumo	L UW1 M OW0
+pistar	P IH1 S T ER0
+uniquely	Y UW0 N IY1 K L IY0
+suddenly	S AH1 D AH0 N L IY0
+designation	D EH2 Z AH0 G N EY1 SH AH0 N
+lip	L IH1 P
+land	L AE1 N D
+octets	AA1 K T AH0 T S
+hess's	HH EH1 S IH0 Z
+predominate	P R IH0 D AA1 M AH0 N EY2 T
+atmospheric	AE2 T M AH0 S F EH1 R IH0 K
+conjugated	K AA2 N JH AH0 G EY1 T IH0 D
+rotating	R OW1 T EY2 T IH0 NG
+dominated	D AA1 M AH0 N EY2 T AH0 D
+sitting	S IH1 T IH0 NG
+seat	S IY1 T
+picometers	P IH1 K AH0 M EH2 T ER0 Z
+technetium	T EH0 K N EH1 T IY0 AH0 M
+decay	D AH0 K EY1
+exponent	EH1 K S P OW2 N AH0 N T
+prediction	P R IY0 D IH1 K SH AH0 N
+jewels	JH UW1 AH0 L Z
+disturb	D IH0 S T ER1 B
+colored	K AH1 L ER0 D
+bank	B AE1 NG K
+tends	T EH1 N D Z
+baking	B EY1 K IH0 NG
+defined	D IH0 F AY1 N D
+melting	M EH1 L T IH0 NG
+protonate	P R OW1 T AH0 N EY2 T
+lysine	L AY1 S IY0 N
+attains	AH0 T EY1 N Z
+manipulations	M AH0 N IH2 P Y AH0 L EY1 SH AH0 N Z
+acting	AE1 K T IH0 NG
+spend	S P EH1 N D
+billion	B IH1 L Y AH0 N
+incredible	IH0 N K R EH1 D AH0 B AH0 L
+spending	S P EH1 N D IH0 NG
+hazardous	HH AE1 Z ER0 D AH0 S
+prior	P R AY1 ER0
+brighter	B R AY1 T ER0
+replace	R IY2 P L EY1 S
+narrow	N EH1 R OW0
+plane	P L EY1 N
+promoted	P R AH0 M OW1 T AH0 D
+concept	K AA1 N S EH0 P T
+reciprocal	R IH0 S IH1 P R AH0 K AH0 L
+hertz	HH EH1 R T S
+intuition	IH2 N T UW0 IH1 SH AH0 N
+stove	S T OW1 V
+diluting	D AY0 L UW1 T IH0 NG
+assume	AH0 S UW1 M
+xenon	Z IY1 N AA0 N
+tetrafluoride	T EH2 T R AH0 F L AO1 R AH0 JH ER0
+remind	R IY0 M AY1 N D
+shots	SH AA1 T S
+manage	M AE1 N AH0 JH
+phosphorous	F AA1 S F ER0 AH0 S
+brilliant	B R IH1 L Y AH0 N T
+highly	HH AY1 L IY0
+separates	S EH1 P ER0 IH0 T S
+operates	AA1 P ER0 EY2 T S
+efficiency	IH0 F IH1 SH AH0 N S IY0
+catabolism	K AE1 T AH0 B AH0 L IH2 Z AH0 M
+storing	S T AO1 R IH0 NG
+carry	K AE1 R IY0
+depleted	D IH0 P L IY1 T IH0 D
+uranium	Y ER0 EY1 N IY0 AH0 M
+radioactive	R EY2 D IY0 OW0 AE1 K T IH0 V
+fissible	F IH1 S AH0 B AH0 L
+sequential	S AH0 K W EH1 N CH AH0 L
+removing	R IY0 M UW1 V IH0 NG
+pkaone	P AH0 K OW1 N IY0
+influences	IH1 N F L UW2 AH0 N S IH0 Z
+cutting	K AH1 T IH0 NG
+eventually	IH0 V EH1 N CH AH0 W AH0 L IY0
+specifically	S P AH0 S IH1 F IH0 K L IY0
+dumbbell	D AH1 M B EH2 L
+shaped	SH EY1 P T
+counter	K AW1 N T ER0
+nickel	N IH1 K AH0 L
+complex	K AA1 M P L EH0 K S
+displacing	D IH0 S P L EY1 S IH0 NG
+technique	T EH0 K N IY1 K
+calorimetry	K AH0 L AO1 R AH0 T IH2 R T IY0
+revolves	R IY0 V AA1 L V Z
+conservation	K AA2 N S ER0 V EY1 SH AH0 N
+predicted	P R IH0 D IH1 K T IH0 D
+terminology	T ER2 M IH0 N AA1 L AH0 JH IY0
+feed	F IY1 D
+person	P ER1 S AH0 N
+depended	D IH0 P EH1 N D AH0 D
+represented	R EH2 P R AH0 Z EH1 N T AH0 D
+onetwelve	W AH1 N T W EH1 L T F IY0
+acoustic	AH0 K UW1 S T IH0 K
+nonsuperimposable	N AA0 N S AH0 P R IY2 Z IY0 M AA1 P AH0 B AH0 L
+enantiomers	IH0 N AE1 N T IY0 M ER0 Z
+hydrogenhydrogen	HH AY2 D R AH0 JH AH0 N D AO1 R IY0 AH0 N
+absolute	AE1 B S AH0 L UW2 T
+tenelectron	T EH2 N AH0 L EH1 K T R AH0 N
+trapping	T R AE1 P IH0 NG
+formerly	F AO1 R M ER0 L IY0
+intermediate	IH2 N T ER0 M IY1 D IY0 IH0 T
+clouds	K L AW1 D Z
+distorted	D IH0 S T AO1 R T AH0 D
+trillion	T R IH1 L Y AH0 N
+si	S IY1
+driving	D R AY1 V IH0 NG
+spun	S P AH1 N
+shapes	SH EY1 P S
+wire	W AY1 ER0
+connects	K AH0 N EH1 K T S
+lactic	L AE1 K T IH0 K
+broad	B R AO1 D
+infrared	IH2 N F R ER0 EH1 D
+upper	AH1 P ER0
+onesone	W AA1 N AH0 S OW2 N
+twosone	T W OW1 S OW0 N
+threesone	TH R IY1 S AH0 N
+foursone	F AO1 R S AH0 N
+et	EH1 T
+cetera	S EH1 T ER0 AH0
+likes	L AY1 K S
+unfortunately	AH0 N F AO1 R CH AH0 N AH0 T L IY0
+designations	D EH2 Z AH0 G N EY1 SH AH0 N Z
+contains	K AH0 N T EY1 N Z
+symmetry	S IH1 M AH0 T R IY0
+detect	D IH0 T EH1 K T
+defines	D IH0 F AY1 N Z
+audio	AA1 D IY0 OW2
+giving	G IH1 V IH0 NG
+hydrochloric	HH AY2 D R OW0 K AA1 L R IH0 K
+degenerate	D IH0 JH EH1 N ER0 AH0 T
+light's	L AY1 T S
+shielded	SH IY1 L D IH0 D
+cooling	K UW1 L IH0 NG
+accelerated	AE0 K S EH1 L ER0 EY2 T IH0 D
+directed	D ER0 EH1 K T AH0 D
+plain	P L EY1 N
+major	M EY1 JH ER0
+thresholds	TH R EH1 SH HH OW2 L D Z
+underneath	AH2 N D ER0 N IY1 TH
+explanation	EH2 K S P L AH0 N EY1 SH AH0 N
+twopx	T W AA1 P K S
+twopz	T W AH1 P S T IY0
+expansions	IH0 K S P AE1 N SH AH0 N Z
+contractions	K AH0 N T R AE1 K SH AH0 N Z
+layer	L EY1 ER0
+limits	L IH1 M AH0 T S
+exerting	IH0 G Z ER1 T IH0 NG
+triggers	T R IH1 G ER0 Z
+htwoo	T UW1 W OW1
+shake	SH EY1 K
+chcltwo	CH L EH1 T W OW1
+confirmation	K AA2 N F ER0 M EY1 SH AH0 N
+lose	L UW1 Z
+gain	G EY1 N
+formate	F AO0 R M EY1 T
+formic	F AO1 R M IH0 K
+warms	W AO1 R M Z
+axial	AE1 K S IY0 AH0 L
+equatorial	IY2 K W AH0 T AO1 R IY0 AH0 L
+felt	F EH1 L T
+vigorous	V IH1 G ER0 AH0 S
+compressible	K AH0 M P R EH1 S AH0 B AH0 L
+dips	D IH1 P S
+variations	V EH2 R IY0 EY1 SH AH0 N Z
+ninetytwo	N IY2 IH0 N T UW1 T OW0
+sketched	S K EH1 CH T
+exposure	IH0 K S P OW1 ZH ER0
+undetermined	AH2 N D IH0 T ER1 M IH0 N D
+option	AA1 P SH AH0 N
+hone	HH OW1 N
+simpler	S IH1 M P AH0 L ER0
+differently	D IH1 F R AH0 N T L IY0
+elongated	IH0 L AO1 NG G EY0 T AH0 D
+rusting	R AH1 S T IH0 NG
+vector	V EH1 K T ER0
+fulfilled	F UH0 L F IH1 L D
+account	AH0 K AW1 N T
+heading	HH EH1 D IH0 NG
+resulting	R IH0 Z AH1 L T IH0 NG
+design	D IH0 Z AY1 N
+detector	D IH0 T EH1 K T ER0
+detects	D IH0 T EH1 K T S
+divide	D IH0 V AY1 D
+observe	AH0 B Z ER1 V
+voltages	V OW1 L T AH0 JH AH0 Z
+contributes	K AH0 N T R IH1 B Y UW0 T S
+halffilled	HH AE1 F L AY2 D
+affecting	AH0 F EH1 K T IH0 NG
+stopped	S T AA1 P T
+unprotonated	AH0 N P R OW1 T AH0 N T IH0 D
+protonated	P R OW1 T AH0 N EY2 T IH0 D
+predominant	P R IH0 D AA1 M AH0 N AH0 N T
+unchanged	AH0 N CH EY1 N JH D
+lobe	L OW1 B
+producing	P R AH0 D UW1 S IH0 NG
+entropically	EH2 N T R AH0 P IH1 K L IY0
+intuitively	IH0 N T UW1 IH0 T IH0 V L IY0
+onep	W AH1 N P
+gamma	G AE1 M AH0
+theory	TH IH1 R IY0
+fifteen	F IH0 F T IY1 N
+sixteenth	S IH0 K S T IY1 N TH
+remain	R IH0 M EY1 N
+hund's	HH AH1 N D Z
+study	S T AH1 D IY0
+cotwo	K AA1 T W AA2
+dimers	D IH1 M ER0 Z
+overvoltage	OW1 V ER0 V OW2 L T EY1 T
+pressurevolume	P R EH1 S V ER0 AH0 L Y UW2 M
+losses	L AO1 S AH0 Z
+unless	AH0 N L EH1 S
+fluoride	F L UH1 R AY2 D
+proven	P R UW1 V AH0 N
+nobel	N OW0 B EH1 L
+prize	P R AY1 Z
+awarded	AH0 W AO1 R D AH0 D
+condensate	K AA1 N D AH0 N S EY2 T
+drew	D R UW1
+schematically	S K AH0 M AE1 T IH0 K L IY0
+safely	S EY1 F L IY0
+letter	L EH1 T ER0
+reducer	R IH0 D UW1 S ER0
+distinctive	D IH0 S T IH1 NG K T IH0 V
+gasses	G AE1 S IH0 Z
+deviate	D IY1 V IY0 EY2 T
+hardly	HH AA1 R D L IY0
+ideally	AY0 D IY1 L IY0
+refers	R AH0 F ER1 Z
+ionized	AY1 AH0 N AY2 Z D
+involves	IH0 N V AA1 L V Z
+tracking	T R AE1 K IH0 NG
+complete	K AH0 M P L IY1 T
+peroxidase	P ER0 AA1 K S AH0 D EY2 Z
+counterparts	K AW1 N T ER0 P AA2 R T S
+concerned	K AH0 N S ER1 N D
+collections	K AH0 L EH1 K SH AH0 N Z
+explosive	IH0 K S P L OW1 S IH0 V
+polymerize	P AA1 L IH0 M ER0 AY2 Z
+polyethylene	P AA2 L IY0 EH1 TH AH0 L IY2 N
+intramolecular	IH2 N T R AH0 M AH0 L UW1 K IH0 K AO0 L
+predicting	P R IH0 D IH1 K T IH0 NG
+ready	R EH1 D IY0
+flat	F L AE1 T
+accommodates	AH0 K AA1 M AH0 D EY2 T S
+helps	HH EH1 L P S
+ctwohtwo	K W T W OW1 T F OW0
+flavors	F L EY1 V ER0 Z
+connected	K AH0 N EH1 K T AH0 D
+spacings	S P EY1 S IH0 NG Z
+originates	ER0 IH1 JH AH0 N EY2 T S
+principles	P R IH1 N S AH0 P AH0 L Z
+desktop	D EH1 S K T AA2 P
+proportionality	P R AH0 P AO2 R SH AH0 N AE1 L IH0 T IY0
+ran	R AE1 N
+limited	L IH1 M AH0 T AH0 D
+traveling	T R AE1 V AH0 L IH0 NG
+discharging	D IH0 S CH AA1 R JH IH0 NG
+today	T AH0 D EY1
+vectors	V EH1 K T ER0 Z
+link	L IH1 NG K
+elementary	EH2 L AH0 M EH1 N T R IY0
+eightytwo	EY0 T IY0 T IY1 W AA2
+contrast	K AA1 N T R AE0 S T
+dissolution	D IH2 S AH0 L UW1 SH AH0 N
+alkaline	AE1 L K AH0 L AY2 N
+accompanied	AH0 K AH1 M P AH0 N IY0 D
+infer	IH0 N F ER1
+doublebonded	D AH1 B AH0 L B AA2 N D IH0 D
+stabilization	S T EY2 B AH0 L AH0 Z EY1 SH AH0 N
+separation	S EH2 P ER0 EY1 SH AH0 N
+part	P AA1 R T
+heavy	HH EH1 V IY0
+forth	F AO1 R TH
+involve	IH0 N V AA1 L V
+pronounced	P R AH0 N AW1 N S T
+overlaid	OW1 V ER0 L EY2 D
+h's	EY1 CH IH0 Z
+spinning	S P IH1 N IH0 NG
+damage	D AE1 M AH0 JH
+lung	L AH1 NG
+tissues	T IH1 S Y UW2 Z
+manifests	M AE1 N AH0 F EH2 S T S
+eyeballs	AY1 B AO2 L Z
+obeys	OW0 B EY1 Z
+positivelycharged	P AH0 S IH1 JH AH0 T L AE2 V IH0 T ER0
+negativelycharged	N EH1 G AH0 K AH0 T L AA2 R JH IH0 V
+pulling	P UH1 L IH0 NG
+stretching	S T R EH1 CH IH0 NG
+rearranging	R IY2 ER0 EY1 N JH IH0 NG
+easiest	IY1 Z IY0 AH0 S T
+notions	N OW1 SH AH0 N Z
+applications	AE2 P L AH0 K EY1 SH AH0 N Z
+home	HH OW1 M
+sound	S AW1 N D
+heterogeneous	HH EH2 T ER0 AH0 JH IY1 N Y AH0 S
+carboxylic	K AA0 R B AO0 K S IH1 L IH0 K
+mixtures	M IH1 K S CH ER0 Z
+peh	P EH1
+running	R AH1 N IH0 NG
+diagonal	D AY0 AE1 G AH0 N AH0 L
+early	ER1 L IY0
+although	AO2 L DH OW1
+jostling	JH AA1 S AH0 L IH0 NG
+squeezed	S K W IY1 Z D
+concurrent	K AH0 N K ER1 AH0 N T
+metallic	M AH0 T AE1 L IH0 K
+domains	D OW0 M EY1 N Z
+domain	D OW0 M EY1 N
+differentiates	D IH0 F ER0 EH1 N SH IY0 EY2 T S
+thirtytwo	TH ER0 T IY1 T OW0
+ourselves	AW0 ER0 S EH1 L V Z
+tough	T AH1 F
+historical	HH IH0 S T AO1 R IH0 K AH0 L
+quadratic	K W AA2 R D AE1 T IH0 K
+chromate	K R OW0 M AE1 T
+anyway	EH1 N IY0 W EY2
+offcenter	AO1 F S EH2 N T ER0
+powers	P AW1 ER0 Z
+distinguish	D IH0 S T IH1 NG G W IH0 SH
+sophisticated	S AH0 F IH1 S T AH0 K EY2 T IH0 D
+betwo	B EH1 T W OW1
+electrochemistry	IH0 L EH2 K T R OW0 K AE1 N T R IY0 Z IH0 M IY0
+bad	B AE1 D
+assumption	AH0 S AH1 M P SH AH0 N
+maxwell	M AE1 K S W EH2 L
+boltzmann	B OW1 L T S M AH0 N
+microwaves	M AY1 K R OW0 W EY2 V Z
+type	T AY1 P
+beam	B IY1 M
+hope	HH OW1 P
+thumb	TH AH1 M
+fingers	F IH1 NG G ER0 Z
+fulfill	F UH0 L F IH1 L
+requirement	R IH0 K W AY1 R M AH0 N T
+reactors	R IY0 AE1 K T ER0 Z
+note	N OW1 T
+rust	R AH1 S T
+affects	AE1 F EH0 K T S
+curves	K ER1 V Z
+nu	N UW1
+raised	R EY1 Z D
+analytical	AE2 N AH0 L IH1 T IH0 K AH0 L
+filling	F IH1 L IH0 NG
+consume	K AH0 N S UW1 M
+geometries	JH IY0 AA1 M AH0 T R IY0 Z
+sixty	S IH1 K S T IY0
+mc	M IH0 K
+loss	L AO1 S
+modern	M AA1 D ER0 N
+excitation	EH2 K S AY0 T EY1 SH AH0 N
+recall	R IY1 K AO2 L
+uv	AH1 V
+seffour	S EH1 F UH0 R
+plotting	P L AA1 T IH0 NG
+surmise	S ER1 M AY0 Z
+adenosine	AH0 D EH1 N AH0 S IY2 N
+triphosphate	T R IH1 F AH0 S EY2 T
+ubiquitous	Y UW0 B IH1 K W IH0 T AH0 S
+participating	P AA0 R T IH1 S AH0 P EY2 T IH0 NG
+approximately	AH0 P R AA1 K S AH0 M AH0 T L IY0
+provides	P R AH0 V AY1 D Z
+cushion	K UH1 SH AH0 N
+answered	AE1 N S ER0 D
+arms	AA1 R M Z
+reperform	R EH1 P ER0 F AO2 R M
+metabolize	M AH0 T AE1 B AH0 L AY2 Z
+spthree's	S P IY1 R IY1 Z
+harder	HH AA1 R D ER0
+yeah	Y AE1
+dominates	D AA1 M AH0 N EY2 T S
+duality	D UW0 AE1 L AH0 T IY0
+burette	B ER0 EH1 T
+capacities	K AH0 P AE1 S AH0 T IY0 Z
+arbitrary	AA1 R B AH0 T R EH2 R IY0
+molarity	M OW0 L AA1 R AH0 T IY0
+florines	F L AO1 R IY0 N AH0 S
+warm	W AO1 R M
+earth	ER1 TH
+resistant	R IH0 Z IH1 S T AH0 N T
+inevitability	IH0 N EH2 V IH0 T AH0 B IH1 L IH0 T IY0
+packets	P AE1 K IH0 T S
+carried	K AE1 R IY0 D
+whereas	W EH0 R AE1 Z
+signatures	S IH1 G N AH0 CH ER0 Z
+periodically	P IY2 R IY0 AA1 D IH0 K AH0 L IY0
+march	M AA1 R CH
+oxygenated	AA1 K S AH0 JH AH0 N EY2 T AH0 D
+determination	D IH0 T ER2 M AH0 N EY1 SH AH0 N
+road	R OW1 D
+google	G UW1 G AH0 L
+web	W EH1 B
+animations	AE2 N AH0 M EY1 SH AH0 N Z
+superimposable	S UW2 P ER0 AH0 M P AA1 Z AH0 B AH0 L
+honor	AA1 N ER0
+spell	S P EH1 L
+phs	P IY1 EH1 S
+eightyone	EY1 T IY0 OW0 N
+auto	AO1 T OW0
+poison	P OY1 Z AH0 N
+confusion	K AH0 N F Y UW1 ZH AH0 N
+throw	TH R OW1
+bacltwo	B AE1 L K T AW0
+tradeoff	T R EY1 D AO2 F
+exactness	IH0 G Z AE1 K T N AH0 S
+vary	V EH1 R IY0
+facing	F EY1 S IH0 NG
+onehalf	W AH1 N HH AO2 F
+mostly	M OW1 S T L IY0
+twopthree	T W P AA1 TH R IY0
+hook	HH UH1 K
+stacked	S T AE1 K T
+material	M AH0 T IH1 R IY0 AH0 L
+triatomic	T R AY2 AH0 T AA1 M IH0 K AH0
+live	L AY1 V
+oceanic	OW2 SH IY0 AE1 N IH0 K
+vents	V EH1 N T S
+perturbation	P ER2 T ER0 B EY1 SH AH0 N
+distinguishing	D IH0 S T IH1 NG G W IH0 SH IH0 NG
+system's	S IH1 S T AH0 M Z
+brominated	B R AA1 M AH0 N EY2 T IH0 D
+rows	R OW1 Z
+hundredish	HH AH1 N D R AH0 D IH0 SH
+offset	AO0 F S EH1 T
+cannot	K AE1 N AA0 T
+lowering	L OW1 ER0 IH0 NG
+raises	R EY1 Z AH0 Z
+named	N EY1 M D
+inert	IH0 N ER1 T
+conduit	K AA1 N D UW0 IH0 T
+proceeding	P R AH0 S IY1 D IH0 NG
+carboning	K AA1 R B AH0 N IH0 NG
+fully	F UH1 L IY0
+independently	IH2 N D IH0 P EH1 N D AH0 N T L IY0
+exchanges	IH0 K S CH EY1 N JH AH0 Z
+broke	B R OW1 K
+affect	AE1 F EH0 K T
+plenty	P L EH1 N T IY0
+undissociated	AH0 N D IH1 S AH0 SH EY2 T IH0 D
+tall	T AO1 L
+folded	F OW1 L D AH0 D
+effects	IH0 F EH1 K T S
+pvt	P EH1 V AE0 NG K EY1 CH
+whichever	W IH0 CH EH1 V ER0
+math	M AE1 TH
+expressed	IH0 K S P R EH1 S T
+lasers	L EY1 Z ER0 Z
+'til	'   T IH1 L
+efficiently	IH0 F IH1 SH AH0 N T L IY0
+tending	T EH1 N D IH0 NG
+convenient	K AH0 N V IY1 N Y AH0 N T
+spark	S P AA1 R K
+favoring	F EY1 V ER0 IH0 NG
+defining	D IH0 F AY1 N IH0 NG
+advent	AE1 D V EH2 N T
+refer	R AH0 F ER1
+colder	K OW1 L D ER0
+flasks	F L AE1 S K S
+recepting	R IH0 S EH1 P T IH0 NG
+established	IH0 S T AE1 B L IH0 SH T
+quotients	K W AA1 T IY0 AH0 N T S
+freezing	F R IY1 Z IH0 NG
+threeatom	TH R IY1 T AH0 M
+unbuffered	AH2 N B AH0 F Y UW1 D ER0
+individually	IH2 N D IH0 V IH1 JH UW0 AH0 L IY0
+astronomically	AE2 S T R AH0 N AA1 M IH0 K L IY0
+adjust	AH0 JH AH1 S T
+quotes	K W OW1 T S
+read	R EH1 D
+textbooks	T EH1 K S T B UH2 K S
+watt	W AA1 T
+heater	HH IY1 T ER0
+induce	IH0 N D UW1 S
+nearby	N IH1 R B AY1
+reestablished	R IY2 IH0 S T AE1 B L IH0 SH T
+intuitive	IH0 N T UW1 AH0 T IH0 V
+disperse	D IH0 S P ER1 S
+portions	P AO1 R SH AH0 N Z
+forbidden	F AO1 R B IH0 D AH0 N
+chtwoo	CH UW1 T W OW1
+day	D EY1
+months	M AH1 N TH S
+cancellation	K AE2 N S AH0 L EY1 SH AH0 N
+associates	AH0 S OW1 S IY0 AH0 T S
+entering	EH1 N T ER0 IH0 NG
+fourd	F AO1 R D
+fivep	F AY1 V P
+sixs	S IH1 K S IH0 Z
+finish	F IH1 N IH0 SH
+kaonekatwo	K OW2 AH0 N UW1 K T OW0
+judge	JH AH1 JH
+cothree	K AO1 TH R IY2
+drives	D R AY1 V Z
+louis	L UW1 IH0 S
+simultaneously	S AY2 M AH0 L T EY1 N IY0 AH0 S L IY0
+fairly	F EH1 R L IY0
+fermions	F ER1 M IY0 AH0 N Z
+fooled	F UW1 L D
+directions	D ER0 EH1 K SH AH0 N Z
+magnitudes	M AE1 G N AH0 T UW2 D Z
+serve	S ER1 V
+exquisitely	EH2 K S K W IH1 Z IH0 T L IY0
+hydrogenlike	HH AY1 D R AH0 JH L AY2 N IH0 K
+nineteen	N AY1 N T IY1 N
+candidates	K AE1 N D AH0 D EY0 T S
+hard	HH AA1 R D
+fight	F AY1 T
+measured	M EH1 ZH ER0 D
+chains	CH EY1 N Z
+arises	ER0 AY1 Z AH0 Z
+portrayed	P AO0 R T R EY1 D
+travel	T R AE1 V AH0 L
+variation	V EH2 R IY0 EY1 SH AH0 N
+items	AY1 T AH0 M Z
+lands	L AE1 N D Z
+flip	F L IH1 P
+singlebonded	S IH1 NG G AH0 L B AA2 N D IH0 D
+radio	R EY1 D IY0 OW2
+seventytwo	S EH2 V AH0 N T EH1 F Y UW0 T OW0
+mind	M AY1 N D
+thereby	DH EH1 R B AY1
+wash	W AA1 SH
+collapse	K AH0 L AE1 P S
+acidified	AH0 S IH1 D AH0 F AY2 D
+previous	P R IY1 V IY0 AH0 S
+reuse	R IY0 Y UW1 S
+buffering	B AH1 F ER0 IH0 NG
+twist	T W IH1 S T
+kicking	K IH1 K IH0 NG
+vibrating	V AY1 B R EY0 T IH0 NG
+halflife	HH AE1 F L AY2 F
+objects	AA1 B JH EH0 K T S
+commonly	K AA1 M AH0 N L IY0
+classify	K L AE1 S AH0 F AY2
+decays	D AH0 K EY1 Z
+coulombically	K AH0 L AA1 M IH0 K L IY0
+anchor	AE1 NG K ER0
+there'd	DH EH1 R D
+sneeze	S N IY1 Z
+bringing	B R IH1 NG IH0 NG
+boring	B AO1 R IH0 NG
+pentane	P EH1 N T EY2 N
+scratch	S K R AE1 CH
+rearrange	R IY2 ER0 EY1 N JH
+others	AH1 DH ER0 Z
+p's	P IY1 Z
+sixteeneighteen	S IH2 K S T IH0 T IH1 V IH0 N T IH0 D
+collide	K AH0 L AY1 D
+sequentially	S AH0 K W EH1 N CH AH0 L IY0
+memory	M EH1 M ER0 IY0
+approached	AH0 P R OW1 CH T
+nf	EH1 N F
+variables	V EH1 R IY0 AH0 B AH0 L Z
+sums	S AH1 M Z
+li	L IY1
+f	EH1 F
+balanced	B AE1 L AH0 N S T
+picometer	P IH1 K AH0 M IY2 T ER0
+shielders	SH IY1 L D ER0 Z
+bathtub	B AE1 TH T AH0 B
+beach	B IY1 CH
+send	S EH1 N D
+inhomogeneous	IH0 N HH OW0 M G OW0 N IY1 R AH0 Z
+binding	B AY1 N D IH0 NG
+ligand	L IH1 G AH0 N D
+halflives	HH AE1 F L AY2 V Z
+compensates	K AA1 M P AH0 N S EY2 T S
+instrument	IH1 N S T R AH0 M AH0 N T
+unfavorable	AH2 N F EY1 V ER0 AH0 B AH0 L
+superimpose	S UW2 P ER0 AH0 M P OW1 Z
+immediately	IH0 M IY1 D IY0 AH0 T L IY0
+lends	L EH1 N D Z
+chiropody	CH AY1 R AH0 P OW2 D IY0
+breaks	B R EY1 K S
+elemental	EH2 L AH0 M EH1 N T AH0 L
+tick	T IH1 K
+fringes	F R IH1 N JH IH0 Z
+electrolysis	IH0 L EH2 K T R AA1 L AH0 S AH0 S
+intensities	IH0 N T EH1 N S AH0 T IY0 Z
+destructive	D IH0 S T R AH1 K T IH0 V
+having	HH AE1 V IH0 NG
+patterns	P AE1 T ER0 N Z
+inversely	IH0 N V ER1 S L IY0
+protect	P R AH0 T EH1 K T
+touching	T AH1 CH IH0 NG
+demonstrates	D EH1 M AH0 N S T R EY2 T S
+convenience	K AH0 N V IY1 N Y AH0 N S
+selenium	S AH0 L IY1 N IY0 AH0 M
+artificial	AA2 R T AH0 F IH1 SH AH0 L
+everything's	EH1 V R IY0 TH IH2 NG Z
+octahedron	AA2 K T AH0 HH IY1 D R AH0 N
+plug	P L AH1 G
+sixes	S IH1 K S IH0 Z
+especially	AH0 S P EH1 SH L IY0
+experiences	IH0 K S P IH1 R IY0 AH0 N S IH0 Z
+blocks	B L AA1 K S
+draws	D R AO1 Z
+nax	N AE1 K S
+seventh	S EH1 V AH0 N TH
+ninesixteen	N IH2 N IH0 S K IH0 T IY1 S IH0 N
+guessed	G EH1 S T
+phenomenon	F AH0 N AA1 M AH0 N AA2 N
+non	N AA1 N
+extremely	IH0 K S T R IY1 M L IY0
+phosphorylation	F OW2 S F ER0 EY1 SH AH0 N L IY0
+diphosphate	D IH1 F AH0 S AH0 T
+deviations	D IY0 V IY0 EY1 SH AH0 N Z
+convention	K AH0 N V EH1 N SH AH0 N
+threert	TH R EH1 R T
+insert	IH1 N S ER2 T
+tester	T EH1 S T ER0
+denature	D IH0 N EY1 CH ER0
+uses	Y UW1 S IH0 Z
+mode	M OW1 D
+feet	F IY1 T
+characterizes	K EH1 R AH0 K T ER0 AY2 Z AH0 Z
+splitting	S P L IH1 T IH0 NG
+fun	F AH1 N
+bluish	B L UW1 IH0 SH
+vanishingly	V AE1 N IH0 SH IH0 NG L IY0
+tubes	T UW1 B Z
+mechanisms	M EH1 K AH0 N IH2 Z AH0 M Z
+sterically	S T EH1 R IH0 K L IY0
+mobius	M OW1 B IY0 AH0 S
+strip	S T R IH1 P
+displayed	D IH0 S P L EY1 D
+correction	K ER0 EH1 K SH AH0 N
+recognize	R EH1 K AH0 G N AY2 Z
+uraniumtwo	Y ER2 AH0 N AH0 M UW1 T UW2
+thirtyeight	TH ER1 T IY0 T
+hexafluoride	HH EH2 K S AH0 F L AO1 R AH0 F AY2 D
+helpful	HH EH1 L P F AH0 L
+board	B AO1 R D
+contracting	K AA1 N T R AE0 K T IH0 NG
+threefour	TH R IY1 F ER0
+interest	IH1 N T R AH0 S T
+hybridisation	HH AY2 B R IH0 D IH0 Z IH0 N EY1 SH AH0 N
+feeling	F IY1 L IH0 NG
+inserted	IH0 N S ER1 T AH0 D
+oscillate	AA1 S AH0 L EY2 T
+biology	B AY0 AA1 L AH0 JH IY0
+slurry	S L ER1 IY0
+htwos	T W OW1 T S
+slows	S L OW1 Z
+drawing	D R AO1 IH0 NG
+ring	R IH1 NG
+tenish	T EH1 N IH0 SH
+particleinthebox	P AA2 R T IH0 K AH0 L T IY1 K AH0 N AH0 S
+delivering	D IH0 L IH1 V ER0 IH0 NG
+spigot	S P IH1 G AH0 T
+touched	T AH1 CH T
+answer's	AE1 N S ER0 Z
+spork	S P AO1 R K
+burns	B ER1 N Z
+cooler	K UW1 L ER0
+brings	B R IH1 NG Z
+gs	G EH1 S K S
+conductive	K AH0 N D AH1 K T IH0 V
+loses	L UW1 Z AH0 Z
+intersect	IH2 N T ER0 S EH1 K T
+adds	AE1 D Z
+textbook	T EH1 K S T B UH2 K
+notations	N OW0 T EY1 SH AH0 N Z
+sixfour	S IH0 K S F UH1 R
+precision	P R IY0 S IH1 ZH AH0 N
+creating	K R IY0 EY1 T IH0 NG
+review	R IY2 V Y UW1
+vitally	V AY1 T AH0 L IY0
+hydrate	HH AY1 D R EY2 T
+csixhsix	K IH0 S K IH1 S IH0 S
+circle	S ER1 K AH0 L
+representing	R EH2 P R IH0 Z EH1 N T IH0 NG
+chaotic	K EY0 AA1 T IH0 K
+experience	IH0 K S P IH1 R IY0 AH0 N S
+nitrite	N IH1 T R AY0 T
+strike	S T R AY1 K
+useful	Y UW1 S F AH0 L
+equilibrias	EH2 K W AH0 L IH1 B R IY0 AH0 Z
+array	ER0 EY1
+loosely	L UW1 S L IY0
+floor	F L AO1 R
+hide	HH AY1 D
+sh	EH1 S EY1 CH
+nh	EH1 N
+told	T OW1 L D
+assembled	AH0 S EH1 M B AH0 L D
+familiar	F AH0 M IH1 L Y ER0
+answers	AE1 N S ER0 Z
+sticks	S T IH1 K S
+equalize	IY1 K W AH0 L AY2 Z
+corner	K AO1 R N ER0
+ejects	IH0 JH EH1 K T S
+testing	T EH1 S T IH0 NG
+cheaper	CH IY1 P ER0
+displace	D IH0 S P L EY1 S
+pairings	P EH1 R IH0 NG Z
+chemically	K EH1 M AH0 K L IY0
+optical	AA1 P T IH0 K AH0 L
+ascent	AH0 S EH1 N T
+necessary	N EH1 S AH0 S EH2 R IY0
+placing	P L EY1 S IH0 NG
+seal	S IY1 L
+exponential	EH2 K S P OW0 N EH1 N CH AH0 L
+coupled	K AH1 P AH0 L D
+slams	S L AE1 M Z
+sends	S EH1 N D Z
+flying	F L AY1 IH0 NG
+human	HH Y UW1 M AH0 N
+vision	V IH1 ZH AH0 N
+discussed	D IH0 S K AH1 S T
+instantaneous	IH2 N S T AH0 N T AE1 N IY0 AH0 S
+ties	T AY1 Z
+oxygencarrying	AA2 K S IH0 G EH0 N S T AA1 R IH0 NG
+structurally	S T R AH1 K CH ER0 AH0 L IY0
+vowel	V AW1 AH0 L
+consonant	K AA1 N S AH0 N AH0 N T
+places	P L EY1 S AH0 Z
+surfer	S ER1 F ER0
+catches	K AE1 CH AH0 Z
+riding	R AY1 D IH0 NG
+crest	K R EH1 S T
+participate	P AA0 R T IH1 S AH0 P EY2 T
+socalled	S OW1 K AA1 L D
+doublebond	D AH1 B AH0 L B AA2 D AH0 N
+octahedral	AA2 K T AH0 HH IY1 D R AH0 L
+crystal	K R IH1 S T AH0 L
+lyman	L AY1 M AH0 N
+balmer	B AA1 M ER0
+ending	EH1 N D IH0 NG
+gedankenexperiment	JH EH2 D AH0 N K AE1 L IH0 S P IH0 N T ER0
+incoming	IH1 N K AH2 M IH0 NG
+ejecting	IH0 JH EH1 K T IH0 NG
+naturallyoccurring	N AE1 K Y UW0 L ER0 AE2 K IH0 NG ER0
+polychromic	P AA2 L IH0 K R AA1 M IH0 K
+lattice	L AE1 T AH0 S
+tremendous	T R AH0 M EH1 N D AH0 S
+dominate	D AA1 M AH0 N EY2 T
+withdraw	W IH0 DH D R AO1
+indicated	IH1 N D AH0 K EY2 T AH0 D
+watts	W AA1 T S
+dipoles	D IH0 P OW1 L Z
+tyrosine	T AY1 R AH0 S IY2 N
+tool	T UW1 L
+sixtythree	S IH1 K S T R AY2 TH
+ball	B AO1 L
+roll	R OW1 L
+brightest	B R AY1 T AH0 S T
+fighting	F AY1 T IH0 NG
+shaking	SH EY1 K IH0 NG
+connectivity	K AH0 N EH0 K T IH1 V IH0 T IY0
+who's	HH UW1 Z
+quadruple	K W AA0 D R UW1 P AH0 L
+providing	P R AH0 V AY1 D IH0 NG
+pkathree	K AH0 TH R IY1
+potassium's	P AH0 T AE1 S IY0 AH0 M Z
+icltwo	IH1 L K T W UH2 R OW0
+polymerization	P AA2 L IH0 M ER0 AH0 Z EY1 SH AH0 N
+monomers	M AA1 N AH0 M ER0 Z
+oneliter	OW0 N EH1 L IH0 T ER0
+car	K AA1 R
+warmed	W AO1 R M D
+parts	P AA1 R T S
+science	S AY1 AH0 N S
+attribute	AE1 T R IH0 B Y UW0 T
+entirely	IH0 N T AY1 ER0 L IY0
+blender	B L EH1 N D ER0
+turnip	T ER1 N AH0 P
+advance	AH0 D V AE1 N S
+julia	JH UW1 L Y AH0
+child	CH AY1 L D
+style	S T AY1 L
+forced	F AO1 R S T
+somebody	S AH1 M B AA2 D IY0
+travels	T R AE1 V AH0 L Z
+principal	P R IH1 N S AH0 P AH0 L
+halfcell	HH AE1 F S AH0 L
+hthirty	TH AH0 TH ER1 T IY0
+achiral	AH0 K IH1 R AH0 L
+isomer	AY1 S AH0 M ER0
+mx	M EH1 K S
+bubbles	B AH1 B AH0 L Z
+spinup	S P IH1 N AH2 P
+spindown	S P IH1 N D AW2 N
+aspirin	AE1 S P R IH0 N
+acetylsalicylic	EY2 S EH2 T AH0 S L IH1 K AH0 T IY0
+encounter	IH0 N K AW1 N T ER0
+fiftytwo	F IH0 F T IH1 T OW0
+thousandth	TH AW1 Z AH0 N D TH
+neutron	N UW1 T R AA2 N
+elastic	IH0 L AE1 S T IH0 K
+collision	K AH0 L IH1 ZH AH0 N
+fills	F IH1 L Z
+sending	S EH1 N D IH0 NG
+losing	L UW1 Z IH0 NG
+misnomer	M IH0 S N OW1 M ER0
+placed	P L EY1 S T
+rtlnk	T R AH1 NG K
+hydrophobic	HH AY2 D R AH0 F AA1 B IH0 K
+hydrophilic	HH AY2 D R AH0 F IH1 L IH0 K
+assigning	AH0 S AY1 N IH0 NG
+progression	P R AH0 G R EH1 SH AH0 N
+orientations	AO2 R IY0 EH0 N T EY1 SH AH0 N Z
+event	IH0 V EH1 N T
+uphill	AH1 P HH IH1 L
+decomposition	D IY2 K AH0 M P OW0 Z IH1 SH AH0 N
+purple	P ER1 P AH0 L
+summarize	S AH1 M ER0 AY2 Z
+infinitely	IH1 N F AH0 N AH0 T L IY0
+atomize	T AA1 M AH0 T AY2 Z
+extensive	IH0 K S T EH1 N S IH0 V
+returns	R IH0 T ER1 N Z
+vital	V AY1 T AH0 L
+resist	R IH0 Z IH1 S T
+copperzinc	K AA1 P ER0 Z IH0 NG K
+unequal	AH0 N IY1 K W AH0 L
+pressuretemperature	P R EH2 S T UW2 R AH0 M EH1 T ER0 T IY0
+axially	AE1 K S IY0 AH0 L IY0
+glove	G L AH1 V
+error	EH1 R ER0
+shorthand	SH AO1 R T HH AE2 N D
+rydberg's	R IH1 D B ER0 G Z
+dispersed	D IH0 S P ER1 S T
+am	AE1 M
+quiet	K W AY1 AH0 T
+studio	S T UW1 D IY0 OW2
+constrained	K AH0 N S T R EY1 N D
+tungsten	T AH1 NG S T AH0 N
+crossings	K R AO1 S IH0 NG Z
+rush	R AH1 SH
+became	B IH0 K EY1 M
+approaching	AH0 P R OW1 CH IH0 NG
+algebra	AE1 L JH AH0 B R AH0
+arithmetic	EH2 R IH0 TH M EH1 T IH0 K
+wind	W AY1 N D
+conclusion	K AH0 N K L UW1 ZH AH0 N
+considerations	K AH0 N S IH2 D ER0 EY1 SH AH0 N Z
+character	K EH1 R IH0 K T ER0
+result	R IH0 Z AH1 L T
+theoretically	TH IY2 ER0 EH1 T IH0 K AH0 L IY0
+diluted	D AY0 L UW1 T AH0 D
+flatline	F L AE1 T L AY2 N
+fields	F IY1 L D Z
+worst	W ER1 S T
+scenario	S IH0 N EH1 R IY0 OW0
+hours	AW1 ER0 Z
+dominant	D AA1 M AH0 N AH0 N T
+indication	IH2 N D AH0 K EY1 SH AH0 N
+undiluted	AH2 N D AH0 L UW1 T IH0 D
+nonmagnetic	N AA0 N M AE0 N T IH1 G N IH0 K
+infinite	IH1 N F AH0 N AH0 T
+pictures	P IH1 K CH ER0 Z
+tools	T UW1 L Z
+reenergize	R IY1 IH0 N G R AY2 Z
+whatever	W AH2 T EH1 V ER0
+ability	AH0 B IH1 L AH0 T IY0
+feels	F IY1 L Z
+costs	K AA1 S T S
+insoluble	IH0 N S AA1 L Y AH0 B AH0 L
+relevant	R EH1 L AH0 V AH0 N T
+advantage	AE0 D V AE1 N T IH0 JH
+vessel	V EH1 S AH0 L
+differing	D IH1 F ER0 IH0 NG
+oxidizer	AA1 K S IH0 D AY2 Z ER0
+arguments	AA1 R G Y AH0 M AH0 N T S
+ignored	IH0 G N AO1 R D
+asked	AE1 S K T
+explains	IH0 K S P L EY1 N Z
+isotope	AY1 S AH0 T OW2 P
+disallowed	D IH2 S AH0 L AW1 D
+muscle	M AH1 S AH0 L
+diaphragm	D AY1 AH0 F R AE2 M
+odd	AA1 D
+unusual	AH0 N Y UW1 ZH AH0 W AH0 L
+remaining	R IH0 M EY1 N IH0 NG
+expanded	IH0 K S P AE1 N D AH0 D
+behaved	B IH0 HH EY1 V D
+ptwo	T UW1 P OW1
+vtwo	T W AA1 T UW1
+pone	P OW1 N
+vone	V OW1 N
+onefour	AH1 N F Y UW2 R
+activity	AE0 K T IH1 V AH0 T IY0
+bubbling	B AH1 B AH0 L IH0 NG
+onebromo	W AH1 N IH0 R OW1 M OW0
+kinetically	K IH2 N IH0 T EH1 K T AH0 L IY0
+fiftynine	F IH1 F T N AY2 N
+seesaw	S IY1 S AO2
+wellknown	W EH1 L K AO1 N
+fertilizers	F ER1 T AH0 L AY2 Z ER0 Z
+plants	P L AE1 N T S
+animals	AE1 N AH0 M AH0 L Z
+grow	G R OW1
+eightyseven	EY0 T IY1 S T IH0 V AH0 N
+perturbed	P ER0 T ER1 B D
+temperaturevolume	T EH2 M P ER0 AH0 T UW1 R AH0 M AH0 L EY2 T
+pv	P IY1 V IY1
+vials	V AY1 AH0 L Z
+prevents	P R IH0 V EH1 N T S
+rapid	R AE1 P AH0 D
+binds	B AY1 N D Z
+displaces	D IH0 S P L EY1 S IH0 Z
+provide	P R AH0 V AY1 D
+torr	T AO1 R
+guy	G AY1
+lowered	L OW1 ER0 D
+projection	P R AH0 JH EH1 K SH AH0 N
+xy	Z IY1
+substance	S AH1 B S T AH0 N S
+nineteenth	N AY1 N T IY1 N TH
+stripping	S T R IH1 P IH0 NG
+sure	SH UH1 R
+energetics	EH2 N ER0 JH EH1 T IH0 K S
+equimolar	IH0 K W IH1 M AH0 L AA2 P
+suspect	S AH1 S P EH2 K T
+seventy	S EH1 V AH0 N T IY0
+emitting	IH0 M IH1 T IH0 NG
+tens	T EH1 N Z
+thousands	TH AW1 Z AH0 N D Z
+perhaps	P ER0 HH AE1 P S
+indefinitely	IH0 N D EH1 F AH0 N AH0 T L IY0
+stage	S T EY1 JH
+designated	D EH1 Z IH0 G N EY2 T IH0 D
+sites	S AY1 T S
+follows	F AA1 L OW0 Z
+millimeters	M IH1 L AH0 M IY2 T ER0 Z
+versions	V ER1 ZH AH0 N Z
+presented	P R IY0 Z EH1 N T AH0 D
+crowded	K R AW1 D AH0 D
+noisy	N OY1 Z IY0
+numerical	N UW0 M EH1 R AH0 K AH0 L
+acetone	AE1 S AH0 T OW2 N
+differential	D IH2 F ER0 EH1 N SH AH0 L
+moved	M UW1 V D
+correlations	K AO2 R AH0 L EY1 SH AH0 N Z
+conducts	K AH0 N D AH1 K T S
+inhaling	IH0 N HH EY1 L IH0 NG
+exhaling	IH0 G Z HH AE1 L IH0 NG
+automatically	AO2 T AH0 M AE1 T IH0 K L IY0
+primary	P R AY1 M EH2 R IY0
+myriad	M IH1 R IY0 AH0 D
+entries	EH1 N T R IY0 Z
+onefourr	AH1 N F AW2 ER0
+threefourr	TH R IY1 F ER0
+tennis	T EH1 N AH0 S
+crew	K R UW1
+ow	OW1
+seight	S EY1 T
+starts	S T AA1 R T S
+sone	S OW1 N
+invert	IH0 N V ER1 T
+transmit	T R AE0 N Z M IH1 T
+floating	F L OW1 T IH0 NG
+ninetyone	N IH1 N IH0 T OW2 N
+cram	K R AE1 M
+dspthree's	D IH0 S TH R IY1 Z
+monomer	M AA1 N AH0 M ER0
+nitrogennitrogen	N AY2 T R AH0 JH AH0 G N EH1 T R AH0 N
+frequent	F R IY1 K W AH0 N T
+sporks	S P AO1 R K S
+carbobases	K AA1 R B AH0 Z EY2 Z
+quantities	K W AA1 N T AH0 T IY0 Z
+resistance	R IH0 Z IH1 S T AH0 N S
+carboxyl	K AA1 R B AH0 K S IH0 L
+methyl	M EH1 TH AH0 L
+screen	S K R IY1 N
+intrinsically	IH0 N T R IH1 N S IH0 K AH0 L IY0
+setup	S EH1 T AH2 P
+manifest	M AE1 N AH0 F EH2 S T
+remarkably	R IH0 M AA1 R K AH0 B L IY0
+liquidgas	L IH0 K W IH1 G AH0 N Z
+universal	Y UW2 N AH0 V ER1 S AH0 L
+eating	IY1 T IH0 NG
+implement	IH1 M P L AH0 M AH0 N T
+yourselves	Y UH0 R S EH1 L V Z
+exhaled	EH0 K S HH EY1 L D
+evolved	IH0 V AA1 L V D
+particularly	P AA2 R T IH1 K Y AH0 L ER0 L IY0
+appealing	AH0 P IY1 L IH0 NG
+lithiums	L IH1 TH IY0 AH0 M Z
+cancels	K AE1 N S AH0 L Z
+statefree	S T AE1 T F R IY1 D
+atomization	AE2 T AH0 M AH0 Z EY1 SH AH0 N
+minutes	M IH1 N AH0 T S
+industrially	IH0 N D AH1 S T R IY0 AH0 L IY0
+abundant	AH0 B AH1 N D AH0 N T
+tshaped	T EY1 V AH0 D
+dotted	D AA1 T AH0 D
+inches	IH1 N CH AH0 Z
+forever	F ER0 EH1 V ER0
+transiently	T R AE1 N Z IY0 AH0 N T L IY0
+calvin	K AE1 L V AH0 N
+repeat	R IH0 P IY1 T
+oxidations	AA2 K S AH0 D EY1 SH AH0 N Z
+reductions	R IY0 D AH1 K SH AH0 N Z
+fortyone	F AO1 R T Y UW0 N
+stereo	S T EH1 R IY0 OW2
+capturing	K AE1 P CH ER0 IH0 NG
+sixtyseven	S IH1 K S T IH0 S V IH2 N
+onesixteen	OW0 N EH1 P S IH0 K S T IH0 N
+singly	S IH1 NG G L IY0
+explained	IH0 K S P L EY1 N D
+prime	P R AY1 M
+seek	S IY1 K
+qreversible	K R EH1 V ER0 S IH2 B AH0 L
+sulphur	S AH1 L F ER0
+overwhelms	OW2 V ER0 W EH1 L M Z
+rank	R AE1 NG K
+pop	P AA1 P
+poking	P OW1 K IH0 NG
+pie	P AY1
+shining	SH AY1 N IH0 NG
+flashlight	F L AE1 SH L AY2 T
+bouncing	B AW1 N S IH0 NG
+mnemonic	N IH0 M AA1 N IH0 K
+instantaneously	IH2 N S T AH0 N T AE1 N IY0 AH0 S L IY0
+accelerates	AE0 K S EH1 L ER0 EY2 T S
+sealed	S IY1 L D
+deal	D IY1 L
+immerse	IH0 M ER1 S
+relates	R IH0 L EY1 T S
+distinguishable	D IH0 S T IH1 NG G W IH0 SH AH0 B AH0 L
+learned	L ER1 N IH0 D
+twentysix	T W EH2 N T IH1 S K AH0 S
+threepx	TH R EH1 P S K
+threepy	TH R IY1 P IY0
+threepz	TH R EH1 P S
+midpoint	M IH1 D P OY2 N T
+volumetric	V AA2 L AH0 M Y EH1 T R IH0 K
+role	R OW1 L
+ordering	AO1 R D ER0 IH0 NG
+reservoir	R EH1 Z AH0 V W AA2 R
+deliver	D IH0 L IH1 V ER0
+pfouroten	F W AO1 R T AH0 N
+affinities	AH0 F IH1 N AH0 T IY0 Z
+condenses	K AA1 N D AH0 N S AH0 Z
+won	W AH1 N
+lottery	L AA1 T ER0 IY0
+stick	S T IH1 K
+thermometer	TH ER0 M AA1 M AH0 T ER0
+irreversible	IH2 R IH0 V ER1 S AH0 B AH0 L
+cooh	K UW1
+creeps	K R IY1 P S
+face	F EY1 S
+nominally	N AA1 M AH0 N AH0 L IY0
+hydrocyanic	HH AY2 D R OW0 S EY2 P AH0 N IH1 K IY0
+dynamically	D AY0 N AE1 M IH0 K L IY0
+facet	F AE1 S AH0 T
+bag	B AE1 G
+knew	N UW1
+thirtyeighth	TH ER1 T IY0 IH0 TH
+kept	K EH1 P T
+counts	K AW1 N T S
+seem	S IY1 M
+oneish	W AH1 N IH0 SH
+encourage	EH0 N K ER1 IH0 JH
+danger	D EY1 N JH ER0
+administered	AH0 D M IH1 N AH0 S T ER0 D
+word	W ER1 D
+conversely	K AA1 N V ER0 S L IY0
+chemists	K EH1 M AH0 S T S
+truth	T R UW1 TH
+indicating	IH1 N D AH0 K EY2 T IH0 NG
+handwavy	HH AE1 N D W EY2 V IY0
+approximate	AH0 P R AA1 K S AH0 M AH0 T
+brfthree	B R IH1 F TH R IY0
+rainbow	R EY1 N B OW2
+experimenters	IH0 K S P EH1 R AH0 M EH2 N T ER0 Z
+turned	T ER1 N D
+thirtyfive	TH ER1 T IH0 F AY2 V
+troubling	T R AH1 B AH0 L IH0 NG
+hybridizing	HH AY1 B R AH0 D AY2 Z IH0 NG
+accessible	AE0 K S EH1 S AH0 B AH0 L
+homonuclear	HH OW0 M OW0 N UW1 K L IY0 ER0
+greek	G R IY1 K
+shortcut	SH AO1 R T K AH2 T
+fluorines	F L UH1 R IY0 N AH0 S
+stands	S T AE1 N D Z
+distributing	D IH0 S T R IH1 B Y UW0 T IH0 NG
+restricted	R IY0 S T R IH1 K T AH0 D
+exercise	EH1 K S ER0 S AY2 Z
