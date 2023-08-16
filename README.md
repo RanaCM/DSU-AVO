@@ -1,6 +1,6 @@
 # High-Quality Automatic Voice Over with Accurate Alignment: Supervision through Self-Supervised Discrete Speech Units
 
-This repository contains the source code and speech samples for the paper accepted to INTERSPEECH 2023 by Junchen Lu, Berrak Sisman, Mingyang Zhang, Haizhou Li: [paper on arxiv](https://arxiv.org/abs/2306.17005).
+This repository contains the source code and speech samples for the [paper](https://www.isca-speech.org/archive/interspeech_2023/lu23f_interspeech.html) accepted to INTERSPEECH 2023 by Junchen Lu, Berrak Sisman, Mingyang Zhang, Haizhou Li.
 
 ## Abstract
 
@@ -35,15 +35,18 @@ This repository is currently under construction. The source code for  experiment
 
 ## Citation
 
-If you find our work interesting, please consider citing our paper (will be updated upon publication of the conference proceedings):
+If you find our work interesting, please consider citing our paper:
 ```
-@article{lu2023highquality,
-  title={High-Quality Automatic Voice Over with Accurate Alignment: Supervision through Self-Supervised Discrete Speech Units},
-  author={Lu, Junchen and Sisman, Berrak and Zhang, Mingyang and Li, Haizhou},
-  journal={arXiv preprint arXiv:2306.17005},
-  year={2023}
+@inproceedings{lu23f_interspeech,
+  author={Junchen Lu and Berrak Sisman and Mingyang Zhang and Haizhou Li},
+  title={{High-Quality Automatic Voice Over with Accurate Alignment: Supervision through Self-Supervised Discrete Speech Units}},
+  year=2023,
+  booktitle={Proc. INTERSPEECH 2023},
+  pages={5536--5540},
+  doi={10.21437/Interspeech.2023-2179}
 }
 ```
+
 ## References
 - [ming024's FastSpeech2 implementation](https://github.com/ming024/FastSpeech2/tree/master)
 - [Speech Resynthesis](https://github.com/facebookresearch/speech-resynthesis)
