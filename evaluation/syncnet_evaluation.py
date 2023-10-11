@@ -25,10 +25,10 @@ setattr(opt,'crop_dir',os.path.join(opt.data_dir,'pycrop'))
 
 # ==================== LOAD MODEL AND FILE LIST ====================
 
-s = SyncNetInstance();
+s = SyncNetInstance()
 
-s.loadParameters(opt.initial_model);
-print("Model %s loaded."%opt.initial_model);
+s.loadParameters(opt.initial_model)
+print("Model %s loaded."%opt.initial_model)
 
 flist = glob.glob(os.path.join(opt.crop_dir,opt.reference,'0*.avi'))
 flist.sort()
