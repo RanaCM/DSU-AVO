@@ -1,0 +1,200 @@
+myN3PqD38Ds-005|Or from step 2 to step 3?
+myN3PqD38Ds-014|We're looking at a system mixing going from all the particles on one side to distributed across both sides.
+myN3PqD38Ds-015|As this occurs, we look at, well, how many ways can I arrange state 1?
+myN3PqD38Ds-016|Well, there is only one way to have the particles all on one side.
+myN3PqD38Ds-017|How about state 2?
+myN3PqD38Ds-022|So again, final over initial, I have natural log 6/4, or 1.5.
+myN3PqD38Ds-024|So 3 is out.
+myN3PqD38Ds-025|This is a decrease.
+myN3PqD38Ds-026|It's between 1 and 2, A and B here.
+myN3PqD38Ds-027|And the greatest increase L and 4, bigger than l and L and 1/2, is going from state 1 to state 2.
+myN3PqD38Ds-029|So the answer here, A.
+hWiUC-tsVHs-000|When a base reacts with water, it forms its conjugate acid.
+hWiUC-tsVHs-001|How is that conjugate base/conjugate acid expressions related?
+hWiUC-tsVHs-008|And in this case, as in all cases, we leave out pure water.
+hWiUC-tsVHs-009|Pure liquids and pure solids don't appear in equilibrium constant expressions.
+hWiUC-tsVHs-010|So here I have Kb for NH3, the weak base.
+hWiUC-tsVHs-011|The weak acid produced, NH4 plus, can also react with water.
+hWiUC-tsVHs-018|So here we have an analytical expression that tells us the larger Kb, the smaller Ka.
+hWiUC-tsVHs-019|A strong conjugate base leads to a weaker conjugate acid.
+jGRhNqkYK18-000|Let's start looking at the periodic table.
+jGRhNqkYK18-001|We understand the periodic table is assembled so that elements that have similar properties fall in columns.
+jGRhNqkYK18-002|That is properties occur periodically as you march through the elements from atomic number one to atomic number 112.
+jGRhNqkYK18-003|As you march through, properties start to repeat themselves.
+jGRhNqkYK18-004|So if you line up the repeating elements in columns, you get a periodic table where all elements with similar properties are in columns.
+jGRhNqkYK18-005|So all of the elements in column one, for instance, have similar properties.
+jGRhNqkYK18-006|And now we understand the quantum mechanical nature of that.
+jGRhNqkYK18-008|But the overall structure has been fairly consistent for hundreds of years.
+jGRhNqkYK18-009|But we understand now with the advent of quantum mechanics why these elements have similar properties.
+jGRhNqkYK18-010|For instance, in column one, all the elements have an s1 outer electronic configuration.
+jGRhNqkYK18-011|It's either 1S1, 2S1, 3S1, 4S1, et cetera, down the periodic table.
+jGRhNqkYK18-012|So from the outside, you're looking at a 1s electron all the time.
+jGRhNqkYK18-013|And, of course, that imparts similar reactive properties to those elements.
+jGRhNqkYK18-014|And as you go across, S2, and then you start to fill P orbitals.
+jGRhNqkYK18-015|And then you fill D orbitals and F orbitals.
+jGRhNqkYK18-017|So quantum mechanics exactly predicts the structure of the periodic table even though the periodic table was set up well before quantum mechanics was understood.
+jGRhNqkYK18-018|Now, these periodic properties in the periodic table tend to go in trends as you go across the periodic table.
+jGRhNqkYK18-019|And those trends are interesting to analyze.
+jGRhNqkYK18-021|We've talked a little bit about ionization energy already.
+jGRhNqkYK18-022|That's separating electrons from atoms.
+jGRhNqkYK18-023|There's also electron affinity.
+jGRhNqkYK18-024|So electron affinity is the addition of an electron to an atom or an ion.
+jGRhNqkYK18-028|And that's something you can take to the bank.
+jGRhNqkYK18-030|And if it requires energy, we're going to call those positive energies in Chem One.
+jGRhNqkYK18-031|And if energy is released, we're going to call those negative energies.
+jGRhNqkYK18-034|Now, you might think that atoms don't want to accept electrons.
+jGRhNqkYK18-035|But it turns out that adding an electron often releases energy that goes to a lower energy more stable state.
+jGRhNqkYK18-037|So adding electron is usually a reaction that releases energy.
+jGRhNqkYK18-038|It's more stable to have that electron.
+jGRhNqkYK18-039|And that's an interesting property.
+jGRhNqkYK18-040|In fact, you don't expect it to be the case.
+jGRhNqkYK18-041|And there are a few elements where they're not too excited about taking that electron and some, one or two, that you actually have to force it on.
+jGRhNqkYK18-042|You have to put a tiny amount of energy in to make the ion.
+jGRhNqkYK18-046|So the trend as I go down the column is it's getting easier to ionize.
+jGRhNqkYK18-047|The ionization energy is decreasing.
+jGRhNqkYK18-048|And that's pretty easy to understand.
+jGRhNqkYK18-049|Because what I'm doing is going to bigger and bigger atoms.
+jGRhNqkYK18-051|So an electron far away and well shielded is easier to take off than an electron close by.
+jGRhNqkYK18-054|For the electron affinities, there's the same general trend.
+jGRhNqkYK18-055|That is the electronic affinity for sodium, sodium releases quite a bit of energy when you make it into sodium minus.
+jGRhNqkYK18-056|It likes to accept that electron.
+jGRhNqkYK18-057|53 kilojoules per mole are released where, rubidium, only 47 kilojoules are released.
+jGRhNqkYK18-058|That makes a little sense, too, rubidium with it's 37 electrons.
+jGRhNqkYK18-059|The 38th one that you put on is a little less kept track of there.
+jGRhNqkYK18-060|It's going from 37 to 38.
+jGRhNqkYK18-061|It's not a big perturbation as going from 11 to 12 electrons at sodium.
+jGRhNqkYK18-063|Same thing with chlorine, bromine, and iodine.
+jGRhNqkYK18-064|We have a decrease in electron affinity as I go down the column on the periodic table.
+OLE3iAKuhAY-000|As we talk about molecular geometry, we're going from a chemical formula to a Lewis structure to getting some steric numbers to a molecular geometry.
+OLE3iAKuhAY-001|Now, chemical formula and molecular geometry are not uniquely paired.
+OLE3iAKuhAY-002|That is, you can have chemical formulas with different molecular geometries.
+OLE3iAKuhAY-008|This molecule I can arrange the chlorines and the carbons like this or like this.
+OLE3iAKuhAY-009|So here, I have a carbon with two chlorines, here I have carbon with a chlorine and a hydrogen.
+OLE3iAKuhAY-010|So those are structural isomers, the bonding patterns are different.
+OLE3iAKuhAY-015|We'll also have a dipole moment in this molecule.
+OLE3iAKuhAY-016|So these structural isomers could be distinguished by dipole moment, these stereoisomers could be distinguished by dipole moment.
+OLE3iAKuhAY-017|Structural isomerism and stereoisomerism is something that's very important in nature, and we'll look at that a lot in this course.
+EABEj-lHxsA-000|Let's use heat capacities to determine a relative temperature change.
+EABEj-lHxsA-001|What I'm going to do is take hot molybdenum metal, a kilogram.
+EABEj-lHxsA-002|So think about taking molybdenum metal, heating it in a flame till it's red hot, and then plunging it into a kilogram of water at room temperature.
+EABEj-lHxsA-003|The question I have is, which will experience the greater temperature change?
+EABEj-lHxsA-009|We're talking about plunging hot metal molybdenum-- a kilogram-- into cool water.
+EABEj-lHxsA-010|So what's going to happen?
+EABEj-lHxsA-011|Well, the heat from the metal will go into the water, and that's where we apply the first law of thermodynamics.
+EABEj-lHxsA-012|Every joule of heat lost by the metal is absorbed by the water.
+EABEj-lHxsA-019|Water, let's look at that capacity-- around 4 joules to change the temperature of 1 gram of water by 1 degree.
+EABEj-lHxsA-022|That's the difference in heat capacities.
+EABEj-lHxsA-024|So in this case, the temperature of the metal will change more than the temperature of the water.
+hSBT6oe6dSA-000|When we perform chemical reactions in the laboratory, we need a way to get from the microscopic to the macroscopic.
+hSBT6oe6dSA-002|And we need to know that, because we write chemical reaction in terms of the particles involved.
+hSBT6oe6dSA-003|Here's our chemical reaction, H2 plus O2 goes to H2O.
+hSBT6oe6dSA-004|And it's two particles of hydrogen and one particle of oxygen to give me two particles of water.
+hSBT6oe6dSA-007|Well, it turns out it's pretty easy.
+hSBT6oe6dSA-008|We just scale up from the relative masses.
+hSBT6oe6dSA-009|From the relative masses of the individual particles, we scale up to masses that we can measure.
+hSBT6oe6dSA-011|That is 16 grams of oxygen will react with one gram of hydrogen and have the same number of particles.
+hSBT6oe6dSA-012|It's as if you were going to go to a hardware store, and you wanted 500 nuts and bolts.
+hSBT6oe6dSA-013|Now, no one wants to count out 500 bolts, but the guy at the hardware store might say, oh, the bolts weigh a gram, so weigh out 500 grams.
+hSBT6oe6dSA-014|That'll give you your 500 volts.
+hSBT6oe6dSA-015|And you say, but I also need the nuts.
+hSBT6oe6dSA-016|And then you say, oh, the nuts are half as heavy.
+hSBT6oe6dSA-017|They have a half the mass.
+hSBT6oe6dSA-018|Well, then weigh out 250 grams of bolts, half that mass, and you'll be assured you have a nut for every bolt.
+hSBT6oe6dSA-019|You've used the relative mass to match up one to one, nuts and bolts.
+hSBT6oe6dSA-020|That's how we do it in chemistry.
+hSBT6oe6dSA-021|We take one element to be the standard.
+hSBT6oe6dSA-022|Carbon will be the standard, and I'll measure all my relative masses relative to carbon-12.
+hSBT6oe6dSA-026|Now, it's not one to one particles.
+hSBT6oe6dSA-034|So a mole of carbon-12 particles is 6.02 times 10 to the 23rd, and that has a mass of 12 grams.
+hSBT6oe6dSA-035|So the units we'll use are 12 grams per mole of carbon is a mole of carbon.
+hSBT6oe6dSA-036|So that's how we're going to make the connection between macroscopic properties and microscopic properties.
+hSBT6oe6dSA-037|We're going to use Avogadro's constant and our concept of the mole.
+8pdWHCJSkso-000|Acid strength depends on a variety of factors.
+8pdWHCJSkso-001|One of those factors is the polarity of the bond involving the hydrogen.
+8pdWHCJSkso-004|So that bond becomes more polar, and the acid strength will increase.
+8pdWHCJSkso-005|Stronger acid, slightly weaker acid, slightly weaker acid.
+8pdWHCJSkso-009|So let's correlate these.
+8pdWHCJSkso-010|The strongest acid, slightly weaker, slightly weaker.
+8pdWHCJSkso-011|Now, electron activity is also a factor.
+8pdWHCJSkso-013|This effect, this electron withdrawing group, electronegativity, can be observed at a distance.
+8pdWHCJSkso-014|Here's acetic acid and chloroacetic acid.
+8pdWHCJSkso-015|A chlorine that's even several bonds away from the acidic proton can still have an effect.
+8pdWHCJSkso-016|And indeed, chloroacetic acid is a stronger acid than acetic acid.
+TmKL0W2skJM-002|And you could talk about a specific heat capacity, in terms of grams, or a molar heat capacity, in terms of the number of moles of a substance.
+TmKL0W2skJM-003|Now, heat capacity works just like volumetric capacity, where heat and fluid have the same role.
+TmKL0W2skJM-009|Let's say, here's water flow, colored so we can see it, and it flows into this high capacity flask.
+TmKL0W2skJM-010|And we'll raise the height, say, 5 or 6 inches, and look how much liquid it takes to do that.
+TmKL0W2skJM-011|That's a high capacity.
+TmKL0W2skJM-012|It took a lot of flow to get this kind of change in height.
+TmKL0W2skJM-014|So a small amount of fluid, large amount of height change, that would be a low heat capacity.
+TmKL0W2skJM-028|4 joules of heat to solid water, I'll change the temperature by 2 degrees.
+TmKL0W2skJM-029|They have about a factor of 2 in their heat capacity.
+TmKL0W2skJM-032|It's the conversion factor between heat flow and temperature change.
+TmKL0W2skJM-033|Temperature changes are very easy to measure.
+TmKL0W2skJM-034|Stick a thermometer in, and you can measure a temperature change.
+GU4UnHFVWzA-000|Let's look at the formation of some ionic bonds.
+GU4UnHFVWzA-001|Bromine will form ionic bonds with several atoms.
+GU4UnHFVWzA-010|We're looking for a bromide that's 80% bromine by mass.
+GU4UnHFVWzA-011|And we have three possible candidates to react with the bromine.
+GU4UnHFVWzA-013|The question is do they react?
+GU4UnHFVWzA-015|It's relatively stable as it is.
+GU4UnHFVWzA-016|So neon bromide actually doesn't even form.
+GU4UnHFVWzA-017|What about potassium?
+GU4UnHFVWzA-019|BR minus and K plus, potassium bromide, though doesn't fulfill our 80% bromine requirement.
+GU4UnHFVWzA-020|Now, bromine and calcium, you have two valence electrons.
+GU4UnHFVWzA-024|So you have a Coulombic interaction between the plus 2 calcium and the 2 minus bromides.
+GU4UnHFVWzA-025|So this compound has a total mass of 200-- 80, 80, and 40.
+GU4UnHFVWzA-026|And 160 of that 200, or 80%, is bromine.
+GU4UnHFVWzA-027|So here's a bromide that's 80% bromine by mass and it's formed with calcium.
+LPol-lH6nmI-000|Let's look at the ionization energy for a species we haven't talked about yet, the Cl- ion.
+LPol-lH6nmI-010|We're trying to determine the ionization energy of the Cl- ion.
+LPol-lH6nmI-014|That is, we're trying to ionize Cl-, that is take Cl- down to an electron and Cl.
+LPol-lH6nmI-015|So it's the reverse of the electron affinity reaction.
+LPol-lH6nmI-016|If you reverse a reaction, you take the opposite of the energy.
+LPol-lH6nmI-018|For this reaction, it takes 349 kilojoules per mole to remove an electron from Cl-.
+wnGMFRnbik4-000|Let's review the orbitals about an atom.
+wnGMFRnbik4-001|For an atom like hydrogen with a single electron, there's a variety of orbitals that the electron can exist in.
+wnGMFRnbik4-002|The orbitals will be designated by three quantum numbers-- n, l, and m sub l.
+wnGMFRnbik4-005|Two is at an energy level above that.
+wnGMFRnbik4-006|And anything with n equal two is at the same energy for a one electron system.
+wnGMFRnbik4-007|That's because the electron has the whole space to itself.
+wnGMFRnbik4-008|It can always see the nucleus.
+wnGMFRnbik4-009|There are no other electrons to either repel the electron or shield the electron from the nucleus.
+wnGMFRnbik4-010|So wherever it exists in n equal two, it has the same relative energy.
+wnGMFRnbik4-011|Wherever it exists in n equal 3 it has the same relative energy.
+wnGMFRnbik4-012|If you start adding more electrons, those energy levels are perturbed slightly.
+wnGMFRnbik4-013|And within n equal two and within n equal three you'll get differences in energy.
+wnGMFRnbik4-014|So let's look at those more carefully and see how one electron can shield other electrons.
+GE6ypnVaqlY-000|Particles can behave like waves.
+GE6ypnVaqlY-001|They can have a wave-like property.
+GE6ypnVaqlY-005|Here's a list of particles and their de Broglie wavelengths.
+GE6ypnVaqlY-010|A sodium atom at 800 or 80 Calvin, that's a temperature.
+GE6ypnVaqlY-011|That determines the average speed in the system.
+GE6ypnVaqlY-012|The average speed of those particles is around 300 meters per second.
+GE6ypnVaqlY-013|We know they are sodium atoms, so we know their mass.
+GE6ypnVaqlY-014|They have a momentum.
+GE6ypnVaqlY-015|I can calculate a wavelength, a few hundredths of a nanometer.
+GE6ypnVaqlY-016|Now, let's take a baseball, an object that we know the size and mass of, a macroscopic object.
+GE6ypnVaqlY-018|That's a very good fastball.
+GE6ypnVaqlY-019|We can calculate, using the de Broglie relationship, the wavelength.
+GE6ypnVaqlY-020|But look at how small the number is.
+GE6ypnVaqlY-022|Then We were already at nanometers, 10 to the minus 9.
+GE6ypnVaqlY-027|And you don't notice a wavelength because the wavelength is vanishingly small.
+GE6ypnVaqlY-028|In order for the wave-like properties of matter to manifest itself, the matter must be very tiny.
+GE6ypnVaqlY-029|If you have very, very tiny matter with very tiny momenta, then the wavelength creeps up into a region where you could actually detect it.
+GE6ypnVaqlY-030|So particle and wave nature of matter is going to be important for small particles, but not for macroscopic large particles.
+GE6ypnVaqlY-031|We don't even notice it.
+zBEZZMWo5uM-000|Let's look at a chemical reaction in the gas phase.
+zBEZZMWo5uM-001|I'm going to take methane and burn it in oxygen.
+zBEZZMWo5uM-002|I'll take a fixed volume, 1 atmosphere of methane, 2 atmospheres of oxygen in a 1-liter flask, constant high temperature.
+zBEZZMWo5uM-003|Let the reaction go to completion.
+zBEZZMWo5uM-004|What's the final total pressure?
+zBEZZMWo5uM-014|We're looking at the combustion of methane in a fixed volume.
+zBEZZMWo5uM-015|Here I've written the combustion reaction, and I've balanced the chemical reaction.
+v6gyWKD2W8U-000|We can write acid-base equilibrium reactions for weak acids or weak bases.
+WD5ZIBhyy2A-009|When a chemical reaction occurs, the numbers and kinds of atoms have to be conserved.
+WD5ZIBhyy2A-014|So these other two, if you do the analysis, don't have the correct numbers and kinds in two moles to form oxygen and water.
+3ZA4WQE5EU8-000|Let's look at how the carbon atom hybridisation changes in a polymerization reaction.
+3ZA4WQE5EU8-001|We'll take ethylene, C2H4, and polymerize it into polyethylene.
+3ZA4WQE5EU8-002|The question is, how does the hybridization change?
+3ZA4WQE5EU8-010|Correct answer here-- sp2 to sp3.

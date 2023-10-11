@@ -1,0 +1,200 @@
+lpGVGcIVYs4-000|So let's talk about absorption of light in terms of the ChemQuiz.
+lpGVGcIVYs4-001|If you have an object that has an absorption spectrum that looks like this, what color is that object?
+lpGVGcIVYs4-009|An object that has an absorption spectrum that looks like this is absorbing strongly in the reds and yellows and passing wavelengths in the blue.
+7W0cz0oGHGE-000|Let's do a calculation involving mixtures of gases and the ideal gas law.
+7W0cz0oGHGE-001|Now, when you have a mixture, each gas behaves like it has the whole volume to itself.
+7W0cz0oGHGE-003|Each gas will exert what's called a partial pressure.
+7W0cz0oGHGE-004|So a partial pressure of oxygen plus the partial pressure of nitrogen in a mixture is the total pressure.
+7W0cz0oGHGE-005|Each gas behaving like the other gas is not even there.
+7W0cz0oGHGE-006|It's occupying entire volume by itself.
+7W0cz0oGHGE-009|So let's figure out the partial pressure of oxygen in this flask to start with.
+7W0cz0oGHGE-010|I can do that from the number of moles, the temperature, and the size of the flask.
+7W0cz0oGHGE-011|Apply the ideal gas law.
+7W0cz0oGHGE-012|Now, there's also nitrogen in the flask, but it doesn't matter.
+7W0cz0oGHGE-013|The oxygen behaves like it has the whole flask to itself.
+7W0cz0oGHGE-018|So you have two gases, each exerting a partial pressure.
+7W0cz0oGHGE-019|The total pressure is the sum of the two.
+7W0cz0oGHGE-027|The mole fraction from this expression is also the partial pressure of oxygen over the total pressure.
+7W0cz0oGHGE-028|So I can figure out the fraction of oxygen particles from the relationship between the pressures.
+7W0cz0oGHGE-032|So the fraction of the pressure that comes from oxygen-- 2.4-- gives you the mole fraction in the sample.
+7W0cz0oGHGE-033|So the fraction of the molecules that are oxygen are 0.83.
+7W0cz0oGHGE-039|Well let's just calculate from the ideal gas law.
+7W0cz0oGHGE-041|So the pressure is going to go down by 0.48 atmospheres when I remove 0.02 moles of gas.
+7W0cz0oGHGE-042|So the total pressure is going to be reduced by around half an atmosphere.
+7W0cz0oGHGE-043|The mole fraction in the flask stays the same.
+7W0cz0oGHGE-044|Every sample of gas is still going to have about 8 oxygen particles and 2 nitrogen particles.
+7W0cz0oGHGE-045|They're always going to be in that same ratio.
+7W0cz0oGHGE-046|So mole fractions remain unchanged.
+7W0cz0oGHGE-047|That's key.
+7W0cz0oGHGE-048|So now if I know the pressure goes down by about half an atmosphere, well, the total pressure used to be 2.9.
+7W0cz0oGHGE-052|So I know which fraction of this pressure is exerted by the oxygen molecules.
+7W0cz0oGHGE-053|The pressure exerted by the oxygen molecules is the mole fraction of oxygen molecules times the total pressure.
+7W0cz0oGHGE-054|The new total pressure-- 2.4 atmospheres.
+7W0cz0oGHGE-057|So this is a long series of calculations.
+7W0cz0oGHGE-059|So you apply the ideal gas law to each gas, and then add up those pressures to get total pressure.
+7W0cz0oGHGE-060|You can also take mole fractions, multiply them times total pressures to get partial pressures.
+LYwud0w-upg-000|Let's look at both thermodynamic and kinetic influences on a chemical reaction.
+LYwud0w-upg-001|So here's a simple chemical reaction, A going to B.
+LYwud0w-upg-002|And this is an elementary chemical reaction, which means what I've written here is actually what happens on a molecular level.
+LYwud0w-upg-008|Well, thermodynamics applies at equilibrium.
+LYwud0w-upg-009|At equilibrium, the rate of the forward reaction and the rate of the reverse reaction are the same.
+LYwud0w-upg-010|That defines our equilibrium.
+LYwud0w-upg-011|So at equilibrium, the macroscopic concentrations of A and B don't change, but they interconvert-- they just interconvert at equal rates.
+LYwud0w-upg-012|So let's set the forward and reverse rate constants equal.
+LYwud0w-upg-014|Now these aren't the rates, these are just the rate constants.
+LYwud0w-upg-015|And when the A and B reach equilibrium, this is the equilibrium constant.
+LYwud0w-upg-016|So the equilibrium constant is given by the forward rate constant over the reverse rate constant.
+LYwud0w-upg-017|So here we have a link between thermodynamics and kinetics for an elementary chemical reaction.
+VzvinAckmQU-000|Let's look at the sublimation of iodine solid to form iodine gas that's occurring right here in front of me.
+VzvinAckmQU-001|What I have for you is, I'm going to raise the temperature of the system.
+VzvinAckmQU-002|What happens to the color intensity of the iodine gas as the temperature is increased?
+VzvinAckmQU-012|We're looking at the sublimation of iodine solid to form iodine gas.
+VzvinAckmQU-013|The equilibrium expression is K equals the partial pressure of iodine at equilibrium.
+VzvinAckmQU-014|That's the vapor pressure of iodine.
+VzvinAckmQU-015|And that's a function of temperature.
+VzvinAckmQU-019|We have an equilibrium between the solid and the gas, which is a function of temperature.
+VzvinAckmQU-020|And we expect that we'll have an increase in that vapor intensity.
+VzvinAckmQU-021|And we can show that to you.
+VzvinAckmQU-022|Here, I have iodine solid in equilibrium with iodine gas.
+VzvinAckmQU-023|And we can look at that color intensity.
+mgg27LTeNPo-000|When we talk about molecules we can use Lewis electron dot structures to describe the molecules, and those structures are actually pretty predictive.
+mgg27LTeNPo-001|From the Lewis dot structure you can get a lot of information about the geometry.
+mgg27LTeNPo-002|You can get steric numbers, what kind of things a central atom has to accommodate, and how those things will be arranged in space.
+mgg27LTeNPo-003|But there are limitations, obviously, to our Lewis dot structure picture.
+mgg27LTeNPo-004|Electrons aren't dots and bonds aren't little sticks.
+mgg27LTeNPo-005|So we have to go beyond that to a real quantum mechanical explanation of bonding.
+mgg27LTeNPo-006|Our quantum mechanical explanation of bonding, we'll have the electrons behaving like quantum mechanical particles-- particles that have wave-like properties.
+mgg27LTeNPo-007|And when those wave-like properties overlap, they can have constructive interference.
+mgg27LTeNPo-008|They can add together.
+mgg27LTeNPo-009|The amplitude of a wave function can increase when electrons get close to each other.
+mgg27LTeNPo-010|The amplitude increasing leads to a higher probability of finding electrons.
+mgg27LTeNPo-012|So let's see how that would work.
+mgg27LTeNPo-013|In the simplest case, hydrogen, H2, that's a molecule.
+mgg27LTeNPo-014|We understand the hydrogen atom.
+mgg27LTeNPo-015|It has a 1s orbital.
+mgg27LTeNPo-016|So let's bring in another hydrogen.
+mgg27LTeNPo-017|Let's make a hydrogen molecule by bringing together two 1s orbitals.
+mgg27LTeNPo-018|When we bring in those two 1s orbitals, now here I've represented them both as green.
+mgg27LTeNPo-019|And remember, orbitals the wave function will have a sign, either positive or negative.
+mgg27LTeNPo-020|For the 1s orbital, there are no nodes, so the wave function is the same sign everywhere.
+mgg27LTeNPo-021|And I've drawn that as green everywhere.
+mgg27LTeNPo-022|So green is plus, green is plus, these are two wave functions coming together that have positive sign everywhere.
+mgg27LTeNPo-023|As you bring them together, those wave functions can add.
+mgg27LTeNPo-024|The waves, the electrons, can add constructively.
+mgg27LTeNPo-025|The amplitude between the two nuclear centers can increase.
+mgg27LTeNPo-028|Now that's what we call a sigma bonding orbital.
+mgg27LTeNPo-029|Sigma like the Greek s coming from the s orbitals.
+mgg27LTeNPo-030|Another way to think about this is to add them with a negative sign.
+mgg27LTeNPo-036|So there'll be a node in the center, a place where the electron density goes to zero, in the center of this orbital.
+mgg27LTeNPo-037|And we'll call that an antibonding orbital.
+mgg27LTeNPo-038|Sigma star for antibonding.
+mgg27LTeNPo-040|And the sigma star, the antibonding orbital, is higher in energy than the two 1s orbitals.
+mgg27LTeNPo-041|And you would guess that because there's a node in this orbital.
+mgg27LTeNPo-042|And remember, the more nodes in an orbital, the higher the energy in general.
+mgg27LTeNPo-043|So a sigma bonding and antibonding orbital can be formed by adding and subtracting the 1s orbitals.
+mgg27LTeNPo-044|Now we add and subtract because we're taking linear combinations, but we can't lose any orbitals in the process.
+mgg27LTeNPo-045|If we start out with two orbitals on the atoms, we have to form two molecular orbitals.
+mgg27LTeNPo-046|The number of orbitals is going to be conserved.
+mgg27LTeNPo-047|So we need the plus and minus combination to conserve our number of orbitals forming our bonding and antibonding molecular orbital.
+mgg27LTeNPo-048|We can take the electrons then from the atoms and add them to our molecular orbitals.
+mgg27LTeNPo-049|These combinations, when they're overlapped appropriately, give me my sigma bonding and sigma star antibonding orbital.
+mgg27LTeNPo-050|How will the electrons from the atoms fill the molecular orbitals?
+mgg27LTeNPo-051|They'll use the same rules we had for the atoms.
+mgg27LTeNPo-054|So where the hydrogen had unpaired electrons, hydrogen atoms had an unpaired electron, and was paramagnetic.
+mgg27LTeNPo-055|Paramagnetism indicates an unpaired electron with its slight magnetic field.
+mgg27LTeNPo-056|Hydrogen molecules will be diamagnetic.
+mgg27LTeNPo-057|The electron spins will be paired and cancel each other out.
+mgg27LTeNPo-058|So already we have a prediction from our quantum mechanical understanding of bonding.
+mgg27LTeNPo-059|That hydrogen atoms are paramagnetic.
+mgg27LTeNPo-060|Hydrogen molecules are diamagnetic.
+mgg27LTeNPo-062|And that's what we'll do in this lesson.
+lGcvpHgo4R8-004|Well, we have a new unit here, watts, and that's a unit of power-- how much energy is transferred per second, how many joules of heat per second are transferred.
+lGcvpHgo4R8-005|So a 100 watt heater can transfer 100 joules of heat to a system for every second.
+lGcvpHgo4R8-006|So it's going to operate for 10 minutes while the system does work.
+lGcvpHgo4R8-011|Now, the system's also doing work.
+lGcvpHgo4R8-012|The question is, did I use all of those 60,000 joules to do work?
+lGcvpHgo4R8-013|Or did I use fewer or more than 60,000 joules of work?
+lGcvpHgo4R8-014|If I use exactly 60,000 joules to do the work, then my temperature won't change-- I'll absorb 60,000 joules and do 60,000 jewels of work.
+lGcvpHgo4R8-015|So it's interesting to see.
+lGcvpHgo4R8-016|Did the temperature change?
+lGcvpHgo4R8-024|And here, now I have a problem-- my heat I calculated in joules, but my work I calculated in liter-atmospheres.
+lGcvpHgo4R8-025|Liter-atmospheres is a totally fine unit of energy, they're just not the same, so I have to change one to the other.
+lGcvpHgo4R8-026|So let's change Liter-atmospheres to joules.
+lGcvpHgo4R8-027|And I never remember what the conversion factor is, but I do remember the two gas constants.
+lGcvpHgo4R8-028|I know one in joules-- 8.314-- and one in liter-atmospheres-- 0.082.
+lGcvpHgo4R8-034|So about 800 joules of work are done by the system.
+lGcvpHgo4R8-035|So it does about 800 joules of work, but absorbs 60,000 joules from the heater.
+lGcvpHgo4R8-036|So clearly its internal energy is going to go way up.
+lGcvpHgo4R8-037|Its internal energy is going to go up by the difference, heat plus the work-- and in this case, the work is negative.
+lGcvpHgo4R8-038|So it's the heat I absorbed minus the work I did, or an internal energy change of 59,210 joules.
+7RrOhe6SSj0-000|Let's look at a classic chemical reaction, hydrogen plus oxygen, forming water, under three sets of circumstances.
+7RrOhe6SSj0-001|One, we ignite the reaction.
+7RrOhe6SSj0-002|Two, we add platinum.
+7RrOhe6SSj0-003|Three, we let the reaction go.
+7RrOhe6SSj0-011|So none of these change their equilibrium constant under these effects.
+7RrOhe6SSj0-012|The equilibrium constant for each of these is the same.
+0G0wCm28Jzc-000|One form of heterogeneous equilibrium is solids dissolving in liquids.
+0G0wCm28Jzc-003|It breaks apart into two ions.
+0G0wCm28Jzc-004|But barium sulfate is only sparingly soluble.
+0G0wCm28Jzc-005|It doesn't dissolve very much.
+0G0wCm28Jzc-006|In fact, if we write the equilibrium expression for this, we'll find the equilibrium constant is less than 1.
+0G0wCm28Jzc-007|It favors the solid.
+0G0wCm28Jzc-008|So let's write that down.
+0G0wCm28Jzc-011|So the reaction quotient is actually just a reaction product, the product of the two ions.
+0G0wCm28Jzc-017|So this reaction doesn't go towards products very far at all.
+0G0wCm28Jzc-018|It very much favors the reactant side.
+0G0wCm28Jzc-019|So a small Ksp, what is the solubility then of barium sulfate?
+0G0wCm28Jzc-020|Well, you can say if x moles dissolves, that will form x moles of barium and x moles of sulfate.
+0G0wCm28Jzc-022|So that's an x of about 10 to the minus fifth molar.
+0G0wCm28Jzc-023|So very, very, very few molders.
+0G0wCm28Jzc-024|Just 100 thousandth of a mole dissolves in about a liter of water.
+0G0wCm28Jzc-025|So very low concentration.
+0G0wCm28Jzc-026|This is a solubility product for a sparingly soluble solid.
+AGZZGR5Otxw-000|Electromagnetic radiation is composed of wavelengths from very, very long to very, very short.
+AGZZGR5Otxw-001|We've talked about the relationship between the wavelength, the frequency, and the speed of electromagnetic radiation.
+AGZZGR5Otxw-002|In fact, the product of the wavelength and the frequency is the speed.
+AGZZGR5Otxw-003|For electromagnetic radiation, light, speed is fixed at the speed of light.
+AGZZGR5Otxw-004|So if the wavelength increases the frequency has to decrease.
+AGZZGR5Otxw-005|They're inversely proportional.
+AGZZGR5Otxw-006|And you can see I have wavelength increasing here and frequency increasing here.
+AGZZGR5Otxw-007|The visible region, in particular, we're going to talk a lot about because we can perceive the length of the radiation by the color.
+AGZZGR5Otxw-008|So we can make that easy connection between a wave and its length by the color that we see.
+AGZZGR5Otxw-011|In fact, this kind of spells a guy's name-- ROY G BIV from long to short wavelengths.
+AGZZGR5Otxw-012|I often write that down, and I can remember the colors of the rainbow.
+AGZZGR5Otxw-013|Now there's more properties to electromagnetic radiation and waves in general.
+AGZZGR5Otxw-014|For instance, the intensity-- we haven't touched on that yet.
+AGZZGR5Otxw-015|You can think of the intensity of waves in the ocean as their height as they come in to the shore.
+AGZZGR5Otxw-016|A big wave would be an intense wave-- a tall wave an intense wave.
+AGZZGR5Otxw-017|How do we do that for our electromagnetic radiation?
+AGZZGR5Otxw-018|Well, let's talk about intensity more as we go through this talk.
+IqvWdvsDGhs-000|I'm going to mix a solution of weak acid and weak base.
+IqvWdvsDGhs-015|So we can actually do the experiment.
+IqvWdvsDGhs-016|Here I have the weak acid HAc, acetic acid, the weak base NH3, ammonia.
+IqvWdvsDGhs-017|I'll mix them.
+IqvWdvsDGhs-018|Equal concentrations, equal volumes.
+IqvWdvsDGhs-019|And you can see the pH goes to about neutral.
+IqvWdvsDGhs-020|Now, this is actually interesting.
+IqvWdvsDGhs-025|Now, what about the conductivity?
+IqvWdvsDGhs-026|We have neutral solution.
+IqvWdvsDGhs-027|Will there be a lot of ions, a few ions, or all the ions consumed?
+IqvWdvsDGhs-028|Let's have a look.
+IqvWdvsDGhs-029|Here's my conductivity meter, qualitative.
+IqvWdvsDGhs-030|Bright light, dim light, or no light?
+IqvWdvsDGhs-031|Bright light.
+IqvWdvsDGhs-032|Now that's interesting.
+IqvWdvsDGhs-033|Weak acid and weak base by themselves produce a small amount of ions.
+IqvWdvsDGhs-034|When I mix them together, a lot of ions are produced in solution.
+IqvWdvsDGhs-035|So in this case, I have NH4 plus and Ac minus ions in high concentration.
+IqvWdvsDGhs-036|The correct answer here is neutral and bright light.
+IqvWdvsDGhs-037|Now, I can look at that in a little different way.
+IqvWdvsDGhs-044|And now have a direct mixing of these two solutions, the HAc and the NH3.
+IqvWdvsDGhs-045|What's the size of the K?
+IqvWdvsDGhs-046|If the K is large, then ions will be favored over this side, which has fewer ions.
+IqvWdvsDGhs-054|This K is around 10 to the 5th, 10 to the plus 5.
+IqvWdvsDGhs-055|This k is very large.
+IqvWdvsDGhs-056|So when you mix these two, the reaction favors the products and forms a lot of ions.
+IqvWdvsDGhs-057|And indeed, I see, favoring the products, a lot of ions in solution and a very bright light.
+myN3PqD38Ds-000|Let's look at a system where some mixing occurs.
+myN3PqD38Ds-001|So I'm going to start with objects on one side and let them spread to both sides.
+myN3PqD38Ds-002|The question I have is as that spreading occurs, which step has the greatest entropy change?
+myN3PqD38Ds-004|Going from step 1 to step 2 of the mixing?
