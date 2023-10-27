@@ -24,7 +24,18 @@ Voice over video samples are available [here](https://ranacm.github.io/DSU-AVO/)
   ```
 ### Data Preparation
 - The full list of Chem dataset can be found at [Lip2Wav dataset](https://github.com/Rudrabha/Lip2Wav/tree/master/Dataset). Download and preprocess the dataset follow [Neural Dubber paper](https://arxiv.org/abs/2110.08243). For preprocessed data, please send an inquiry to the author at junchen@u.nus.edu.
-- To quantize the speech audio data with HuBERT, follow the instructions described in the [GSLM code](https://github.com/pytorch/fairseq/tree/master/examples/textless_nlp/gslm).
+- To quantize the speech audio data with HuBERT, change the first line of ```hubert_tokenizer/chem_manifest.txt``` to audio dataset path, put the pretrained model weights under ```hubert_tokenizer/pretrained_models``` and use the commands provided below. More details and pretrained quantizer models can be found at [GSLM code](https://github.com/pytorch/fairseq/tree/master/examples/textless_nlp/gslm).
+  ```
+  cd hubert_tokenizer
+  python quantize_with_kmeans.py \
+      --feature_type hubert \
+      --kmeans_model_path ../hubert_tokenizer/pretrained_models/km.bin \
+      --acoustic_model_path ../hubert_tokenizer/pretrained_models/hubert_base_ls960.pt \
+      --layer 6 \
+      --manifest_path ../hubert_tokenizer/chem_manifest.txt \
+      --out_quantized_file_path Chem_hubert100.txt \
+      --extension ".wav"
+  ```
 - For visual data preparation, follow the instructions described in [AV-HuBERT preparation](https://github.com/facebookresearch/av_hubert/tree/main/avhubert/preparation).
 
 ### Unit Vocoder
