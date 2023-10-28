@@ -1,0 +1,39 @@
+transformer:
+  encoder_layer: 4
+  encoder_head: 2
+  encoder_hidden: 256
+  decoder_layer: 1
+  decoder_head: 2
+  decoder_hidden: 256
+  conv_filter_size: 1024
+  conv_kernel_size: [9, 1]
+  encoder_dropout: 0.2
+  decoder_dropout: 0.2
+
+sync_transformer:
+  encoder_layer: 2
+  encoder_head: 2
+  encoder_hidden: 256
+  conv_filter_size: 1024
+  conv_kernel_size: [9, 1]
+  encoder_dropout: 0.2
+  decoder_dropout: 0.2
+  max_sync_seq_len: 2200
+
+visual:
+  sync_feat_size: 1024
+
+aligner:
+  n_head: 1 
+  dropout: 0.5 
+  diag_band_width: 50 
+  band_mask_factor: 5
+  repeat_num: 4 # depends on audio preprocessing and video fps
+  residual_connection: True
+  pho_to_con: 2 # repeat num for upsampling phoneme encoder output to match the length of content
+
+output_attn: True
+
+max_seq_len: 3000
+ignore_max_seq_len: True
+accuracy: True

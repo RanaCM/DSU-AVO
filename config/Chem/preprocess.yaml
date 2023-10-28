@@ -1,0 +1,46 @@
+dataset: "Chem"
+
+path:
+  corpus_path: "/path/to/chem/audio"
+  pipeline_path: "pipeline"
+  wav_sub_dir: "pycrop" # "wav_crop" for audio cropped by syncnet pipeline; "wav" for uncropped
+  data_splits_path: "data_splits"
+  lexicon_path: "lexicon/chem-lexicon.txt" 
+  text_path: "data_splits"
+  raw_path: "/path/to/chem/raw_data"
+  con_path: "/path/to/chem/hubert"
+  preprocessed_path: "/path/to/chem/preprocessed_data"
+  sub_dir: "speakers"
+  sub_dir_tg: "TextGrid"
+  sub_dir_duration: "duration"
+  in_dir_lip: "/path/to/chem/lip_embedding"
+
+preprocessing:
+  trim: False # trim leading and tailing silence in wav and visual embeddings
+  use_data_splits: True # use preassigned data split or randomly split
+  val_size: 200 # be consistant with data splits
+  text:
+    text_cleaners: ["english_cleaners"]
+    language: "en"
+  audio:
+    sampling_rate: 16000
+    max_wav_value: 32768.0
+  video:
+    frame_rate: 25
+  stft:
+    filter_length: 1024
+    hop_length: 160
+    win_length: 640
+  mel:
+    n_mel_channels: 80
+    mel_fmin: 0
+    mel_fmax: 8000
+  pitch:
+    feature: "phoneme_level" # support 'phoneme_level' or 'frame_level'
+    normalization: True
+  energy:
+    feature: "phoneme_level" # support 'phoneme_level' or 'frame_level'
+    normalization: True
+  content:
+    con_frame_rate: 50
+    n_centroids: 100

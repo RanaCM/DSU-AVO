@@ -1,0 +1,18 @@
+path:
+  ckpt_path: "./output_aligner/ckpt/Chem"
+  log_path: "./output_aligner/log/Chem"
+  result_path: "./output_aligner/result/Chem"
+optimizer:
+  batch_size: 16
+  betas: [0.9, 0.98]
+  eps: 0.000000001
+  weight_decay: 0.0
+  grad_clip_thresh: 1.0
+  grad_acc_step: 1
+  warm_up_step: 4000
+step:
+  total_step: 100000
+  log_step: 50
+  synth_step: 500
+  val_step: 500
+  save_step: 1000
