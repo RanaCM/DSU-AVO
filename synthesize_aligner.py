@@ -128,7 +128,7 @@ if __name__ == "__main__":
     configs = (preprocess_config, model_config, train_config)
 
     # Get model
-    model = get_model_aligner(args, configs, device, train=False, output_attn=args.output_attn)
+    model = get_model_aligner(args, configs, device, train=False, output_attn=True)
 
     # Get dataset
     dataset = Dataset(args.source, preprocess_config, model_config, train_config)
@@ -139,4 +139,4 @@ if __name__ == "__main__":
     )
     tag = None
 
-    encode(model, args.restore_step, configs, batchs, tag, args.output_attn)
+    encode(model, args.restore_step, configs, batchs, tag, True)
