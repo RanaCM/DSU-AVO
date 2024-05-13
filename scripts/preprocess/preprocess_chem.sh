@@ -1,0 +1,1 @@
+python preprocess_chem.py config/Chem_16k_crop_phoneme_untrimmed/preprocess.yaml

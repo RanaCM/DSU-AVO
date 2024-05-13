@@ -1,0 +1,1 @@
+python train_aligner.py -p config/Chem_16k_crop_untrimmed_avhubertv_huberttoken_dec1_res_acc/preprocess.yaml -m config/Chem_16k_crop_untrimmed_avhubertv_huberttoken_dec1_res_acc/model.yaml -t config/Chem_16k_crop_untrimmed_avhubertv_huberttoken_dec1_res_acc/train.yaml

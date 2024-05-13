@@ -1,0 +1,1 @@
+python synthesize_aligner.py --mode batch --source test.txt --restore_step 20000 --output_attn True -p config/Chem_16k_crop_untrimmed_avhubertv_huberttoken_dec1_res_acc/preprocess.yaml -m config/Chem_16k_crop_untrimmed_avhubertv_huberttoken_dec1_res_acc/model.yaml -t config/Chem_16k_crop_untrimmed_avhubertv_huberttoken_dec1_res_acc/train.yaml
