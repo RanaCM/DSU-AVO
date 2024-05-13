@@ -36,4 +36,3 @@ output_attn: True
 
 max_seq_len: 3000
 ignore_max_seq_len: True
-accuracy: True

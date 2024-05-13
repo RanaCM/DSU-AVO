@@ -62,3 +62,4 @@ If you find our work interesting, please consider citing our paper:
 - [ming024's FastSpeech2 implementation](https://github.com/ming024/FastSpeech2/tree/master)
 - [Speech Resynthesis](https://github.com/facebookresearch/speech-resynthesis)
 - [SyncNet](https://github.com/joonson/syncnet_python)
+- [GSLM](https://github.com/pytorch/fairseq/tree/master/examples/textless_nlp/gslm)
