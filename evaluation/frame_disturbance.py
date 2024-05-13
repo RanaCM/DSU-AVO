@@ -90,9 +90,9 @@ def calculate_frame_disturbance_wav(wavpath_a, wavpath_sto, wavpath_b, wavpath):
 
 def evaluate_wav_all():
     
-    dirpath_1 = '/data07/junchen/Expressive-FastSpeech2/continuous-vp/output_aligner/result/Chem_16k_crop_untrimmed_avhubertv_huberttoken_dec1_res_acc/11k/wav' # mel
-    dirpath_2 = '/data07/junchen/Expressive-FastSpeech2/continuous-vp/output_aligner/result/Chem_16k_crop_untrimmed_avhubertv_huberttoken_dec1_res_acc/18k/wav' # unit
-    dirpath_3 = '/data07/junchen/Expressive-FastSpeech2/continuous-vp/output_aligner/result/Chem_16k_crop_untrimmed_avhubertv_huberttoken_dec1_res_acc/20k/wav'
+    dirpath_1 = '/path/to/dsu-avo/output_aligner/result/Chem_16k_crop_untrimmed_avhubertv_huberttoken_dec1_res_acc/11k/wav' # mel
+    dirpath_2 = '/path/to/dsu-avo/output_aligner/result/Chem_16k_crop_untrimmed_avhubertv_huberttoken_dec1_res_acc/18k/wav' # unit
+    dirpath_3 = '/path/to/dsu-avo/output_aligner/result/Chem_16k_crop_untrimmed_avhubertv_huberttoken_dec1_res_acc/20k/wav'
     dirpath_gt = '/data07/junchen/Chem/gt_test/audio' # ground truth / trimmed original audios from GRID
     csvname = 'fd_test_dsu11_dsu18_dsu20.csv'
     
